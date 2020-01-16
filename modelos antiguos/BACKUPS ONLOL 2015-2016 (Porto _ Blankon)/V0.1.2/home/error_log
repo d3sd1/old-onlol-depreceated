@@ -1,0 +1,75 @@
+[08-Mar-2016 21:35:26 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/sczhmszf/public_html/kernel/class/lol.php:254
+Stack trace:
+#0 /home/sczhmszf/public_html/home/profile.php(1153): lol::summoner_id2name(60731356)
+#1 {main}
+  thrown in /home/sczhmszf/public_html/kernel/class/lol.php on line 254
+[08-Mar-2016 21:35:31 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/sczhmszf/public_html/kernel/class/lol.php:254
+Stack trace:
+#0 /home/sczhmszf/public_html/home/profile.php(1153): lol::summoner_id2name(60731356)
+#1 {main}
+  thrown in /home/sczhmszf/public_html/kernel/class/lol.php on line 254
+[08-Mar-2016 20:40:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/sczhmszf/public_html/home/profile.php on line 697
+[08-Mar-2016 20:40:29 UTC] PHP Parse error:  syntax error, unexpected ''/base/0.png\"></div><div clas' (T_ENCAPSED_AND_WHITESPACE) in /home/sczhmszf/public_html/home/profile.php on line 1179
+[10-Mar-2016 22:26:54 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v1.3/game/by-summoner//recent?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[10-Mar-2016 22:26:54 Europe/Madrid] PHP Warning:  Illegal string offset 'games' in /home/sczhmszf/public_html/home/profile.php on line 242
+[10-Mar-2016 22:26:54 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile.php on line 242
+[10-Mar-2016 22:26:54 Europe/Madrid] PHP Notice:  Undefined index:  in /home/sczhmszf/public_html/home/profile.php on line 1171
+[10-Mar-2016 22:26:54 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/sczhmszf/public_html/kernel/class/lol.php:230
+Stack trace:
+#0 /home/sczhmszf/public_html/home/profile.php(1173): lol::champ_id2name(NULL)
+#1 {main}
+  thrown in /home/sczhmszf/public_html/kernel/class/lol.php on line 230
+[10-Mar-2016 23:37:10 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v1.3/game/by-summoner//recent?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[10-Mar-2016 23:37:10 Europe/Madrid] PHP Warning:  Illegal string offset 'games' in /home/sczhmszf/public_html/home/profile.php on line 242
+[10-Mar-2016 23:37:10 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile.php on line 242
+[10-Mar-2016 23:37:10 Europe/Madrid] PHP Notice:  Undefined index:  in /home/sczhmszf/public_html/home/profile.php on line 1171
+[10-Mar-2016 23:37:10 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/sczhmszf/public_html/kernel/class/lol.php:230
+Stack trace:
+#0 /home/sczhmszf/public_html/home/profile.php(1173): lol::champ_id2name(NULL)
+#1 {main}
+  thrown in /home/sczhmszf/public_html/kernel/class/lol.php on line 230
+[10-Mar-2016 23:45:03 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v1.3/game/by-summoner//recent?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[10-Mar-2016 23:45:03 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/home/profile.php on line 242
+[10-Mar-2016 23:45:03 Europe/Madrid] PHP Notice:  Undefined index:  in /home/sczhmszf/public_html/home/profile.php on line 1174
+[10-Mar-2016 23:45:03 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/sczhmszf/public_html/kernel/class/lol.php:230
+Stack trace:
+#0 /home/sczhmszf/public_html/home/profile.php(1176): lol::champ_id2name(NULL)
+#1 {main}
+  thrown in /home/sczhmszf/public_html/kernel/class/lol.php on line 230
+[10-Mar-2016 23:52:51 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v1.3/game/by-summoner//recent?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[10-Mar-2016 23:52:51 Europe/Madrid] PHP Notice:  Undefined index:  in /home/sczhmszf/public_html/home/profile.php on line 1177
+[10-Mar-2016 23:52:51 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_row() on boolean in /home/sczhmszf/public_html/kernel/class/lol.php:230
+Stack trace:
+#0 /home/sczhmszf/public_html/home/profile.php(1179): lol::champ_id2name(NULL)
+#1 {main}
+  thrown in /home/sczhmszf/public_html/kernel/class/lol.php on line 230
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Notice:  Undefined index: search_num in /home/sczhmszf/public_html/kernel/class/onlol.php on line 230
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Notice:  Undefined index: search_num in /home/sczhmszf/public_html/kernel/class/onlol.php on line 230
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 188
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 192
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Warning:  Illegal string offset 'region' in /home/sczhmszf/public_html/kernel/class/template.php on line 174
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Warning:  Illegal string offset 'icon' in /home/sczhmszf/public_html/kernel/class/template.php on line 175
+[11-Mar-2016 14:33:33 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/template.php on line 179
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Notice:  Undefined index: search_num in /home/sczhmszf/public_html/kernel/class/onlol.php on line 230
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Notice:  Undefined index: search_num in /home/sczhmszf/public_html/kernel/class/onlol.php on line 230
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Warning:  Illegal string offset 'search_num' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 230
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 188
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 192
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Warning:  Illegal string offset 'region' in /home/sczhmszf/public_html/kernel/class/template.php on line 174
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Warning:  Illegal string offset 'icon' in /home/sczhmszf/public_html/kernel/class/template.php on line 175
+[11-Mar-2016 14:33:53 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/template.php on line 179
+[11-Mar-2016 14:34:03 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 188
+[11-Mar-2016 14:34:03 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 192
+[11-Mar-2016 14:34:03 Europe/Madrid] PHP Warning:  Illegal string offset 'region' in /home/sczhmszf/public_html/kernel/class/template.php on line 174
+[11-Mar-2016 14:34:03 Europe/Madrid] PHP Warning:  Illegal string offset 'icon' in /home/sczhmszf/public_html/kernel/class/template.php on line 175
+[11-Mar-2016 14:34:03 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/template.php on line 179
+[12-Mar-2016 23:00:19 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 188
+[12-Mar-2016 23:00:19 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 192
+[12-Mar-2016 23:00:19 Europe/Madrid] PHP Warning:  Illegal string offset 'region' in /home/sczhmszf/public_html/kernel/class/template.php on line 174
+[12-Mar-2016 23:00:19 Europe/Madrid] PHP Warning:  Illegal string offset 'icon' in /home/sczhmszf/public_html/kernel/class/template.php on line 175
+[12-Mar-2016 23:00:19 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/template.php on line 179
+[12-Mar-2016 23:00:58 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 188
+[12-Mar-2016 23:00:58 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 192
+[12-Mar-2016 23:00:58 Europe/Madrid] PHP Warning:  Illegal string offset 'region' in /home/sczhmszf/public_html/kernel/class/template.php on line 174
+[12-Mar-2016 23:00:58 Europe/Madrid] PHP Warning:  Illegal string offset 'icon' in /home/sczhmszf/public_html/kernel/class/template.php on line 175
+[12-Mar-2016 23:00:58 Europe/Madrid] PHP Warning:  Illegal string offset 'time' in /home/sczhmszf/public_html/kernel/class/template.php on line 179

@@ -1,0 +1,128 @@
+DirectoryIndex index.php
+ErrorDocument 400     /400.php
+ErrorDocument 401     /401.php
+ErrorDocument 403     /403.php
+ErrorDocument 404     /404.php
+ErrorDocument 500     /500.php
+#No indexar la web
+Options -Indexes
+#Prohibir acceder al .htaccess
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+#force www
+<IfModule mod_rewrite.c>
+  RewriteCond %{HTTPS} !=on
+  RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
+  RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+</IfModule>
+
+##cache data
+<IfModule mod_expires.c>
+  ExpiresActive on
+
+  # Por defecto 1 mes de caché
+  ExpiresDefault                          "access plus 1 month"
+
+  # los manifiestos appcache necesitan solicitarse cada vez, por firefox 3.6 (probablemente no necesario actualmente?
+  ExpiresByType text/cache-manifest       "access plus 0 seconds"
+
+  # El HTML nunca debe de ser cacheado
+  ExpiresByType text/html                 "access plus 0 seconds"
+
+  # Los datos dinámicos tampoco (tal vez podría variar dependiendo de tu aplicación)
+  ExpiresByType text/xml                  "access plus 0 seconds"
+  ExpiresByType image/cur                  "access plus 0 seconds"
+  ExpiresByType application/xml           "access plus 0 seconds"
+  ExpiresByType application/json          "access plus 0 seconds"
+
+  # Una hora para los feeds (cambiar dependiendo de la fecha de actualización de tu web)
+  ExpiresByType application/rss+xml       "access plus 1 hour"
+  ExpiresByType application/atom+xml      "access plus 1 hour"
+
+  # Favicon (Sólo una semana porque el nombre no cambia, luego podría haber cambios y mantenerse el cacheado)
+  ExpiresByType image/x-icon              "access plus 1 week"
+
+  # Imágenes, vídeo, audio: 1 mes
+  ExpiresByType image/gif                 "access plus 1 month"
+  ExpiresByType image/png                 "access plus 1 month"
+  ExpiresByType image/jpeg                "access plus 1 month"
+  ExpiresByType video/ogg                 "access plus 1 month"
+  ExpiresByType audio/ogg                 "access plus 1 month"
+  ExpiresByType video/mp4                 "access plus 1 month"
+  ExpiresByType video/webm                "access plus 1 month"
+
+  # Fuentes web: 1 mes
+  ExpiresByType application/x-font-ttf    "access plus 1 month"
+  ExpiresByType font/opentype             "access plus 1 month"
+  ExpiresByType application/x-font-woff   "access plus 1 month"
+  ExpiresByType image/svg+xml             "access plus 1 month"
+  ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+
+  # CSS y JavaScript: 1 año. Ten en cuenta que si cambias los ficheros deberías usar una query string o un nombre de archivo diferente para evitar que los visitantes reciban archivos cacheados.
+  ExpiresByType text/css                  "access plus 1 week"
+  ExpiresByType application/javascript    "access plus 1 week"
+
+</IfModule>
+
+# Eliminar E-Tag
+# Estamos enviando periodos de caché muy amplios, así que no es necesario que el navegador compruebe mediante E-Tag si el fichero cambió
+<IfModule mod_headers.c>
+  Header unset ETag
+</IfModule>
+FileETag None
+
+## Compress data
+<IfModule mod_deflate.c>
+    # Force compression for mangled headers.
+    # http://developer.yahoo.com/blogs/ydn/posts/2010/12/pushing-beyond-gzipping
+    <IfModule mod_setenvif.c>
+        <IfModule mod_headers.c>
+            SetEnvIfNoCase ^(Accept-EncodXng|X-cept-Encoding|X{15}|~{15}|-{15})$ ^((gzip|deflate)\s*,?\s*)+|[X~-]{4,13}$ HAVE_Accept-Encoding
+            RequestHeader append Accept-Encoding "gzip,deflate" env=HAVE_Accept-Encoding
+        </IfModule>
+    </IfModule>
+
+    <IfModule mod_filter.c>
+        AddOutputFilterByType DEFLATE application/atom+xml \
+                                      application/javascript \
+                                      application/json \
+                                      application/rss+xml \
+                                      application/vnd.ms-fontobject \
+                                      application/x-font-ttf \
+                                      application/x-web-app-manifest+json \
+                                      application/xhtml+xml \
+                                      application/xml \
+                                      font/opentype \
+                                      image/svg+xml \
+                                      image/x-icon \
+                                      text/css \
+                                      text/html \
+                                      text/plain \
+                                      text/x-component \
+                                      text/xml
+    </IfModule>
+
+</IfModule>
+##Encoding
+AddDefaultCharset utf-8
+AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
+##Arreglar alguna cosilla del puto internet explorer
+<IfModule mod_headers.c>
+    Header set X-UA-Compatible "IE=edge,chrome=1"
+    # Sólo queremos añadirlo para páginas HTML, el resto es un desperdicio de ancho de banda
+    <FilesMatch "\.(appcache|crx|css|eot|gif|htc|ico|jpe?g|js|m4a|m4v|manifest|mp4|oex|oga|ogg|ogv|otf|pdf|png|safariextz|svg|svgz|ttf|vcf|webapp|webm|webp|woff|xml|xpi)$">
+        Header unset X-UA-Compatible
+    </FilesMatch>
+</IfModule>
+#Rewrite para leer perfil de campeones
+RewriteEngine on
+DirectoryIndex start/index.php
+RewriteRule ^start?$ /start/index.php
+RewriteRule ^home?$ /home/index.php
+RewriteRule ^home/?$ /home/index.php
+RewriteRule ^search_results?$ /kernel/search/dynamic_json.php
+RewriteRule ^lang/(\w+)/?$ /kernel/lang_switch.php?lang=$1 [L]
+RewriteRule ^region/(\w+)/?$ /kernel/region_switch.php?region=$1 [L]
+RewriteRule ^summoner/(\w+)/(.*)?$ home/profile.php?region=$1&&summoner=$2 [L]

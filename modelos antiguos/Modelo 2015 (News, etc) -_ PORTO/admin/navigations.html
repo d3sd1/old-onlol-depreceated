@@ -1,0 +1,1175 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Umega App - Navigations</title>
+    <!-- PACE-->
+    <link rel="stylesheet" type="text/css" href="plugins/PACE/themes/blue/pace-theme-flash.css">
+    <script type="text/javascript" src="plugins/PACE/pace.min.js"></script>
+    <!-- Bootstrap CSS-->
+    <link rel="stylesheet" type="text/css" href="plugins/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Fonts-->
+    <link rel="stylesheet" type="text/css" href="plugins/themify-icons/themify-icons.css">
+    <link rel="stylesheet" type="text/css" href="plugins/font-awesome/css/font-awesome.min.css">
+    <!-- Malihu Scrollbar-->
+    <link rel="stylesheet" type="text/css" href="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css">
+    <!-- Animo.js-->
+    <link rel="stylesheet" type="text/css" href="plugins/animo.js/animate-animo.min.css">
+    <!-- Bootstrap Progressbar-->
+    <link rel="stylesheet" type="text/css" href="plugins/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css">
+    <!-- Summernote-->
+    <link rel="stylesheet" type="text/css" href="plugins/summernote/dist/summernote.css">
+    <!-- Primary Style-->
+    <link rel="stylesheet" type="text/css" href="build/css/umega.css">
+    <!-- Skins-->
+    <link rel="stylesheet" type="text/css" href="build/css/skins.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file://--> 
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- Main Sidebar start-->
+    <aside class="main-sidebar pinned">
+      <div class="brand"><a href="index.html" class="logo"><i class="ti-underline"></i>
+          <h2>MEGA<span>app</span></h2></a><a href="javascript:;" role="button" class="sidebar-toggle visible-xs-block"><i class="ti-close text-white"></i></a></div>
+      <div class="profile">
+        <div id="esp-profile" data-percent="65" style="height: 130px; width: 130px; line-height: 100px; padding: 15px;" class="easy-pie-chart"><img src="build/images/users/04.jpg" alt="" class="avatar img-circle"><span class="status bg-success"></span></div>
+        <h5 class="text-white mt-15 mb-5">Matthew Gonzalez</h5>
+        <div class="text-muted">Designer</div>
+      </div>
+      <!-- Nav tabs-->
+      <ul role="tablist" class="nav nav-tabs nav-justified nav-sidebar">
+        <li role="presentation" class="active"><a href="#menu" aria-controls="menu" role="tab" data-toggle="tab"><i class="ti-menu"></i></a></li>
+        <li role="presentation"><a href="#portfolio" aria-controls="portfolio" role="tab" data-toggle="tab"><i class="ti-user"></i></a></li>
+        <li role="presentation" class="bubble"><a href="#email" aria-controls="email" role="tab" data-toggle="tab"><i class="ti-email"><span class="dot bg-danger"></span></i></a></li>
+        <li role="presentation"><a href="#setting" aria-controls="setting" role="tab" data-toggle="tab"><i class="ti-server"></i></a></li>
+      </ul>
+      <!-- Tab panes-->
+      <div class="tab-content nav-sidebar-content">
+        <div id="menu" role="tabpanel" class="tab-pane fade in active">
+          <ul class="list-unstyled navigation mb-0">
+            <li class="header">Main</li>
+            <li><a href="index.html" class="bubble"><i class="ti-home"></i> Dashboard<span class="badge bg-danger">3</span></a></li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse1" aria-expanded="false" aria-controls="collapse1" class="collapsed"><i class="ti-paint-bucket"></i> Color system</a>
+              <ul id="collapse1" class="list-unstyled collapse">
+                <li><a href="green-system.html">Green</a></li>
+                <li><a href="blue-system.html">Blue</a></li>
+                <li><a href="red-system.html">Red</a></li>
+                <li><a href="yellow-system.html">Yellow</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse2" aria-expanded="false" aria-controls="collapse2" class="collapsed"><i class="ti-palette"></i> Skins</a>
+              <ul id="collapse2" class="list-unstyled collapse">
+                <li><a href="green-dashboard.html">Green</a></li>
+                <li><a href="blue-dashboard.html">Blue</a></li>
+                <li><a href="red-dashboard.html">Red</a></li>
+                <li><a href="yellow-dashboard.html">Yellow</a></li>
+              </ul>
+            </li>
+            <li class="header">Components</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse3" aria-expanded="true" aria-controls="collapse3" class="active"><i class="ti-receipt"></i> Basic</a>
+              <ul id="collapse3" class="list-unstyled collapse in">
+                <li><a href="buttons.html">Buttons</a></li>
+                <li><a href="carousels.html">Carousels</a></li>
+                <li><a href="containers.html">Containers</a></li>
+                <li><a href="dialogs.html">Dialogs</a></li>
+                <li><a href="basic-inputs.html">Inputs</a></li>
+                <li><a href="navigations.html" class="active">Navigations</a></li>
+                <li><a href="progress-bars.html">Progress bars</a></li>
+                <li><a href="typography.html">Typography</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse4" aria-expanded="false" aria-controls="collapse4" class="collapsed"><i class="ti-ruler-pencil"></i> Editors</a>
+              <ul id="collapse4" class="list-unstyled collapse">
+                <li><a href="summernote.html">Summernote</a></li>
+                <li><a href="bootstrap-markdown.html">Bootstrap markdown</a></li>
+                <li><a href="code-prettify.html">Code prettify</a></li>
+                <li><a href="ckeditor.html">CKEditor</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse5" aria-expanded="false" aria-controls="collapse5" class="collapsed"><i class="ti-location-arrow"></i> Pickers</a>
+              <ul id="collapse5" class="list-unstyled collapse">
+                <li><a href="color-picker.html">Color picker</a></li>
+                <li><a href="datetime-picker.html">Datetime picker</a></li>
+                <li><a href="clock-picker.html">Clock picker</a></li>
+                <li><a href="date-range-picker.html">Date range picker</a></li>
+                <li><a href="multi-select.html">Multi select</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse6" aria-expanded="false" aria-controls="collapse6" class="collapsed"><i class="ti-layers-alt"></i> Forms</a>
+              <ul id="collapse6" class="list-unstyled collapse">
+                <li><a href="form-layouts.html">Layouts</a></li>
+                <li><a href="jquery-validation.html">Validation</a></li>
+                <li><a href="jquery-steps.html">Wizard</a></li>
+                <li><a href="other-plugins.html">Other plugins</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse7" aria-expanded="false" aria-controls="collapse7" class="collapsed"><i class="ti-face-smile"></i> Icons</a>
+              <ul id="collapse7" class="list-unstyled collapse">
+                <li><a href="glyphicons.html">Glyphicons</a></li>
+                <li><a href="font-awesome.html">Font awesome</a></li>
+                <li><a href="material-design.html">Material design</a></li>
+                <li><a href="themify.html">Themify</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse8" aria-expanded="false" aria-controls="collapse8" class="collapsed"><i class="ti-layout-grid2"></i> Tables</a>
+              <ul id="collapse8" class="list-unstyled collapse">
+                <li><a href="basic-tables.html">Basic tables</a></li>
+                <li><a href="data-tables.html">Data tables</a></li>
+                <li><a href="pricing-tables.html">Pricing tables</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse9" aria-expanded="false" aria-controls="collapse9" class="collapsed"><i class="ti-control-forward"></i> Animations</a>
+              <ul id="collapse9" class="list-unstyled collapse">
+                <li><a href="basic-animations.html">Basic</a></li>
+                <li><a href="loading-animations.html">Loading</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse10" aria-expanded="false" aria-controls="collapse10" class="collapsed"><i class="ti-upload"></i> File uploads</a>
+              <ul id="collapse10" class="list-unstyled collapse">
+                <li><a href="dropzone-js.html">Dropzone</a></li>
+                <li><a href="bootstrap-file-input.html">Bootstrap file input</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse11" aria-expanded="false" aria-controls="collapse11" class="collapsed"><i class="ti-info-alt"></i> Indicators</a>
+              <ul id="collapse11" class="list-unstyled collapse">
+                <li><a href="toastr.html">Toastr</a></li>
+                <li><a href="sweet-alert.html">Sweet alert</a></li>
+              </ul>
+            </li>
+            <li class="header">Data visualization</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse12" aria-expanded="false" aria-controls="collapse12" class="collapsed"><i class="ti-bar-chart"></i> Charts</a>
+              <ul id="collapse12" class="list-unstyled collapse">
+                <li><a href="flot-charts.html">Flot charts</a></li>
+                <li><a href="morris-charts.html">Morris charts</a></li>
+                <li><a href="chart-js.html">Chart.js</a></li>
+                <li><a href="other-charts.html">Other charts</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse13" aria-expanded="false" aria-controls="collapse13" class="collapsed"><i class="ti-location-pin"></i> Maps</a>
+              <ul id="collapse13" class="list-unstyled collapse">
+                <li><a href="vector-maps.html">Vector maps</a></li>
+                <li><a href="google-maps.html">Google maps</a></li>
+              </ul>
+            </li>
+            <li class="header">Page kits</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse14" aria-expanded="false" aria-controls="collapse14" class="collapsed"><i class="ti-alert"></i> Error pages</a>
+              <ul id="collapse14" class="list-unstyled collapse">
+                <li><a href="400.html">400 Bad request</a></li>
+                <li><a href="401.html">401 Unauthorized</a></li>
+                <li><a href="403.html">403 Forbidden</a></li>
+                <li><a href="404.html">404 Not found</a></li>
+                <li><a href="500.html">500 Internal server error</a></li>
+                <li><a href="503.html">503 Service unavailable</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse15" aria-expanded="false" aria-controls="collapse15" class="collapsed"><i class="ti-user"></i> User pages</a>
+              <ul id="collapse15" class="list-unstyled collapse">
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Registration</a></li>
+                <li><a href="forgot.html">Forgot password</a></li>
+                <li><a href="lock-screen.html">Lock screen</a></li>
+                <li><a href="profile.html">Profile</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed"><i class="ti-panel"></i> Apps</a>
+              <ul id="collapse16" class="list-unstyled collapse">
+                <li><a href="mailbox.html">Mailbox</a></li>
+                <li><a href="calendar.html">Calendar</a></li>
+                <li><a href="image-cropper.html">Image cropper</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse17" aria-expanded="false" aria-controls="collapse17" class="collapsed"><i class="ti-blackboard"></i> Extra pages</a>
+              <ul id="collapse17" class="list-unstyled collapse">
+                <li><a href="invoice.html">Invoice</a></li>
+                <li><a href="search-results.html">Search results</a></li>
+                <li><a href="blank-template.html">Blank template</a></li>
+              </ul>
+            </li>
+            <li class="header">Help</li>
+            <li><a href="documentation.html"><i class="ti-help-alt"></i> Documentation</a></li>
+            <li class="header">Menu Levels</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse18" aria-expanded="false" aria-controls="collapse18" class="collapsed"><i class="ti-folder"></i> Menu levels</a>
+              <ul id="collapse18" class="list-unstyled collapse">
+                <li><a href="#">Menu level 2.1</a></li>
+                <li class="panel"><a role="button" data-toggle="collapse" data-parent="#collapse18" href="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">Menu level 2.2</a>
+                  <ul id="collapse21" class="list-unstyled collapse">
+                    <li><a href="#">Menu level 3.1</a></li>
+                    <li class="panel"><a role="button" data-toggle="collapse" data-parent="#collapse21" href="#collapse31" aria-expanded="false" aria-controls="collapse31" class="collapsed">Menu level 3.2</a>
+                      <ul id="collapse31" class="list-unstyled collapse">
+                        <li><a href="#">Menu level 4.1</a></li>
+                        <li class="panel"><a role="button" data-toggle="collapse" data-parent="#collapse31" href="#collapse41" aria-expanded="false" aria-controls="collapse41" class="collapsed">Menu level 4.2</a>
+                          <ul id="collapse41" class="list-unstyled collapse">
+                            <li><a href="#">Menu level 5.1</a></li>
+                            <li><a href="#">Menu level 5.2</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <div class="header">Server Status</div>
+          <ul class="list-unstyled pl-15 pr-15">
+            <li class="mb-20">
+              <div class="block clearfix mb-10"><span class="pull-left fs-12 text-muted">CPU Used</span><span class="pull-right label label-outline label-warning">65%</span></div>
+              <div class="progress progress-xs mb-0">
+                <div role="progressbar" data-transitiongoal="65" class="progress-bar progress-bar-warning"></div>
+              </div>
+            </li>
+            <li class="mb-20">
+              <div class="block clearfix mb-10"><span class="pull-left fs-12 text-muted">Bandwidth</span><span class="pull-right label label-outline label-danger">80%</span></div>
+              <div class="progress progress-xs mb-0">
+                <div role="progressbar" data-transitiongoal="80" class="progress-bar progress-bar-danger"></div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div id="portfolio" role="tabpanel" class="tab-pane fade">
+          <div class="header">Rating</div>
+          <div class="rating clearfix">
+            <div class="pull-left score bg-black fs-24 fw-600 text-center">4.5</div>
+            <div class="pull-left">
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="100" class="progress-bar five-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="80" class="progress-bar four-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="10" class="progress-bar three-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="25" class="progress-bar two-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="5" class="progress-bar one-star"></div>
+              </div>
+            </div>
+          </div>
+          <p class="text-center fs-12 mt-5 mb-0">average based on 1,056 ratings</p>
+          <div class="header">Followers</div>
+          <div class="followers"><img src="build/images/users/02.jpg" alt="" class="img-circle"><img src="build/images/users/03.jpg" alt="" class="img-circle"><img src="build/images/users/10.jpg" alt="" class="img-circle"><a href="#" class="more img-circle text-center fs-24 fw-600 text-info">+</a></div>
+          <p class="text-center fs-12 mt-5 mb-0">2,590 followers and 8,320 sales</p>
+          <div class="header">Visitors</div>
+          <div id="sp-visitors"></div>
+          <p class="text-center fs-12 mt-5 mb-0">3,320 visitors in last 10 days</p>
+          <div class="header">Revenue</div>
+          <div id="sp-revenue"></div>
+          <p class="text-center fs-12 mt-5 mb-0">8.59k revenue estimate in last 10 days</p>
+          <div class="header">Your New Blog Posts</div>
+          <ul class="posts media-list">
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/01.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">The first chapter</h6></a>
+                <time datetime="2015-09-14T14:28:26+07:00" class="fs-11">September 14, 2015</time>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/02.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">A simple image post</h6></a>
+                <time datetime="2015-10-10T20:27:48+07:00" class="fs-11">October 10, 2015</time>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/03.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">The sweet life</h6></a>
+                <time datetime="2015-11-10T20:27:48+07:00" class="fs-11">November 10, 2015</time>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/04.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">Enjoy the moment</h6></a>
+                <time datetime="2015-12-10T20:27:48+07:00" class="fs-11">December 10, 2015</time>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div id="email" role="tabpanel" class="tab-pane fade">
+          <button type="button" data-toggle="modal" data-target=".compose-mail-modal" class="btn btn-raised btn-block btn-danger mt-10"><i class="ti-pencil-alt"></i> Compose Mail</button>
+          <ul class="list-unstyled navigation mb-0">
+            <li class="header">Email</li>
+            <li><a href="mailbox.html" class="bubble"><i class="ti-archive"></i> Inbox<span class="badge bg-danger">5</span></a></li>
+            <li><a href="mailbox.html"><i class="ti-location-arrow"></i> Sent</a></li>
+            <li><a href="mailbox.html"><i class="ti-notepad"></i> Draft</a></li>
+            <li><a href="mailbox.html"><i class="ti-trash"></i> Trash</a></li>
+            <li><a href="mailbox.html"><i class="ti-flag-alt"></i> Important</a></li>
+            <li><a href="mailbox.html"><i class="ti-star"></i> Starred</a></li>
+            <li class="header">Folders</li>
+            <li><a href="#"><i class="ti-folder"></i> Newsletter</a></li>
+            <li><a href="#"><i class="ti-folder"></i> Friend</a></li>
+            <li><a href="#"><i class="ti-folder"></i> Company</a></li>
+            <li><a href="#"><i class="ti-folder"></i> Downloaded</a></li>
+          </ul>
+        </div>
+        <div id="setting" role="tabpanel" class="tab-pane fade">
+          <div class="header">General Settings</div>
+          <form class="form-horizontal">
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Maintenance Mode</h6>
+              <div class="switch pull-right">
+                <input id="setting-1" type="checkbox" checked="">
+                <label for="setting-1" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Location Services</h6>
+              <div class="switch pull-right">
+                <input id="setting-2" type="checkbox" checked="">
+                <label for="setting-2" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Display Errors</h6>
+              <div class="switch pull-right">
+                <input id="setting-3" type="checkbox" checked="">
+                <label for="setting-3" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Use SEO URLs</h6>
+              <div class="switch pull-right">
+                <input id="setting-4" type="checkbox" checked="">
+                <label for="setting-4" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Enable History</h6>
+              <div class="switch pull-right">
+                <input id="setting-5" type="checkbox" checked="">
+                <label for="setting-5" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+          </form>
+        </div>
+      </div>
+    </aside>
+    <!-- Main Sidebar end-->
+    <!-- Header start-->
+    <header>
+      <div class="search-bar closed">
+        <form>
+          <div class="input-group input-group-lg">
+            <input type="text" placeholder="Search for..." class="form-control"><span class="input-group-btn">
+              <button type="button" class="btn btn-default search-bar-toggle"><i class="ti-close"></i></button></span>
+          </div>
+        </form>
+      </div>
+      <div class="brand pull-left"><a href="index.html" class="logo"><i class="ti-underline"></i>
+          <h2>MEGA<span>app</span></h2></a></div><a href="javascript:;" role="button" class="sidebar-toggle pull-left header-icon"><i class="ti-menu text-muted"></i></a>
+      <form class="mt-15 mb-15 pull-left hidden-xs">
+        <div class="form-group has-feedback mb-0">
+          <input type="text" aria-describedby="inputSearchFor" placeholder="Search for..." style="width: 200px" class="form-control rounded"><span aria-hidden="true" class="ti-search form-control-feedback"></span><span id="inputSearchFor" class="sr-only">(default)</span>
+        </div>
+      </form>
+      <ul class="newsticker list-unstyled ml-15 mb-0 pull-left visible-lg">
+        <li class="fw-500">You <span class="text-danger">recommended</span> Karen Ortega.</li>
+        <li class="fw-500">You <span class="text-info">followed</span> Olivia Williamson.</li>
+        <li class="fw-500">New product <span class="text-success">Microsoft Lumia 950XL</span></li>
+        <li class="fw-500">New order <span class="text-success">#021930217965</span></li>
+      </ul>
+      <ul class="notification-bar list-inline pull-right">
+        <li class="visible-xs"><a href="javascript:;" role="button" class="header-icon search-bar-toggle"><i class="ti-search text-muted"></i></a></li>
+        <li class="visible-lg"><a href="javascript:;" role="button" class="header-icon fullscreen-toggle"><i class="ti-fullscreen text-muted"></i></a></li>
+        <li class="dropdown"><a id="dropdownMenu1" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle bubble header-icon"><i class="ti-save text-muted"></i><span class="badge bg-danger">3</span></a>
+          <div aria-labelledby="dropdownMenu1" class="dropdown-menu dropdown-menu-right dm-medium fs-12 animated fadeInDown">
+            <h5 class="dropdown-header">You have 3 file downloads</h5>
+            <ul data-mcs-theme="minimal-dark" class="media-list mCustomScrollbar">
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left"><i class="ti-music-alt media-object mo-sm img-circle bg-info text-center"></i></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Music.mp3</h6>
+                    <div class="progress progress-xs mb-5">
+                      <div role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;" class="progress-bar progress-bar-info"><span class="sr-only">60% Complete</span></div>
+                    </div>
+                    <p class="text-muted mb-0">1.3 of 4MB - 685KB/sec - 4 sec</p>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left"><i class="ti-video-clapper media-object mo-sm img-circle bg-danger text-center"></i></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Video.mp4</h6>
+                    <div class="progress progress-xs mb-5">
+                      <div role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;" class="progress-bar progress-bar-success"><span class="sr-only">100% Complete</span></div>
+                    </div>
+                    <p class="text-muted mb-0">Completed - 5 minutes ago</p>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left"><i class="ti-zip media-object mo-sm img-circle bg-warning text-center"></i></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Copy.zip</h6>
+                    <div class="progress progress-xs mb-5">
+                      <div role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%;" class="progress-bar"><span class="sr-only">45% Complete</span></div>
+                    </div>
+                    <p class="text-muted mb-0">650 of 1451MB - 721KB/sec - 20 min</p>
+                  </div></a></li>
+            </ul>
+            <div class="dropdown-footer text-center p-10"><a href="javascript:;" class="fw-500 text-muted">See all file downloads</a></div>
+          </div>
+        </li>
+        <li class="dropdown"><a id="dropdownMenu2" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle bubble header-icon"><i class="ti-world text-muted"></i><span class="badge bg-danger">6</span></a>
+          <div aria-labelledby="dropdownMenu2" class="dropdown-menu dropdown-menu-right dm-medium fs-12 animated fadeInDown">
+            <h5 class="dropdown-header">You have 6 notifications</h5>
+            <ul data-mcs-theme="minimal-dark" class="media-list mCustomScrollbar">
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/17.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">William Carlson</h6>
+                    <p class="text-muted mb-0">Commented on your post</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:27:48+07:00" class="fs-11">5 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/19.jpg" alt="" class="media-object img-circle"><span class="status bg-danger"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Barbara Ortega</h6>
+                    <p class="text-muted mb-0">Sent you a new email</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:42:40+07:00" class="fs-11">8 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/02.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Mark Barnett</h6>
+                    <p class="text-muted mb-0">Sent you a new message</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:50:48+07:00" class="fs-11">9 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/11.jpg" alt="" class="media-object img-circle"><span class="status bg-danger"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Alexander Gilbert</h6>
+                    <p class="text-muted mb-0">Sent you a new email</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:42:40+07:00" class="fs-11">15 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/12.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Amanda Collins</h6>
+                    <p class="text-muted mb-0">You have 8 unread messages</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:35:35+07:00" class="fs-11">22 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/13.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Christian Lane</h6>
+                    <p class="text-muted mb-0">Commented on your post</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:27:48+07:00" class="fs-11">30 mins</time>
+                  </div></a></li>
+            </ul>
+            <div class="dropdown-footer text-center p-10"><a href="javascript:;" class="fw-500 text-muted">See all notifications</a></div>
+          </div>
+        </li>
+        <li><a href="javascript:;" role="button" class="right-sidebar-toggle bubble header-icon"><i class="ti-comment-alt text-muted"></i><span class="dot bg-danger"></span></a></li>
+        <li><a href="login.html" role="button" class="header-icon"><i class="ti-power-off text-muted"></i></a></li>
+      </ul>
+    </header>
+    <!-- Header end-->
+    <!-- Work Here start-->
+    <section class="page-container">
+      <div class="page-header clearfix">
+        <div class="pull-left">
+          <h4 class="mt-0 mb-5">Navigations</h4>
+          <ol class="breadcrumb mb-0">
+            <li><a href="#">Umega</a></li>
+            <li><a href="#">Basic</a></li>
+            <li class="active">Navigations</li>
+          </ol>
+        </div>
+        <div class="pull-right">
+          <div class="btn-group">
+            <button type="button" class="btn btn-default btn-outline"><img src="build/images/flags/us.jpg" alt="" class="flag-icon">English</button>
+            <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default btn-outline dropdown-toggle"><span class="caret"></span><span class="sr-only">Toggle Dropdown</span></button>
+            <ul class="dropdown-menu dropdown-menu-right animated fadeInDown">
+              <li><a href="#"><img src="build/images/flags/de.jpg" class="flag-icon">German</a></li>
+              <li><a href="#"><img src="build/images/flags/fr.jpg" class="flag-icon">French</a></li>
+              <li><a href="#"><img src="build/images/flags/es.jpg" class="flag-icon">Spanish</a></li>
+              <li><a href="#"><img src="build/images/flags/it.jpg" class="flag-icon">Italian</a></li>
+              <li><a href="#"><img src="build/images/flags/jp.jpg" class="flag-icon">Japanese</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="page-content container-fluid">
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Tabs</h3>
+              </div>
+              <div class="widget-body">
+                <p>Note the <code>.nav-tabs</code> class requires the <code>.nav</code> base class.</p>
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-tabs mb-15">
+                    <li role="presentation" class="active"><a id="home-tab" href="#home" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab" href="#profile" role="tab" data-toggle="tab" aria-controls="profile" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop1" href="#" data-toggle="dropdown" aria-controls="myTabDrop1-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop1-contents" role="menu" aria-labelledby="myTabDrop1" class="dropdown-menu animated fadeInDown">
+                        <li><a id="dropdown1-tab" href="#dropdown1" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown1" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown2-tab" href="#dropdown2" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown2" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home" role="tabpanel" aria-labelledby="home-tab" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile" role="tabpanel" aria-labelledby="profile-tab" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown1" role="tabpanel" aria-labelledby="dropdown1-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown2" role="tabpanel" aria-labelledby="dropdown2-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Pills</h3>
+              </div>
+              <div class="widget-body">
+                <p>Take that same HTML, but use <code>.nav-pills</code> instead:</p>
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-pills mb-15">
+                    <li role="presentation" class="active"><a id="home-tab2" href="#home2" role="tab" data-toggle="tab" aria-controls="home2" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab2" href="#profile2" role="tab" data-toggle="tab" aria-controls="profile2" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop2" href="#" data-toggle="dropdown" aria-controls="myTabDrop2-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop2-contents" role="menu" aria-labelledby="myTabDrop2" class="dropdown-menu">
+                        <li><a id="dropdown3-tab" href="#dropdown3" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown3" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown4-tab" href="#dropdown4" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown4" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home2" role="tabpanel" aria-labelledby="home-tab2" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile2" role="tabpanel" aria-labelledby="profile-tab2" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown3" role="tabpanel" aria-labelledby="dropdown3-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown4" role="tabpanel" aria-labelledby="dropdown4-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Justified Tabs</h3>
+              </div>
+              <div class="widget-body">
+                <p>Add class <code>.nav-justified</code> to make it</p>
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-tabs nav-justified mb-15">
+                    <li role="presentation" class="active"><a id="home-tab5" href="#home5" role="tab" data-toggle="tab" aria-controls="home5" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab5" href="#profile5" role="tab" data-toggle="tab" aria-controls="profile5" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop5" href="#" data-toggle="dropdown" aria-controls="myTabDrop5-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop5-contents" role="menu" aria-labelledby="myTabDrop5" class="dropdown-menu">
+                        <li><a id="dropdown9-tab" href="#dropdown9" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown9" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown10-tab" href="#dropdown10" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown10" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home5" role="tabpanel" aria-labelledby="home-tab5" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile5" role="tabpanel" aria-labelledby="profile-tab5" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown9" role="tabpanel" aria-labelledby="dropdown9-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown10" role="tabpanel" aria-labelledby="dropdown10-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Justified Pills</h3>
+              </div>
+              <div class="widget-body">
+                <p>Add class <code>.nav-justified</code> to make it</p>
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-pills nav-justified mb-15">
+                    <li role="presentation" class="active"><a id="home-tab6" href="#home6" role="tab" data-toggle="tab" aria-controls="home6" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab6" href="#profile6" role="tab" data-toggle="tab" aria-controls="profile6" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop6" href="#" data-toggle="dropdown" aria-controls="myTabDrop6-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop6-contents" role="menu" aria-labelledby="myTabDrop6" class="dropdown-menu">
+                        <li><a id="dropdown11-tab" href="#dropdown11" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown11" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown12-tab" href="#dropdown12" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown12" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home6" role="tabpanel" aria-labelledby="home-tab6" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile6" role="tabpanel" aria-labelledby="profile-tab6" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown11" role="tabpanel" aria-labelledby="dropdown11-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown12" role="tabpanel" aria-labelledby="dropdown12-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Stacked Tabs</h3>
+              </div>
+              <div class="widget-body">
+                <p>Add class <code>.nav-stacked</code> to make it.</p>
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-tabs nav-stacked mb-15">
+                    <li role="presentation" class="active"><a id="home-tab7" href="#home7" role="tab" data-toggle="tab" aria-controls="home7" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab7" href="#profile7" role="tab" data-toggle="tab" aria-controls="profile7" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop7" href="#" data-toggle="dropdown" aria-controls="myTabDrop7-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop7-contents" role="menu" aria-labelledby="myTabDrop7" class="dropdown-menu">
+                        <li><a id="dropdown13-tab" href="#dropdown13" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown13" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown14-tab" href="#dropdown14" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown14" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home7" role="tabpanel" aria-labelledby="home-tab7" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile7" role="tabpanel" aria-labelledby="profile-tab7" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown13" role="tabpanel" aria-labelledby="dropdown13-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown14" role="tabpanel" aria-labelledby="dropdown14-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Stacked Pills</h3>
+              </div>
+              <div class="widget-body">
+                <p>Add class <code>.nav-stacked</code> to make it.</p>
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-pills nav-stacked mb-15">
+                    <li role="presentation" class="active"><a id="home-tab8" href="#home8" role="tab" data-toggle="tab" aria-controls="home8" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab8" href="#profile8" role="tab" data-toggle="tab" aria-controls="profile8" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop8" href="#" data-toggle="dropdown" aria-controls="myTabDrop8-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop8-contents" role="menu" aria-labelledby="myTabDrop8" class="dropdown-menu">
+                        <li><a id="dropdown15-tab" href="#dropdown15" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown15" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown16-tab" href="#dropdown16" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown16" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div id="myTabContent" class="tab-content">
+                    <div id="home8" role="tabpanel" aria-labelledby="home-tab8" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile8" role="tabpanel" aria-labelledby="profile-tab8" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown15" role="tabpanel" aria-labelledby="dropdown15-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown16" role="tabpanel" aria-labelledby="dropdown16-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-lg-12">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Pagination</h3>
+              </div>
+              <div class="widget-body">
+                <div class="row">
+                  <div class="col-md-6">
+                    <p>Default</p>
+                    <nav>
+                      <ul class="pagination">
+                        <li><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                        <li><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                      </ul>
+                    </nav>
+                    <p>Disabled and active states</p>
+                    <nav>
+                      <ul class="pagination">
+                        <li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                        <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                      </ul>
+                    </nav>
+                    <p>Responsive</p>
+                    <nav>
+                      <ul class="pagination responsive">
+                        <li class="pagination-prev"><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                        <li><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#">6</a></li>
+                        <li><a href="#">7</a></li>
+                        <li><a href="#">8</a></li>
+                        <li><a href="#">9</a></li>
+                        <li class="active"><a href="#">10</a></li>
+                        <li><a href="#">12</a></li>
+                        <li><a href="#">13</a></li>
+                        <li><a href="#">14</a></li>
+                        <li><a href="#">15</a></li>
+                        <li><a href="#">16</a></li>
+                        <li><a href="#">17</a></li>
+                        <li><a href="#">18</a></li>
+                        <li><a href="#">19</a></li>
+                        <li><a href="#">20</a></li>
+                        <li><a href="#">21</a></li>
+                        <li><a href="#">22</a></li>
+                        <li><a href="#">23</a></li>
+                        <li><a href="#">24</a></li>
+                        <li><a href="#">25</a></li>
+                        <li><a href="#">26</a></li>
+                        <li><a href="#">27</a></li>
+                        <li><a href="#">28</a></li>
+                        <li><a href="#">29</a></li>
+                        <li><a href="#">30</a></li>
+                        <li class="pagination-next"><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                  <div class="col-md-6">
+                    <p>Sizing</p>
+                    <nav>
+                      <ul class="pagination pagination-lg">
+                        <li><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                        <li><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                      </ul>
+                    </nav>
+                    <nav>
+                      <ul class="pagination">
+                        <li><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                        <li><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                      </ul>
+                    </nav>
+                    <nav>
+                      <ul class="pagination pagination-sm">
+                        <li><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                        <li><a href="#">1</a></li>
+                        <li><a href="#">2</a></li>
+                        <li><a href="#">3</a></li>
+                        <li><a href="#">4</a></li>
+                        <li><a href="#">5</a></li>
+                        <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                      </ul>
+                    </nav>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Breadcrumbs</h3>
+              </div>
+              <div class="widget-body">
+                <ol class="breadcrumb">
+                  <li class="active">Home</li>
+                </ol>
+                <ol class="breadcrumb">
+                  <li><a href="#">Home</a></li>
+                  <li class="active">Library</li>
+                </ol>
+                <ol class="breadcrumb">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Library</a></li>
+                  <li class="active">Data</li>
+                </ol>
+                <ol class="breadcrumb">
+                  <li class="active"><i class="ti-home mr-5"></i> Home</li>
+                </ol>
+                <ol class="breadcrumb">
+                  <li><a href="#"><i class="ti-home mr-5"></i> Home</a></li>
+                  <li class="active">Library</li>
+                </ol>
+                <ol class="breadcrumb">
+                  <li><a href="#"><i class="ti-home mr-5"></i> Home</a></li>
+                  <li><a href="#">Library</a></li>
+                  <li class="active">Data</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Pager</h3>
+              </div>
+              <div class="widget-body">
+                <p>Default</p>
+                <nav>
+                  <ul class="pager">
+                    <li><a href="#">Previous</a></li>
+                    <li><a href="#">Next</a></li>
+                  </ul>
+                </nav>
+                <p>Aligned links</p>
+                <nav>
+                  <ul class="pager">
+                    <li class="previous"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+                    <li class="next"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+                  </ul>
+                </nav>
+                <p>Optional disabled state</p>
+                <nav>
+                  <ul class="pager">
+                    <li class="previous disabled"><a href="#"><span aria-hidden="true">&larr;</span> Older</a></li>
+                    <li class="next"><a href="#">Newer <span aria-hidden="true">&rarr;</span></a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Work Here end-->
+    <!-- Right Sidebar start-->
+    <aside class="right-sidebar closed">
+      <h5 class="text-center m-0 p-20 fs-16">Chat List<a href="javascript:;" role="button" class="right-sidebar-toggle pull-right fs-14"><i class="ti-close text-muted"></i></a></h5>
+      <form class="mb-10 pl-20 pr-20">
+        <div class="form-group has-feedback mb-0">
+          <input type="text" aria-describedby="inputChatSearch" placeholder="Chat with..." class="form-control rounded"><span aria-hidden="true" class="ti-search form-control-feedback"></span><span id="inputChatSearch" class="sr-only">(default)</span>
+        </div>
+      </form>
+      <ul data-mcs-theme="minimal-dark" class="chat-list mb-0 fs-12 media-list mCustomScrollbar">
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/20.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Jane Curtis</h6>
+              <p class="text-muted mb-0">Where are you from?</p>
+            </div>
+            <div class="media-right"><span class="badge bg-danger">2</span></div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/01.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Edward Garcia</h6>
+              <p class="text-muted mb-0">Nice to meet you.</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/02.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Bruce Olson</h6>
+              <p class="text-muted mb-0">What do you want to do?</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/03.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Martha Rodriguez</h6>
+              <p class="text-muted mb-0">I'm hungry.</p>
+            </div>
+            <div class="media-right"><span class="badge bg-danger">1</span></div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/05.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Hannah Williamson</h6>
+              <p class="text-muted mb-0">Do you know the address?</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/06.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Anthony Mills</h6>
+              <p class="text-muted mb-0">No problem.</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/07.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Ethan Stanley</h6>
+              <p class="text-muted mb-0">Hello?</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/08.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Jonathan Castro</h6>
+              <p class="text-muted mb-0">OK. Thanks.</p>
+            </div>
+            <div class="media-right"><span class="badge bg-danger">1</span></div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/09.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Denise Rose</h6>
+              <p class="text-muted mb-0">Bye bye.</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/10.jpg" alt="" class="media-object img-circle"><span class="status bg-danger"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Eugene Meyer</h6>
+              <p class="text-muted mb-0">How are you?</p>
+            </div></a></li>
+      </ul>
+    </aside>
+    <aside class="conversation closed">
+      <h5 class="text-center m-0 p-20">Edward Garcia<a href="javascript:;" class="conversation-toggle pull-left"><i class="ti-arrow-left text-muted"></i></a><a href="javascript:;" class="pull-right"><i class="ti-pencil text-muted"></i></a></h5>
+      <ul data-mcs-theme="minimal-dark" class="media-list chat-content fs-12 pl-20 pr-20 mCustomScrollbar">
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Hello.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">09:45 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>Hi.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">09:46 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>How are you?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">09:47 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>I'm good. How are you?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">09:50 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Good. Do you speak English?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">09:55 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>A little. Are you American?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">09:56 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Yes.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">10:00 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>Where are you from?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">10:01 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>I'm from California.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">10:03 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>Nice to meet you.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">10:04 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Nice to meet you too.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">10:05 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+      </ul>
+      <form class="pl-20 pr-20">
+        <div class="form-group has-feedback mb-0">
+          <input type="text" aria-describedby="inputSendMessage" placeholder="Sent a message" class="form-control rounded"><span aria-hidden="true" class="ti-pencil-alt form-control-feedback"></span><span id="inputSendMessage" class="sr-only">(default)</span>
+        </div>
+      </form>
+    </aside>
+    <!-- Right Sidebar end-->
+    <!-- Demo Settings start-->
+    <div class="setting closed"><a href="javascript:;" class="setting-toggle fs-16"><i class="ti-settings text-muted"></i></a>
+      <h4 class="fs-16 mt-0 mb-15">Demo settings</h4>
+      <form class="form-horizontal">
+        <div class="clearfix">
+          <h6 class="pull-left fs-13 fw-400">Fixed Header</h6>
+          <div class="switch pull-right">
+            <input id="fixed-header" type="checkbox">
+            <label for="fixed-header" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix">
+          <h6 class="pull-left fs-13 fw-400">Fixed Sidebar</h6>
+          <div class="switch pull-right">
+            <input id="fixed-sidebar" type="checkbox">
+            <label for="fixed-sidebar" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix hidden-xs">
+          <h6 class="pull-left fs-13 fw-400">Pinned Sidebar</h6>
+          <div class="switch pull-right">
+            <input id="pinned-sidebar" type="checkbox">
+            <label for="pinned-sidebar" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix hidden-xs">
+          <h6 class="pull-left fs-13 fw-400">Closed Sidebar</h6>
+          <div class="switch pull-right">
+            <input id="closed-sidebar" type="checkbox">
+            <label for="closed-sidebar" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix">
+          <h6 class="pull-left fs-13 fw-400">Native Scrollbar</h6>
+          <div class="switch pull-right">
+            <input id="native-scrollbar" type="checkbox">
+            <label for="native-scrollbar" class="switch-success"></label>
+          </div>
+        </div>
+      </form>
+    </div>
+    <!-- Demo Settings end-->
+    <div tabindex="-1" role="dialog" aria-labelledby="composeMail" class="modal fade compose-mail-modal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header bg-black">
+            <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button>
+            <h4 id="composeMail" class="modal-title">Compose Message</h4>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <input id="exampleInputEmail" type="text" placeholder="To" class="form-control">
+              </div>
+              <div class="form-group">
+                <input id="exampleInputSubject" type="text" placeholder="Subject" class="form-control">
+              </div>
+              <textarea id="compose-mail"></textarea>
+              <div class="text-right">
+                <button type="button" data-dismiss="modal" class="btn btn-raised btn-default">Close</button>
+                <button type="button" class="btn btn-raised btn-black">Send Mail</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- jQuery-->
+    <script type="text/javascript" src="plugins/jquery/dist/jquery.min.js"></script>
+    <!-- jQuery Cookie-->
+    <script type="text/javascript" src="plugins/jquery.cookie/jquery.cookie.js"></script>
+    <!-- Bootstrap JavaScript-->
+    <script type="text/javascript" src="plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- jQuery Advanced News Ticker-->
+    <script type="text/javascript" src="plugins/jquery-advanced-news-ticker/js/newsTicker.js"></script>
+    <!-- Malihu Scrollbar-->
+    <script type="text/javascript" src="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    <!-- Animo.js-->
+    <script type="text/javascript" src="plugins/animo.js/animo.min.js"></script>
+    <!-- Bootstrap Progressbar-->
+    <script type="text/javascript" src="plugins/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <!-- jQuery Easy Pie Chart-->
+    <script type="text/javascript" src="plugins/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+    <!-- Sparkline-->
+    <script type="text/javascript" src="plugins/kapusta-jquery.sparkline/dist/jquery.sparkline.min.js"></script>
+    <!-- Summernote-->
+    <script type="text/javascript" src="plugins/summernote/dist/summernote.min.js"></script>
+    <!-- Responsive Pagination-->
+    <script type="text/javascript" src="plugins/rpage/responsive-paginate.js"></script>
+    <!-- Custom JS-->
+    <script type="text/javascript" src="build/js/app.js"></script>
+    <script type="text/javascript" src="build/js/demo.js"></script>
+    <script type="text/javascript" src="build/js/pages/navigations.js"></script>
+  </body>
+</html>

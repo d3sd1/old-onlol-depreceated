@@ -1,0 +1,35 @@
+[16-Jan-2016 08:44:06 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[16-Jan-2016 11:04:04 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[16-Jan-2016 15:34:43 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[16-Jan-2016 16:17:53 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 886
+[16-Jan-2016 16:57:24 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 886
+[16-Jan-2016 16:58:31 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 886
+[16-Jan-2016 16:58:57 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 886
+[16-Jan-2016 17:42:05 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 890
+[16-Jan-2016 17:42:14 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 890
+[16-Jan-2016 17:43:30 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 891
+[16-Jan-2016 20:29:44 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 773
+[16-Jan-2016 20:29:44 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 786
+[16-Jan-2016 20:29:44 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 846
+[16-Jan-2016 20:29:44 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 859
+[16-Jan-2016 20:30:18 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 846
+[16-Jan-2016 20:30:18 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 859
+[16-Jan-2016 20:31:42 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 846
+[16-Jan-2016 20:31:42 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 859
+[16-Jan-2016 20:32:00 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 846
+[16-Jan-2016 20:59:46 Europe/Madrid] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/sczhmszf/public_html/core/class.php on line 490
+[16-Jan-2016 20:59:46 Europe/Madrid] PHP Warning:  Variable passed to each() is not an array or object in /home/sczhmszf/public_html/core/class.php on line 492
+[16-Jan-2016 20:59:47 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 741
+[16-Jan-2016 20:59:47 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 782
+[16-Jan-2016 20:59:47 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 823
+[16-Jan-2016 20:59:47 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 862
+[16-Jan-2016 21:05:17 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 741
+[16-Jan-2016 21:05:17 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 782
+[16-Jan-2016 21:05:17 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 823
+[16-Jan-2016 21:05:17 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 862
+[16-Jan-2016 21:12:19 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 741
+[16-Jan-2016 21:12:19 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 782
+[16-Jan-2016 21:12:19 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 823
+[16-Jan-2016 21:12:19 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 862
+[16-Jan-2016 21:12:38 Europe/Madrid] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/sczhmszf/public_html/actual_game_info.php:80) in /home/sczhmszf/public_html/core/class.php on line 1464
+[16-Jan-2016 21:21:11 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 846

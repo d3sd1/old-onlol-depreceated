@@ -1,0 +1,3 @@
+[28-Feb-2016 13:25:55 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[28-Feb-2016 13:28:43 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[28-Feb-2016 13:30:29 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6

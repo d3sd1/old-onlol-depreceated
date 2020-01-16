@@ -1,0 +1,10 @@
+ErrorDocument 401 DAMAGE
+ErrorDocument 403 ACCESS_DENIED
+ErrorDocument 404 NOT_FOUND
+ErrorDocument 500 INTERNAL_ERROR
+RewriteEngine On
+RewriteRule ^swapLang/(\w+)?$ swaplang.php?key=$1
+RewriteRule ^games/live?$ liveGames.php
+RewriteRule ^cron/toplists?$ kernel/cron/toplists.php
+RewriteRule ^toplists?$ toplists.php
+RewriteRule ^summoner/(\w+)/([^/.]+)?$ summoner.php?region=$1&&name=$2

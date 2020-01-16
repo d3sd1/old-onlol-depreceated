@@ -1,0 +1,6 @@
+Initial commit.
+-> Added database.
+-> Ended riot's class.
+-> Added langs.
+-> Added base design.
+No bugs known.

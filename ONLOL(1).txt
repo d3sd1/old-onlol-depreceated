@@ -1,0 +1,7 @@
+POR HACER:
+- CACHE EN HTACCESS. MODIFICADA POR LAS VARIABLES DE CONFIG.CONF.
+- SUMMONERS.
+- fixear que en summoners al hacer click en ligas, el link cambia la region del usuario completamente de gratis
+
+----
+Soilkrow -> no ha jugado partidas en 4 años, no esta clasificado. nivel 30 no tiene nada

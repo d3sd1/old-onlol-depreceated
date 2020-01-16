@@ -1,0 +1,4 @@
+#Rewrite para leer perfil de campeones
+RewriteEngine on
+DirectoryIndex index.php
+RewriteRule ^admin/db?$ /admin/database/index.php

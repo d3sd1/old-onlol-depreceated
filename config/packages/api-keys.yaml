@@ -1,0 +1,10 @@
+parameters:
+    api-keys:
+        onlol.net:
+            apiKey: RGAPI-d2a3cb17-a73f-e170-6548-fbbee0862a2b
+            rateLimit10s: 3000
+            rateLimit10m: 180000
+        onlol.yumikey.com:
+            apiKey: RGAPI-805c721b-4875-46f4-85f1-da80dc2e9046
+            rateLimit10s: 10
+            rateLimit10m: 500

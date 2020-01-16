@@ -1,0 +1,31 @@
+[19-Jan-2016 04:42:36 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/45924779/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[19-Jan-2016 04:42:44 Europe/Madrid] [readjson] RATE_LIMIT_EXCEED: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2465846636?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[19-Jan-2016 04:42:44 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2465846636) of (euw).
+[19-Jan-2016 04:42:51 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 768
+[19-Jan-2016 04:42:51 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 809
+[19-Jan-2016 04:42:51 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 850
+[19-Jan-2016 04:42:51 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 889
+[19-Jan-2016 05:13:41 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/45924779/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[19-Jan-2016 05:14:48 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/45924779/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[19-Jan-2016 05:14:57 Europe/Madrid] [readjson] RATE_LIMIT_EXCEED: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2465846636?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[19-Jan-2016 05:14:57 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2465846636) of (euw).
+[19-Jan-2016 05:15:02 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 768
+[19-Jan-2016 05:15:02 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 809
+[19-Jan-2016 05:15:02 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 850
+[19-Jan-2016 05:15:02 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 889
+[19-Jan-2016 05:23:45 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 775
+[19-Jan-2016 05:23:45 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 788
+[19-Jan-2016 05:27:12 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 775
+[19-Jan-2016 05:27:12 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 788
+[19-Jan-2016 05:39:35 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 801
+[19-Jan-2016 05:39:35 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 814
+[19-Jan-2016 05:45:53 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 801
+[19-Jan-2016 05:45:53 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 814
+[19-Jan-2016 05:56:38 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 768
+[19-Jan-2016 05:56:38 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 809
+[19-Jan-2016 05:56:38 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 850
+[19-Jan-2016 05:56:38 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 889
+[19-Jan-2016 05:57:10 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 768
+[19-Jan-2016 05:57:10 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 809
+[19-Jan-2016 05:57:10 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/profile.php on line 850
+[19-Jan-2016 05:57:10 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 889

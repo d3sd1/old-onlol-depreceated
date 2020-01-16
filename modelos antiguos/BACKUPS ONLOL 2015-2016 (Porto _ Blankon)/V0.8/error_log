@@ -1,0 +1,4 @@
+[12-Feb-2016 16:12:18 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44894923?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[12-Feb-2016 16:25:09 Europe/Madrid] PHP Notice:  Undefined index: name in /home/sczhmszf/public_html/champ_info.php on line 592
+[12-Feb-2016 16:25:35 Europe/Madrid] PHP Notice:  Undefined variable: champ_name in /home/sczhmszf/public_html/champ_info.php on line 592
+[12-Feb-2016 16:19:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/champ_info.php on line 578

@@ -1,0 +1,1 @@
+* Added full stats of the full games on database.

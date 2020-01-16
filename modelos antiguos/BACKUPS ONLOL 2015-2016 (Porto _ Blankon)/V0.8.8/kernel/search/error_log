@@ -1,0 +1,55 @@
+[28-Feb-2016 13:25:55 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[28-Feb-2016 13:28:43 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[28-Feb-2016 13:30:29 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:45:31 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:47:42 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:48:04 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:48:20 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:49:28 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:53:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:54:31 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:55:15 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:55:30 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:56:06 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:57:39 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 11:58:17 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6
+[08-Apr-2016 12:00:43 Europe/Madrid] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on boolean in /home/sczhmszf/public_html/kernel/search/dynamic_json.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sczhmszf/public_html/kernel/search/dynamic_json.php on line 6

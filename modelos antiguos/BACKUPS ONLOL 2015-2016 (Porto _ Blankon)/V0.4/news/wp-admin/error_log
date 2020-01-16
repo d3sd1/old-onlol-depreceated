@@ -1,0 +1,3 @@
+[05-Jan-2016 21:58:00 UTC] PHP Warning:  printf(): Argument number must be greater than zero in /home/sczhmszf/public_html/news/wp-content/plugins/woocommerce/includes/admin/class-wc-admin-setup-wizard.php on line 529
+[05-Jan-2016 23:51:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/sczhmszf/public_html/news/wp-content/plugins/wp-super-cache/wp-cache.php on line 3088
+[05-Jan-2016 23:51:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/sczhmszf/public_html/news/wp-content/plugins/wp-super-cache/wp-cache.php on line 3090

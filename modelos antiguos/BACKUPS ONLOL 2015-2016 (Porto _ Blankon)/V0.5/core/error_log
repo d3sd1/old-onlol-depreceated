@@ -1,0 +1,888 @@
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:50 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Bardo' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Cho'Gath' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Dr. Mundo' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Fiddlesticks' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Jarvan IV in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kha'Zix' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'Kog'Maw' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'LeBlanc' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined index: Lee Sin in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:51 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Maestro Yi' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Miss Fortune in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Wukong' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Rek'Sai' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Tahm Kench in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Twisted Fate in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'passive' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 1 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 2 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'name' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'data' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'Vel'Koz' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'spells' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 3 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Warning:  Illegal string offset 'description' in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 649
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 656
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 664
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined index: Xin Zhao in /home/sczhmszf/public_html/core/cron.php on line 671
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_colum in /home/sczhmszf/public_html/core/cron.php on line 642
+[09-Jan-2016 14:05:52 UTC] PHP Notice:  Undefined variable: p_cooldowns in /home/sczhmszf/public_html/core/cron.php on line 642

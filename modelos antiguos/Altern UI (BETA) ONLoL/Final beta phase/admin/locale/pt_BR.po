@@ -1,0 +1,6146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: U-Design WP Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-08 07:05-0500\n"
+"PO-Revision-Date: 2015-05-08 07:05-0500\n"
+"Last-Translator: Andon <andon.design@gmail.com>\n"
+"Language-Team: Lord Marcio Moreira <lordmarcio@gmail.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: s, as, ãs, ões, es;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+#, fuzzy
+msgid ""
+"Oops..., I cannot find the page you are looking for, sorry... ( Error 404 )"
+msgstr ""
+"Desculpe, não foi encontrada a página que você está buscando! (Erro 404)"
+
+#: ../404.php:21
+msgid "Let me help you find it:"
+msgstr "Deixe-me ajudá-lo(a) a encontrar:"
+
+#: ../404.php:24
+#, fuzzy
+msgid "Search for it:"
+msgstr "Pesquisar por:"
+
+#: ../404.php:28
+#, fuzzy
+msgid "If you typed in a URL... check the spelling and try reloading the page."
+msgstr ""
+"<strong>Se você digitou uma URL...</strong> verifique a ortografia e tente "
+"recarregar a página."
+
+#: ../404.php:31
+#, fuzzy, php-format
+msgid "Start over again with the %1$sHome page%2$s."
+msgstr "<strong>Começar tudo de novo</strong> com o %1$sHomepage%2$s."
+
+#: ../archive.php:68
+#, php-format
+msgid ""
+"<p class='center'>No entries were found under the %s category either because "
+"they were not published or this category has been excluded from the Blog "
+"section.</p>"
+msgstr ""
+
+#: ../archive.php:71
+#, fuzzy
+msgid "<p>Sorry, but there aren't any posts with this date.</p>"
+msgstr "<h2>Desculpe, mas não há postagens com esta data.</h2>"
+
+#: ../archive.php:74
+#, fuzzy, php-format
+msgid "<p class='center'>Sorry, but there aren't any posts by %s yet.</p>"
+msgstr ""
+"<h2 class='center'>Desculpe, mas não existe nenhuma postagem por %s ainda.</"
+"h2>"
+
+#: ../archive.php:76
+#, fuzzy
+msgid "<p class='center'>No posts found.</p>"
+msgstr "<h2 class='center'>Nenhuma postagem encontrada.</h2>"
+
+#: ../archives.php:28 ../image.php:31 ../page-FullWidth.php:22
+#: ../single-Portfolio.php:24 ../single.php:34
+msgid "<p class=\"serif\">Read the rest of this entry &raquo;</p>"
+msgstr "<p class=\"serif\">Leia o restante desta postagem &raquo;</p>"
+
+#: ../archives.php:38
+msgid "Archives by Year:"
+msgstr "Arquivos por Ano:"
+
+#: ../archives.php:43
+msgid "Archives by Month:"
+msgstr "Arquivos por Mês:"
+
+#: ../archives.php:48
+msgid "Archives by Subject:"
+msgstr "Arquivos por Assunto:"
+
+#: ../author.php:17
+msgid "About:"
+msgstr "Sobre:"
+
+#: ../author.php:20
+msgid "Website:"
+msgstr "Site:"
+
+#: ../author.php:21
+msgid "Profile:"
+msgstr "Perfil:"
+
+#: ../author.php:25
+msgid "Posts by"
+msgstr "Postagens por"
+
+#: ../author.php:45
+msgid "No posts by this author."
+msgstr "Nenhuma postagem deste autor."
+
+#: ../comments.php:13
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Esta postagem é protegida por senha. Entre com a senha para visualizar os "
+"comentários."
+
+#: ../comments.php:25
+msgid "No Responses"
+msgstr "Sem respostas"
+
+#: ../comments.php:25 ../functions.php:1932 ../functions.php:2165
+msgid "1 Comment"
+msgstr "1 Comentário"
+
+#: ../comments.php:25 ../functions.php:1933 ../functions.php:2165
+msgid "% Comments"
+msgstr "% Comentários"
+
+#: ../comments.php:48
+msgid "Leave a Reply"
+msgstr "Deixe uma Resposta."
+
+#: ../comments.php:48
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Deixe uma Resposta para %s"
+
+#: ../comments.php:54
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr ""
+"<p>Você deve estar <a href=\"%s\">logado</a> para postar um comentário.</p>"
+
+#: ../comments.php:58
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr "Logado como <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+
+#: ../comments.php:58
+msgid "Log out of this account"
+msgstr "Sair desta conta"
+
+#: ../comments.php:58
+msgid "Log out &raquo;"
+msgstr "Sair &raquo;"
+
+#: ../comments.php:62 ../page-Contact.php:191
+msgid "Name"
+msgstr "Nome"
+
+#: ../comments.php:62 ../comments.php:66 ../page-Contact.php:199
+#: ../page-Contact.php:212
+msgid "(required)"
+msgstr "(exigido)"
+
+#: ../comments.php:66
+msgid "Mail (will not be published)"
+msgstr "E-mail (não será publicado)"
+
+#: ../comments.php:70
+msgid "Website"
+msgstr "Site"
+
+#: ../comments.php:75
+msgid "Submit Comment"
+msgstr "Enviar Comentário"
+
+#: ../comments.php:83
+msgid "Comments are closed."
+msgstr "Os comentários estão desabilitados."
+
+#: ../functions.php:241
+msgid "Type here to search"
+msgstr ""
+
+#: ../functions.php:256
+#, fuzzy
+msgid "Navigation"
+msgstr "navegação Primária"
+
+#: ../functions.php:292
+msgid "Primary Navigation"
+msgstr "navegação Primária"
+
+#: ../functions.php:318 ../scripts/breadcrumbs.php:39
+msgid "Home"
+msgstr "Início"
+
+#: ../functions.php:334 ../functions.php:1471
+msgid "Search for:"
+msgstr "Pesquisar por:"
+
+#: ../functions.php:336 ../functions.php:1473 ../scripts/breadcrumbs.php:109
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../functions.php:447 ../functions.php:456
+#, php-format
+msgid "Go back to %s"
+msgstr "Voltar para %s"
+
+#: ../functions.php:504
+#, fuzzy, php-format
+msgid ""
+"<span class=\"the-comment-time-and-date\"><span class=\"time\">%1$s</span> "
+"on <a class=\"comment-date\" href=\"#comment-%2$s\" title=\"%3$s\">%3$s</a></"
+"span>"
+msgstr ""
+"<span class=\"time\">%1$s</span> em <a href=\"#comment-%2$s\" title=\"\">"
+"%3$s</a>"
+
+#: ../functions.php:504
+msgid "g:i a"
+msgstr "g:i a"
+
+#: ../functions.php:504
+msgid "F j, Y"
+msgstr "F j, Y"
+
+#: ../functions.php:505
+msgid "edit"
+msgstr "editar"
+
+#: ../functions.php:511
+msgid "Your comment is awaiting moderation."
+msgstr "Seu comentário está aguardando ser aceito pelo moderador."
+
+#: ../functions.php:649
+msgid "A widget area, used as a sidebar for regular pages."
+msgstr ""
+"Uma área de widget, usada como uma barra lateral para páginas regulares."
+
+#: ../functions.php:659
+msgid "A widget area, used as a sidebar for the Portfolio section."
+msgstr "Uma área de widget, usada como barra lateral para seção de Portfolio."
+
+#: ../functions.php:669
+msgid "A widget area, used as a sidebar for the Blog/News section."
+msgstr ""
+"Uma área de widget, usada como barra lateral para seção do Blog/Notícias."
+
+#: ../functions.php:679
+msgid "A widget area, used as a sidebar for the Contact page."
+msgstr "Uma área de widget, usada como barra lateral para página de Contato."
+
+#: ../functions.php:689
+msgid "A widget area, used as a sidebar for the Sitemap page."
+msgstr ""
+"Uma área de widget, usada como barra lateral para página de mapa de site."
+
+#: ../functions.php:698
+msgid "Home Page Before Content"
+msgstr "Página Inicial Anterior ao Conteúdo"
+
+#: ../functions.php:700
+msgid "A widget area positioned just above the Home Page Main Content area."
+msgstr ""
+"Uma área de widget posicionada logo acima da área de Conteúdo Principal da "
+"Página Inicial."
+
+#: ../functions.php:709 ../udesign_options_page.php:2054
+#: ../udesign_options_page.php:2056
+msgid "Home Page Column 1"
+msgstr "Coluna 1 da Página Inicial "
+
+#: ../functions.php:711
+msgid "A widget area, used as the 1st column in the Main Content area."
+msgstr ""
+"Uma área de widget, usada como primeira coluna na área de Conteúdo Principal."
+
+#: ../functions.php:719
+msgid "Home Page Column 2"
+msgstr "Coluna 2 da Página Incial"
+
+#: ../functions.php:721
+msgid "A widget area, used as the 2nd column in the Main Content area."
+msgstr ""
+"Uma área de widget, usada como segunda coluna na área de Conteúdo Principal."
+
+#: ../functions.php:729
+msgid "Home Page Column 3"
+msgstr "Coluna 3 da Página Inicial"
+
+#: ../functions.php:731
+msgid "A widget area, used as the 3rd column in the Main Content area."
+msgstr ""
+"Uma área de widget, usada como terceira coluna na área de Conteúdo Principal."
+
+#: ../functions.php:739
+msgid "Home Page Column 4"
+msgstr "Coluna 4 da Página Inicial"
+
+#: ../functions.php:741
+msgid "A widget area, used as the 4th column in the Main Content area."
+msgstr ""
+"Uma área de widget, usada como quarta coluna na área de Conteúdo Principal."
+
+#: ../functions.php:750
+msgid "Home Page After Content Row 1"
+msgstr "Página Inicial Depois do Conteúdo da Linha 1"
+
+#: ../functions.php:752
+msgid "A widget area positioned just below the Home Page Main Content area."
+msgstr ""
+"Uma área de widget posicionada logo abaixo da área de Conteúdo Principal da "
+"Página Inicial."
+
+#: ../functions.php:761
+msgid "Home Page After Content Row 2"
+msgstr "Página Inicial Depois do Conteúdo da Linha 2"
+
+#: ../functions.php:763
+msgid "A widget area positioned just above the Bottom Widget area."
+msgstr "Uma área de widget posicionada logo acima da área do Widget dp Fundo."
+
+#: ../functions.php:772
+msgid "Bottom 1"
+msgstr "Fundo 1"
+
+#: ../functions.php:774
+msgid ""
+"A widget area, used as the 1st column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Uma área de widget usada como a primeira coluna na área do Fundo (logo acima "
+"do rodapé)."
+
+#: ../functions.php:782
+msgid "Bottom 2"
+msgstr "Fundo 2"
+
+#: ../functions.php:784
+msgid ""
+"A widget area, used as the 2nd column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Uma área de widget usada como a segunda coluna na área do Fundo (logo acima "
+"do rodapé)."
+
+#: ../functions.php:792
+msgid "Bottom 3"
+msgstr "Fundo 3"
+
+#: ../functions.php:794
+msgid ""
+"A widget area, used as the 3rd column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Uma área de widget usada como a terceira coluna na área do Fundo (logo acima "
+"do rodapé)."
+
+#: ../functions.php:802
+msgid "Bottom 4"
+msgstr "Fundo 4"
+
+#: ../functions.php:804
+msgid ""
+"A widget area, used as the 4th column in the Bottom area (just above the "
+"footer)."
+msgstr ""
+"Uma área de widget usada como a quarta coluna na área do Fundo (logo acima "
+"do rodapé)."
+
+#: ../functions.php:814
+msgid "A widget area, used as a sidebar for the Page Template 2."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 2."
+
+#: ../functions.php:824
+msgid "A widget area, used as a sidebar for the Page Template 3."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 3."
+
+#: ../functions.php:834
+msgid "A widget area, used as a sidebar for the Page Template 4."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 4."
+
+#: ../functions.php:844
+msgid "A widget area, used as a sidebar for the Page Template 5."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 5."
+
+#: ../functions.php:854
+msgid "A widget area, used as a sidebar for the Page Template 6."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 6."
+
+#: ../functions.php:864
+msgid "A widget area, used as a sidebar for the Page Template 7."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 7."
+
+#: ../functions.php:874
+msgid "A widget area, used as a sidebar for the Page Template 8."
+msgstr ""
+"Uma área de widget usada como uma barra lateral para o Template Página 8."
+
+#: ../functions.php:883
+msgid "Top Area Social Media"
+msgstr "Área do Topo para Mídias Sociais"
+
+#: ../functions.php:885
+msgid ""
+"A widget area positioned in the top right corner of the site designated for "
+"social media links and icons."
+msgstr ""
+"Uma área de widget posicionada no canto superior direito do site, designado "
+"para links e ícones de mídias sociais."
+
+#: ../functions.php:1213
+#, php-format
+msgid "Archive for the <em>%s</em> Category"
+msgstr "Arquivo para <em>%s</em> Categoria"
+
+#: ../functions.php:1216
+#, php-format
+msgid "Search Results for <em>%s</em>"
+msgstr "Resultados de pesquisa para  <em>%s</em>"
+
+#: ../functions.php:1218
+msgid "Page Not Found (Error 404)"
+msgstr "Página Não Encontrada (Erro 404)"
+
+#: ../functions.php:1220
+#, php-format
+msgid "Posts Tagged <em>%s</em>"
+msgstr ""
+
+#: ../functions.php:1222 ../functions.php:1224 ../functions.php:1226
+#, php-format
+msgid "Archive for %s"
+msgstr "Arquivo para %s"
+
+#: ../functions.php:1228
+msgid "Author Archive"
+msgstr "Arquivos por Autor"
+
+#: ../functions.php:1230
+msgid "Blog Archives"
+msgstr "Arquivos do Blog"
+
+#: ../functions.php:1495
+msgid "Feedback"
+msgstr "Feedback"
+
+#: ../functions.php:1510
+msgid "Subscribe"
+msgstr "Assinar"
+
+#: ../functions.php:1576
+msgid "Search..."
+msgstr "Pesquisar..."
+
+#: ../functions.php:1690
+msgid "Edit this page"
+msgstr "Editar esta página"
+
+#: ../functions.php:1741 ../functions.php:1764 ../functions.php:1793
+#: ../lib/structured-data/schema/u-design-schema.php:26
+#: ../lib/structured-data/schema/u-design-schema.php:52
+#, php-format
+msgid "By %1$s on %2$s "
+msgstr "Por %1$s em %2$s"
+
+#: ../functions.php:1743 ../functions.php:1766 ../functions.php:1795
+#, php-format
+msgid "On %1$s "
+msgstr "Em %1$s"
+
+#: ../functions.php:1745 ../functions.php:1768 ../functions.php:1797
+#: ../lib/structured-data/schema/u-design-schema.php:32
+#: ../lib/structured-data/schema/u-design-schema.php:58
+msgid "Edit"
+msgstr "Editar"
+
+#: ../functions.php:1746 ../functions.php:1769 ../functions.php:1798
+#: ../lib/structured-data/schema/u-design-schema.php:33
+#: ../lib/structured-data/schema/u-design-schema.php:59
+#, fuzzy
+msgid "Tags: "
+msgstr "Tags"
+
+#: ../functions.php:1879
+msgid "Go to next post"
+msgstr ""
+
+#: ../functions.php:1879
+#, fuzzy
+msgid "Next Post"
+msgstr "Últimas Postagens"
+
+#: ../functions.php:1914
+msgid "Go to previous post"
+msgstr ""
+
+#: ../functions.php:1914
+msgid "Previous Post"
+msgstr ""
+
+#: ../functions.php:1931
+msgid "Leave a comment"
+msgstr "Deixe um comentário"
+
+#: ../functions.php:1952
+msgid ""
+" is proudly powered by <a href=\"http://wordpress.org/\"><strong>WordPress</"
+"strong></a>"
+msgstr ""
+" é orgulhosamente, desenvolvido com <a href=\"http://wordpress.org/"
+"\"><strong>WordPress</strong></a>"
+
+#: ../functions.php:1955
+#, php-format
+msgid " | Designed with %1$sU-Design Theme%2$s"
+msgstr ""
+
+#: ../functions.php:1958
+msgid "Entries (RSS)"
+msgstr "Entradas (RSS)"
+
+#: ../functions.php:1961
+msgid "Comments (RSS)"
+msgstr "Comentários (RSS)"
+
+#: ../functions.php:1977 ../lib/shortcodes/u-design-shortcodes.php:195
+msgid "Back to Top"
+msgstr "Voltar ao topo"
+
+#: ../functions.php:2133
+msgid "Site Feeds"
+msgstr "Site Feeds-RSS"
+
+#: ../functions.php:2135
+msgid "Main RSS Feed"
+msgstr "Principal RSS Feed"
+
+#: ../functions.php:2136
+msgid "Comments RSS Feed"
+msgstr "Comentários RSS Feed"
+
+#: ../functions.php:2139
+msgid "Pages"
+msgstr "Páginas"
+
+#: ../functions.php:2144 ../page-Portfolio1Col.php:55
+#: ../page-Portfolio2Col.php:55 ../page-Portfolio3Col.php:55
+#: ../page-Portfolio4Col.php:55 ../widgets/customCategory-widget.php:125
+msgid "Categories"
+msgstr "Categorias"
+
+#: ../functions.php:2149
+msgid "Monthly Archives"
+msgstr "Arquivos por mês"
+
+#: ../functions.php:2154
+msgid "Tags"
+msgstr "Tags"
+
+#: ../functions.php:2160
+msgid "All Articles"
+msgstr "Todos os Artigos"
+
+#: ../functions.php:2165
+msgid "j-M-y"
+msgstr ""
+
+#: ../functions.php:2165
+msgid "0 Comment"
+msgstr "0 Comentários"
+
+#: ../functions.php:2366 ../lib/u-design-cmb2/u-design-cmb2-functions.php:35
+#, fuzzy
+msgid "U-Design Options"
+msgstr "U-Design: Postagens Recentes"
+
+#: ../functions.php:2375 ../udesign-icon-fonts-options.php:52
+#, fuzzy
+msgid "Settings"
+msgstr "Configurações de Fonte"
+
+#: ../functions.php:2383
+#, fuzzy
+msgid "Icon Fonts"
+msgstr "Tamanho da Fonte do Slogan"
+
+#: ../functions.php:2391
+#, fuzzy
+msgid "Updates"
+msgstr "Atualizar"
+
+#: ../image.php:36
+msgid "Previous Image"
+msgstr ""
+
+#: ../image.php:37
+#, fuzzy
+msgid "Next Image"
+msgstr "Imagem Padrão"
+
+#: ../image.php:49
+msgid "Sorry, no attachments matched your criteria."
+msgstr "Desculpe, nenhum anexo corresponde aos seus critérios."
+
+#: ../page-Blog.php:117
+msgid "No entries were found under this blog section."
+msgstr ""
+
+#: ../page-Contact.php:48
+msgid "Please respond to the reCAPTCHA question"
+msgstr ""
+
+#: ../page-Contact.php:53 ../page-Contact.php:194
+msgid "Please enter a name"
+msgstr "Por favor digite um nome."
+
+#: ../page-Contact.php:55 ../page-Contact.php:195
+msgid "Your name must consist of at least 2 characters"
+msgstr "Seu nome deve conter no mínimo 2 caracteres"
+
+#: ../page-Contact.php:59 ../page-Contact.php:61 ../page-Contact.php:201
+msgid "Please enter a valid email address"
+msgstr "Por favor escreva um endereço de e-mail válido"
+
+#: ../page-Contact.php:66
+msgid "phone number"
+msgstr "número de telefone"
+
+#: ../page-Contact.php:69
+msgid "extension"
+msgstr "extensão"
+
+#: ../page-Contact.php:73
+#, php-format
+msgid "Please enter a valid %1$s and %2$s"
+msgstr "Por favor digite um %1$s e %2$s válidos"
+
+#: ../page-Contact.php:75 ../page-Contact.php:77
+#, php-format
+msgid "Please enter a valid %s"
+msgstr "Por favor digite um %s válido"
+
+#: ../page-Contact.php:81
+msgid "Please enter your message"
+msgstr "Por favor digite sua mensagem"
+
+#: ../page-Contact.php:85 ../page-Contact.php:207
+msgid "ext."
+msgstr "ext."
+
+#: ../page-Contact.php:86
+msgid "Phone: "
+msgstr "Fone:"
+
+#: ../page-Contact.php:89
+#, php-format
+msgid "Contact Form submission from %s"
+msgstr "Entre em contato com a submissão do formulário %s"
+
+#: ../page-Contact.php:90
+msgid "Sender's name: "
+msgstr "Nome do remetente:"
+
+#: ../page-Contact.php:91
+msgid "E-mail: "
+msgstr "E-mail:"
+
+#: ../page-Contact.php:93
+msgid "Message: "
+msgstr "Mensagem:"
+
+#: ../page-Contact.php:147 ../page-PageTemplate2.php:26
+#: ../page-PageTemplate3.php:26 ../page-PageTemplate4.php:26
+#: ../page-PageTemplate5.php:26 ../page-PageTemplate6.php:26
+#: ../page-PageTemplate7.php:26 ../page-PageTemplate8.php:26
+#: ../page-Portfolio1Col.php:40 ../page-Portfolio1ColSortable.php:46
+#: ../page-Portfolio2Col.php:40 ../page-Portfolio2ColSortable.php:46
+#: ../page-Portfolio3Col.php:40 ../page-Portfolio3ColSortable.php:46
+#: ../page-Portfolio4Col.php:40 ../page-Portfolio4ColSortable.php:46
+#: ../page.php:23
+msgid "<p class=\"serif\">Read the rest of this page &raquo;</p>"
+msgstr "<p class=\"serif\">Ler o restante desta página &raquo;</p>"
+
+#: ../page-Contact.php:176
+msgid "Email Successfully Sent!"
+msgstr "E-mail enviado com sucesso!"
+
+#: ../page-Contact.php:177
+#, php-format
+msgid ""
+"Thank you <strong>%s</strong> for using our contact form! Your email was "
+"successfully sent and we will be in touch with you shortly."
+msgstr ""
+"Obrigado <strong>%s</strong> por usar nosso contato! Seu e-mail foi enviado "
+"com sucesso e estaremos em contato com você em breve."
+
+#: ../page-Contact.php:183
+msgid "Failed to connect to mailserver!"
+msgstr "Falhou ao conectar ao servidor de e-mail!"
+
+#: ../page-Contact.php:189
+msgid "Please use the form below to send us an email:"
+msgstr "Utilize o formulário abaixo para nos enviar um e-mail:"
+
+#: ../page-Contact.php:191
+msgid "(required, at least 2 characters)"
+msgstr "(exigido, no mínimo 2 caracteres)"
+
+#: ../page-Contact.php:193
+msgid "required"
+msgstr "exigido"
+
+#: ../page-Contact.php:199
+msgid "E-Mail"
+msgstr "E-mail"
+
+#: ../page-Contact.php:205
+msgid "Phone"
+msgstr "Fone"
+
+#: ../page-Contact.php:205
+msgid "(optional)"
+msgstr "(opcional)"
+
+#: ../page-Contact.php:212
+msgid "Your comment"
+msgstr "Seu comentário"
+
+#: ../page-Contact.php:214
+msgid "<br />Please enter your message"
+msgstr "<br /> Por favor digite sua mensagem"
+
+#: ../page-Contact.php:250
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../page-Portfolio1Col.php:58 ../page-Portfolio1Col.php:60
+#: ../page-Portfolio2Col.php:58 ../page-Portfolio2Col.php:60
+#: ../page-Portfolio3Col.php:58 ../page-Portfolio3Col.php:60
+#: ../page-Portfolio4Col.php:58 ../page-Portfolio4Col.php:60
+msgid "All"
+msgstr "Todas"
+
+#: ../page-Portfolio1Col.php:141 ../page-Portfolio1ColSortable.php:197
+#: ../page-Portfolio2Col.php:146 ../page-Portfolio2ColSortable.php:196
+#: ../page-Portfolio3Col.php:146 ../page-Portfolio3ColSortable.php:196
+#: ../page-Portfolio4Col.php:146 ../page-Portfolio4ColSortable.php:196
+msgid "Portfolio section for this page has not been found!"
+msgstr "Seção de Portfolio para esta página não foi encontrada"
+
+#: ../page-Portfolio1Col.php:142 ../page-Portfolio1ColSortable.php:198
+#: ../page-Portfolio2Col.php:147 ../page-Portfolio2ColSortable.php:197
+#: ../page-Portfolio3Col.php:147 ../page-Portfolio3ColSortable.php:197
+#: ../page-Portfolio4Col.php:147 ../page-Portfolio4ColSortable.php:197
+msgid ""
+"<strong>Reason:</strong> No category has been assigned as Portfolio section "
+"for this page yet. In order to fix this, go to the theme's options page and "
+"assign a category for this page."
+msgstr ""
+"<strong>Razão:</strong> Nenhuma categoria foi atribuída como seção de "
+"Portfolio para esta página ainda. Para corrigir isso, ir para a página do "
+"tema opções e atribuir uma categoria para esta página."
+
+#: ../page-Portfolio1ColSortable.php:61 ../page-Portfolio2ColSortable.php:61
+#: ../page-Portfolio3ColSortable.php:61 ../page-Portfolio4ColSortable.php:61
+#, fuzzy
+msgid "Categories:"
+msgstr "Categorias"
+
+#: ../page-Portfolio1ColSortable.php:62 ../page-Portfolio1ColSortable.php:92
+#: ../page-Portfolio2ColSortable.php:62 ../page-Portfolio2ColSortable.php:92
+#: ../page-Portfolio3ColSortable.php:62 ../page-Portfolio3ColSortable.php:92
+#: ../page-Portfolio4ColSortable.php:62 ../page-Portfolio4ColSortable.php:92
+msgid "Show All"
+msgstr ""
+
+#: ../page-Portfolio1ColSortable.php:91 ../page-Portfolio2ColSortable.php:91
+#: ../page-Portfolio3ColSortable.php:91 ../page-Portfolio4ColSortable.php:91
+#, fuzzy
+msgid "Tags:"
+msgstr "Tags"
+
+#: ../page-Portfolio1ColSortable.php:106 ../page-Portfolio2ColSortable.php:106
+#: ../page-Portfolio3ColSortable.php:106 ../page-Portfolio4ColSortable.php:106
+msgid "Sort By:"
+msgstr ""
+
+#: ../page-Portfolio1ColSortable.php:107 ../page-Portfolio2ColSortable.php:107
+#: ../page-Portfolio3ColSortable.php:107 ../page-Portfolio4ColSortable.php:107
+msgid "Original Order"
+msgstr ""
+
+#: ../page-Portfolio1ColSortable.php:109 ../page-Portfolio2ColSortable.php:109
+#: ../page-Portfolio3ColSortable.php:109 ../page-Portfolio4ColSortable.php:109
+msgid "Alphabetical"
+msgstr ""
+
+#: ../page-Portfolio1ColSortable.php:113 ../page-Portfolio2ColSortable.php:113
+#: ../page-Portfolio3ColSortable.php:113 ../page-Portfolio4ColSortable.php:113
+msgid "Ascending"
+msgstr ""
+
+#: ../page-Portfolio1ColSortable.php:114 ../page-Portfolio2ColSortable.php:114
+#: ../page-Portfolio3ColSortable.php:114 ../page-Portfolio4ColSortable.php:114
+msgid "Descending"
+msgstr ""
+
+#: ../search.php:55
+msgid "Didn't find what you were looking for? Refine your search!"
+msgstr "Não encontrou o que estava procurando? Refine sua busca!"
+
+#: ../sidebar-BlogSidebar.php:22 ../sidebar-ContactSidebar.php:22
+#: ../sidebar-PagesSidebar2.php:21 ../sidebar-PagesSidebar3.php:21
+#: ../sidebar-PagesSidebar4.php:21 ../sidebar-PagesSidebar5.php:21
+#: ../sidebar-PagesSidebar6.php:21 ../sidebar-PagesSidebar7.php:21
+#: ../sidebar-PagesSidebar8.php:21 ../sidebar-PortfolioSidebar.php:24
+#: ../sidebar-SitemapSidebar.php:22 ../sidebar.php:21
+msgid "About This Sidebar"
+msgstr "Sobre esta barra lateral"
+
+#: ../sidebar-BlogSidebar.php:24
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>BlogSidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>BlogSidebar</em></strong>"
+
+#: ../sidebar-ContactSidebar.php:24
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>ContactSidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>ContactSidebar</em></strong>"
+
+#: ../sidebar-PagesSidebar2.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"2</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-2</em></strong>"
+
+#: ../sidebar-PagesSidebar3.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"3</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-3</em></strong>"
+
+#: ../sidebar-PagesSidebar4.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"4</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-4</em></strong>"
+
+#: ../sidebar-PagesSidebar5.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"5</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-5</em></strong>"
+
+#: ../sidebar-PagesSidebar6.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"6</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-6</em></strong>"
+
+#: ../sidebar-PagesSidebar7.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"7</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-7</em></strong>"
+
+#: ../sidebar-PagesSidebar8.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar "
+"8</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar-8</em></strong>"
+
+#: ../sidebar-PortfolioSidebar.php:26
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the "
+"<strong><em>PortfolioSidebar</em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PortifolioSidebar</em></strong>"
+
+#: ../sidebar-SitemapSidebar.php:24
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>SitemapSidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>SiteMapSideBar</em></strong>"
+
+#: ../sidebar.php:23
+msgid ""
+"To edit this sidebar, go to admin backend's <strong><em>Appearance -> "
+"Widgets</em></strong> and place widgets into the <strong><em>Pages Sidebar</"
+"em></strong> Widget Area"
+msgstr ""
+"Para editar esta barra lateral, ir a painel do administrador "
+"<strong><em>Aparência -> Widgets </ em> </ strong> e coloque widgets na Área "
+"de Widget <strong><em>PagesSideBar</em></strong>"
+
+#: ../single-Portfolio.php:36 ../single.php:43
+msgid "Sorry, no posts matched your criteria."
+msgstr "Desculpe, nenhuma postagem corresponde aos seus critérios."
+
+#: ../udesign-icon-fonts-options.php:92 ../udesign-updates-options.php:97
+#: ../udesign_options_page.php:527
+msgid "Settings saved."
+msgstr "Configurações salvas."
+
+#: ../udesign-icon-fonts-options.php:97
+msgid "Nothing to delete! Fontello installation was not found."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:104
+#, fuzzy
+msgid "U-Design Icon Fonts Options"
+msgstr "U-Design: Postagens Recentes"
+
+#: ../udesign-icon-fonts-options.php:108
+msgid "Fontello"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:109
+msgid "Font Awesome"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:125
+msgid "Remove the Fontello Icon Fonts"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:128
+msgid ""
+"Deleting or replacing the currently installed Fontallo icons would affect "
+"those icons used in your content, so don't forget to update your content "
+"accordingly."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:137 ../udesign-icon-fonts-options.php:228
+#: ../udesign-updates-options.php:119 ../udesign_options_page.php:569
+#: ../udesign_options_page.php:1434 ../udesign_options_page.php:1491
+#: ../udesign_options_page.php:1519 ../udesign_options_page.php:1569
+#: ../udesign_options_page.php:1614 ../udesign_options_page.php:1781
+#: ../udesign_options_page.php:1892 ../udesign_options_page.php:1930
+#: ../udesign_options_page.php:1972 ../udesign_options_page.php:2169
+#: ../udesign_options_page.php:2536 ../udesign_options_page.php:2729
+#: ../udesign_options_page.php:2832 ../udesign_options_page.php:5784
+#: ../udesign_options_page.php:6369
+msgid "Save Changes"
+msgstr "Salvar mudanças"
+
+#: ../udesign-icon-fonts-options.php:160 ../udesign_options_page.php:6219
+#, fuzzy
+msgid "General Information"
+msgstr "Opções Gerais"
+
+#: ../udesign-icon-fonts-options.php:161 ../udesign-icon-fonts-options.php:280
+#, fuzzy
+msgid "Icon Fonts Documentation"
+msgstr "Documentação"
+
+#: ../udesign-icon-fonts-options.php:163
+msgid ""
+"By default the theme comes with Font Awesome icons already preloaded, so you "
+"don't have to do anything to install the fonts."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:167
+#, php-format
+msgid "For your reference a full list of all the FA icons can be found at %s"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:168
+msgid "The Icons List"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:175
+#, php-format
+msgid "Here's some example uses from the Font Awesome website: %s"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:176
+msgid "Font-Awesome Examples"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:182
+msgid "Usage Instructions within WordPress and the uDesign theme"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:184
+#, php-format
+msgid ""
+"Within WordPress you can place Font Awesome icons just about anywhere with "
+"the %s tag."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:187
+msgid ""
+"I have also provided a button in each post/page editor to insert icons in "
+"your content directly. This option will allow you to select, style and "
+"generate your code:"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:193
+#, fuzzy
+msgid "The Shortcode"
+msgstr "Atalhos U-Design"
+
+#: ../udesign-icon-fonts-options.php:195
+msgid ""
+"Font Awesome as well as Fontello icons can also be inserted in your content "
+"with a shortcode which is specific to the uDesign theme, example:"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:199
+#, fuzzy
+msgid "Specify the color:"
+msgstr "Cor do texto do Slider"
+
+#: ../udesign-icon-fonts-options.php:203
+msgid ""
+"To add animated spin use \"fa-spin\" for Font Awesome (and for Fontello "
+"icons use \"animate-spin\" instead):"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:207
+msgid "With \"circle-wrap\" added:"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:211
+msgid "The size can be specified in the following way:"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:253
+msgid "Fontello Icon Fonts Uploader"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:255
+msgid "Import the fonts:"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:267
+#, fuzzy
+msgid "Font Awesome Options"
+msgstr "Opções do Rodapé"
+
+#: ../udesign-icon-fonts-options.php:269
+msgid "Disable Font Awesome"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:279
+msgid "Video Tutorial"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:282
+#, php-format
+msgid ""
+"Before you can use this section you will need to go to %s, choose the icon "
+"fonts you would like to include in the theme and then generate your zip "
+"file, upload the fontello zip file in the section below."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:285
+msgid "Go to http://fontello.com/"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:290
+msgid ""
+"By default the Font Awesome fonts and styles are loaded within the theme. "
+"This means that the icons are available for your choosing in the page, post "
+"or anywhere else in your content. If you would like to remove Font Awesome "
+"from the available icon fonts, please use the option below to disable them:"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:304
+msgid "Upload Fontello \"zip\" File"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:318
+msgid ""
+"This will remove, unload any styles or files associated with the Font "
+"Awesome icons from the theme."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:407
+msgid "uDesign Error: Unzipping the Fontello file failed!"
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:423 ../udesign-icon-fonts-options.php:472
+msgid ""
+"uDesign Error: You don't have direct write permissions to the file system."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:561
+msgid "uDesign Error: The Fontello config file has no content."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:568
+msgid "uDesign Error: There was an issue decoding the Fontello config file."
+msgstr ""
+
+#: ../udesign-icon-fonts-options.php:647
+msgid "icon-emo-happy"
+msgstr ""
+
+#: ../udesign-updates-options.php:69
+#, fuzzy
+msgid "U-Design Updates Options"
+msgstr "U-Design: Postagens Recentes"
+
+#: ../udesign-updates-options.php:105
+#, fuzzy
+msgid "Theme Update"
+msgstr "Atualizar"
+
+#: ../udesign-updates-options.php:106
+#, fuzzy
+msgid "Plugins Update"
+msgstr "Atualizar"
+
+#: ../udesign-updates-options.php:112
+msgid "UPDATE WITH WORDPRESS UPDATES"
+msgstr ""
+
+#: ../udesign-updates-options.php:126
+#, php-format
+msgid ""
+"When a theme update is made avaible you will be notified and can update "
+"under the %s page."
+msgstr ""
+
+#: ../udesign-updates-options.php:127
+#, fuzzy
+msgid "Go to the Updates page"
+msgstr "Configurações Gerais:"
+
+#: ../udesign-updates-options.php:127
+msgid "Dashboard &rarr; Updates"
+msgstr ""
+
+#: ../udesign-updates-options.php:129
+msgid ""
+"Please note: If you have successfully registered the above Username and API "
+"Key and no updates are showing up under the \"Dashboard &rarr; Updates\" "
+"page, wait a few minutes and refresh the page. It is because the API "
+"connection may be cached in the database."
+msgstr ""
+
+#: ../udesign-updates-options.php:136
+msgid "Coming soon..."
+msgstr ""
+
+#: ../udesign-updates-options.php:139
+#, php-format
+msgid ""
+"In future updates I'll be adding an option in this page to update the theme "
+"related plugins with one click. Those are the plugins that currently require "
+"a multistep process to be updated (disable, delete, install again). Until "
+"then follow the %s."
+msgstr ""
+
+#: ../udesign-updates-options.php:140
+#, fuzzy
+msgid "Open the documentation"
+msgstr "Documentação"
+
+#: ../udesign-updates-options.php:140
+msgid "plugins update instructions in the documentation"
+msgstr ""
+
+#: ../udesign-updates-options.php:164
+#, fuzzy
+msgid "ThemeForest Account Information"
+msgstr "Informação Telefone:"
+
+#: ../udesign-updates-options.php:166
+msgid "ThemeForest Username:"
+msgstr ""
+
+#: ../udesign-updates-options.php:167
+msgid "Secret ThemeForest API Key:"
+msgstr ""
+
+#: ../udesign-updates-options.php:191
+#, php-format
+msgid ""
+"In order to be able to update the theme you need to provide your ThemeForest "
+"Username and API Key for the account that you purchased the theme from. You "
+"can obtain an API key by visiting the %s (make sure that you are signed in) "
+"then clicking the \"My Settings\" tab. At the bottom of the page you will "
+"find your account's API key and a button to regenerate a new one if needed."
+msgstr ""
+
+#: ../udesign-updates-options.php:194
+msgid "Go to http://themeforest.net/"
+msgstr ""
+
+#: ../udesign-updates-options.php:266
+msgid "ALTERNATIVE UPDATE METHODS"
+msgstr ""
+
+#: ../udesign-updates-options.php:270
+#, php-format
+msgid ""
+"It looks like you have the <em>Envato WordPress Toolkit</em> plugin "
+"installed and active already. If this is the first time using the plugin "
+"have your ThemeForest Username and API key ready. To proceed with the plugin "
+"now go to the %s page now and follow the insturctions there."
+msgstr ""
+
+#: ../udesign_options_page.php:412
+msgid "U-Design"
+msgstr "U-Design"
+
+#: ../udesign_options_page.php:468
+msgid "Help"
+msgstr "Ajuda"
+
+#: ../udesign_options_page.php:469
+msgid "General Options"
+msgstr "Opções Gerais"
+
+#: ../udesign_options_page.php:470
+#, fuzzy
+msgid "Menus Options"
+msgstr "Opções Gerais"
+
+#: ../udesign_options_page.php:471
+#, fuzzy
+msgid "Layout Options"
+msgstr "Opções do Rodapé"
+
+#: ../udesign_options_page.php:472
+msgid "Font Settings"
+msgstr "Configurações de Fonte"
+
+#: ../udesign_options_page.php:473
+msgid "Custom Colors"
+msgstr "Personalizar Cores "
+
+#: ../udesign_options_page.php:474
+msgid "Front Page Sliders"
+msgstr "Sliders - Destaques da Página Principal"
+
+#: ../udesign_options_page.php:475
+msgid "Portfolio Section"
+msgstr "Seção do Portfolio"
+
+#: ../udesign_options_page.php:476
+msgid "Blog Section"
+msgstr "Seção do Blog"
+
+#: ../udesign_options_page.php:477
+msgid "Contact Page"
+msgstr "Página de Contato"
+
+#: ../udesign_options_page.php:478
+msgid "Footer Options"
+msgstr "Opções do Rodapé"
+
+#: ../udesign_options_page.php:479
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: ../udesign_options_page.php:480
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../udesign_options_page.php:481
+#, fuzzy
+msgid "Advanced Options"
+msgstr "Opções Gerais"
+
+#: ../udesign_options_page.php:544
+#, php-format
+msgid "Options <small>(version %1$s)</small>"
+msgstr "Opções <small>(versão %1$s)</small>"
+
+#: ../udesign_options_page.php:574
+msgid "Reset to defaults"
+msgstr "Reiniciar para padrão"
+
+#: ../udesign_options_page.php:1357
+msgid "Cheatin' uh?"
+msgstr "Trapaceando, hein?!"
+
+#: ../udesign_options_page.php:1386
+msgid "U-Design theme help resources:"
+msgstr "Ajuda aos recursos do tema U-Design:"
+
+#: ../udesign_options_page.php:1388
+msgid "Documentation"
+msgstr "Documentação"
+
+#: ../udesign_options_page.php:1389
+#, fuzzy
+msgid "Go to the Support Forum"
+msgstr "Fórum de suporte"
+
+#: ../udesign_options_page.php:1389
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: ../udesign_options_page.php:1389
+#, php-format
+msgid ""
+"You should be able to register yourself with the Support Forum %1$sHERE%2$s."
+msgstr ""
+
+#: ../udesign_options_page.php:1390
+msgid "Go to the Video Tutorials"
+msgstr ""
+
+#: ../udesign_options_page.php:1390
+msgid "Video Tutorials (Author's YouTube Tutorials Channel)"
+msgstr "Tutoriais em vídeo (Canal de Tutoriais no Youtube do Autor)"
+
+#: ../udesign_options_page.php:1391
+#, fuzzy
+msgid "Go to the U-Design Demo Site"
+msgstr "Site Demonstração do U-Design"
+
+#: ../udesign_options_page.php:1391
+msgid "U-Design Demo Site"
+msgstr "Site Demonstração do U-Design"
+
+#: ../udesign_options_page.php:1392
+#, fuzzy
+msgid "Go to the U-Design Shortcodes examples"
+msgstr "Atalhos U-Design"
+
+#: ../udesign_options_page.php:1392
+msgid "U-Design Shortcodes"
+msgstr "Atalhos U-Design"
+
+#: ../udesign_options_page.php:1393
+msgid "Go to the \"Get the Code\" page"
+msgstr ""
+
+#: ../udesign_options_page.php:1393
+msgid ""
+"Get the Code: All of the Home page examples source code is available here."
+msgstr ""
+"Obter os códigos: Todos os exemplos de código fonte da Página Inicial estão "
+"disponíveis aqui."
+
+#: ../udesign_options_page.php:1399
+#, fuzzy
+msgid "Logo"
+msgstr "Sair"
+
+#: ../udesign_options_page.php:1403
+msgid "URL"
+msgstr ""
+
+#: ../udesign_options_page.php:1406
+msgid "Enter a URL or upload an image for your logo:"
+msgstr "Entre com uma URL ou suba uma imagem para usar como sua logo:"
+
+#: ../udesign_options_page.php:1408 ../udesign_options_page.php:1729
+#: ../udesign_options_page.php:6251
+msgid "Upload Logo"
+msgstr "Subir logo"
+
+#: ../udesign_options_page.php:1411
+#, fuzzy
+msgid ""
+"To upload an image click on \"Upload Logo\" button. Once you upload or "
+"choose your image click the \"Choose Image\" button to inserted it into the "
+"text field above."
+msgstr ""
+"Para carregar uma imagem clique no botão  \"Subir Logo\". Uma vez que a "
+"imagem é carregada, vai aparecer várias opções. Clique no botão \"Inserir ou "
+"Insert na postagem\". Depois de clicar em \"Inserir ou Insert na postagem "
+"\", um link da imagem carregada será inserido no campo de texto acima."
+
+#: ../udesign_options_page.php:1415
+#, fuzzy
+msgid "Link Dimensions"
+msgstr "Dimensões da logo"
+
+#: ../udesign_options_page.php:1420
+msgid "(Width X Height) in pixels."
+msgstr "(Largura x Altura) em pixels."
+
+#: ../udesign_options_page.php:1420
+msgid ""
+"Make sure to accurately enter the logo's width and height. This option will "
+"not resize the logo but will define the logo link (clickable area over the "
+"logo)."
+msgstr ""
+
+#: ../udesign_options_page.php:1424 ../udesign_options_page.php:1445
+#, fuzzy
+msgid "Position"
+msgstr "Posição Fixada"
+
+#: ../udesign_options_page.php:1428
+#, fuzzy
+msgid "Center the logo instead of the default position on the left. "
+msgstr "Mostrar o trecho em vez de todo o conteúdo do post na página do Blog."
+
+#: ../udesign_options_page.php:1430
+msgid ""
+"Please Note: In order for this to work make sure the logo width you've "
+"provided in the option above is an accurate representation of the logo's "
+"width. "
+msgstr ""
+
+#: ../udesign_options_page.php:1441
+msgid "Tagline"
+msgstr ""
+
+#: ../udesign_options_page.php:1449
+msgid "from the top."
+msgstr "do topo."
+
+#: ../udesign_options_page.php:1453
+msgid "from the left. Enter a number between 0 and 400."
+msgstr "da esquerda. Digite um número entre 0 e 400."
+
+#: ../udesign_options_page.php:1454
+#, fuzzy, php-format
+msgid ""
+"Please note that the actual Slogan text can be changed or deleted at "
+"%1$sSettings %2$s General%3$s <strong>Tagline</strong> option."
+msgstr ""
+"Observe que o texto de Slogan pode ser mudado ou deletado na opção "
+"%1$sConfigurações ->Geral%2$s <strong>linha de tag/tagline>."
+
+#: ../udesign_options_page.php:1454
+#, fuzzy
+msgid "Go to the \"General Settings\" page"
+msgstr "Configurações Gerais:"
+
+#: ../udesign_options_page.php:1459
+#, fuzzy
+msgid "Font Size"
+msgstr "Tamanho da Fonte:"
+
+#: ../udesign_options_page.php:1498
+#, fuzzy
+msgid "Top Area"
+msgstr "Altura do Área do Topo"
+
+#: ../udesign_options_page.php:1502
+#, fuzzy
+msgid "Height"
+msgstr "Altura"
+
+#: ../udesign_options_page.php:1505
+#, fuzzy
+msgid "in pixels."
+msgstr "(Altura) em pixels."
+
+#: ../udesign_options_page.php:1506
+msgid "Note: the minimum recommended height is 55px."
+msgstr "OBS: a altura mínima recomendada é de 55 px."
+
+#: ../udesign_options_page.php:1510
+msgid "Search Box"
+msgstr "Caixa de Pesquisa"
+
+#: ../udesign_options_page.php:1514
+msgid "Enable the Search box displayed in the top area of the page."
+msgstr "Habilitar a caixa de pesquisa mostrada na área do topo da página."
+
+#: ../udesign_options_page.php:1526
+#, fuzzy
+msgid "Call to action"
+msgstr "Seção do Blog"
+
+#: ../udesign_options_page.php:1530
+msgid "Phone Number Information"
+msgstr "Informação Telefone:"
+
+#: ../udesign_options_page.php:1533
+#, fuzzy
+msgid ""
+"Use this field to provide a phone number or any other piece of information.  "
+"It is displayed near the search box located at the top right corner of the "
+"theme."
+msgstr ""
+"Utilize este campo para fornecer um número de telefone ou qualquer outra "
+"informação simples (30 caracteres de limite para a exibição). Ele é exibido "
+"perto da caixa de pesquisa localizado no canto superior direito do tema."
+
+#: ../udesign_options_page.php:1537
+msgid "Page Peel"
+msgstr "Page Peel (Página Orelha)"
+
+#: ../udesign_options_page.php:1542
+#, fuzzy
+msgid ""
+"Display the page curl/peel located in the top right corner of the site. "
+"Could be used for your FeedBurner subscription or advertising."
+msgstr ""
+"Page Peel (Mostrar o efeito de \"página orelha\" no canto superior direito "
+"do site). Pode ser usado como assinatura de seu FeedBurner ou publicidade."
+
+#: ../udesign_options_page.php:1544 ../udesign_options_page.php:1557
+msgid "Enter a URL:"
+msgstr ""
+
+#: ../udesign_options_page.php:1550
+msgid "Feedback Button"
+msgstr "Botão de Feedback"
+
+#: ../udesign_options_page.php:1555
+#, fuzzy
+msgid "Display the Feedback button located in the most left side of the site."
+msgstr ""
+"habilitar o botão de Feedback (mostrar o botão de Feedback na extremidade "
+"esquerda do site)."
+
+#: ../udesign_options_page.php:1563
+msgid ""
+"Fix the position of the \"Feedback\" button to prevent it from scrolling "
+"with the page."
+msgstr ""
+"Fixar a posição do botão \"Feedback\" para impedi-lo de se deslocar com a "
+"página."
+
+#: ../udesign_options_page.php:1576
+#, fuzzy
+msgid "prettyPhoto"
+msgstr "Habilitar o script prettyPhoto"
+
+#: ../udesign_options_page.php:1580 ../udesign_options_page.php:2431
+msgid "Enable"
+msgstr "Ativar"
+
+#: ../udesign_options_page.php:1584
+#, fuzzy
+msgid "Enable prettyPhoto lightbox script."
+msgstr "Habilitar o script prettyPhoto"
+
+#: ../udesign_options_page.php:1586
+#, fuzzy, php-format
+msgid ""
+"In case of conflicts with some other lightbox plugins you may wish to "
+"disable the %1$sprettyPhoto%2$s script."
+msgstr ""
+"Ativar script %1$sprettyPhoto%2$s. Em caso de conflito com outros plugins "
+"lightbox, você pode desativar o script  %1$sprettyPhoto%2$s."
+
+#: ../udesign_options_page.php:1590
+msgid "Style Themes"
+msgstr ""
+
+#: ../udesign_options_page.php:1592
+msgid "Theme:"
+msgstr ""
+
+#: ../udesign_options_page.php:1594
+msgid "dark_rounded"
+msgstr ""
+
+#: ../udesign_options_page.php:1595
+msgid "dark_square"
+msgstr ""
+
+#: ../udesign_options_page.php:1596
+msgid "light_rounded"
+msgstr ""
+
+#: ../udesign_options_page.php:1597
+msgid "light_square"
+msgstr ""
+
+#: ../udesign_options_page.php:1598
+msgid "pp_default"
+msgstr ""
+
+#: ../udesign_options_page.php:1599
+msgid "facebook"
+msgstr ""
+
+#: ../udesign_options_page.php:1601
+msgid ""
+"This option allows you to choose from a few prettyPhoto style themes "
+"available by default."
+msgstr ""
+
+#: ../udesign_options_page.php:1605
+#, fuzzy
+msgid "Gallery Overlay"
+msgstr "Habilitar o script prettyPhoto"
+
+#: ../udesign_options_page.php:1609
+msgid ""
+"Disable the mini gallery of thumbnails that overlays the preview image on "
+"mouse over."
+msgstr ""
+
+#: ../udesign_options_page.php:1621
+#, fuzzy
+msgid "General"
+msgstr "Opções Gerais"
+
+#: ../udesign_options_page.php:1625
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: ../udesign_options_page.php:1627 ../udesign_options_page.php:1630
+msgid "Show Breadcrumbs"
+msgstr "Mostrar Breadcrumbs"
+
+#: ../udesign_options_page.php:1636
+#, fuzzy
+msgid "Theme Update Notifier"
+msgstr "Desativar Notificador de Atualização do Tema."
+
+#: ../udesign_options_page.php:1638
+msgid "Disable Theme Update Notifier"
+msgstr "Desativar Notificador de Atualização do Tema."
+
+#: ../udesign_options_page.php:1641
+#, fuzzy
+msgid "Disable notifications for new theme updates."
+msgstr "Desativar notificação do tema de novas atualizações."
+
+#: ../udesign_options_page.php:1647
+msgid "Schema.org Tags"
+msgstr ""
+
+#: ../udesign_options_page.php:1649
+msgid "Enable Schema.org Tags"
+msgstr ""
+
+#: ../udesign_options_page.php:1652
+msgid ""
+"This option will enable schema.org tags within the theme where applicable."
+msgstr ""
+
+#: ../udesign_options_page.php:1658
+#, fuzzy
+msgid "Image Cropping"
+msgstr "Link da Imagem:"
+
+#: ../udesign_options_page.php:1660
+msgid "Disable Image Cropping"
+msgstr ""
+
+#: ../udesign_options_page.php:1663
+msgid ""
+"Disable image cropping when generating thumbnail images in sections like "
+"Blog, Portfolio, 'U-Design: Recent Posts' widget, etc."
+msgstr ""
+
+#: ../udesign_options_page.php:1669
+#, fuzzy
+msgid "Retina Cropped Images"
+msgstr "Habilitar Personalização da \"Imagem de Destaque\""
+
+#: ../udesign_options_page.php:1671
+#, fuzzy
+msgid "Enable Retina for Cropped Images"
+msgstr "Habilitar Personalização da \"Imagem de Destaque\""
+
+#: ../udesign_options_page.php:1674
+msgid "Enable automatic retina images for the ones being cropped."
+msgstr ""
+
+#: ../udesign_options_page.php:1676
+msgid ""
+"If enabled, a double pixel ratio will be used for the cropped images. In "
+"order for this option to be applied the above 'Disable Image Cropping' "
+"option should not be checked. This option can be overwritten for individual "
+"portfolio thumbnails by the use of custom fields (see documentation for more "
+"information)."
+msgstr ""
+
+#: ../udesign_options_page.php:1681
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: ../udesign_options_page.php:1683
+msgid "Disable Smooth Scrolling"
+msgstr ""
+
+#: ../udesign_options_page.php:1686
+msgid ""
+"This option will disable the smooth scrolling to an anchor link on same "
+"pages."
+msgstr ""
+
+#: ../udesign_options_page.php:1692
+#, fuzzy
+msgid "Custom Styles"
+msgstr "Personalizar Cores "
+
+#: ../udesign_options_page.php:1694
+msgid "Enable \"style.css\""
+msgstr "Habilitar \"style.css\""
+
+#: ../udesign_options_page.php:1697
+#, fuzzy, php-format
+msgid ""
+"Enable the %1$sstyle.css%2$s located in the theme's root folder. You can "
+"then edit that file from %3$sAppearance %4$s Edit%5$s to add any custom CSS. "
+"You would also need to enable this option if you want to use a %6$schild "
+"theme%7$s."
+msgstr ""
+"Ative o %1$sstyle.css%2$s localizado na pasta raiz do tema. Você pode então "
+"editar o arquivo de %3$sAparência -> Editar%4$s para adicionar qualquer CSS "
+"personalizado. Você também precisa habilitar esta opção se você quiser usar "
+"um %5$schild theme%6$s."
+
+#: ../udesign_options_page.php:1709
+#, fuzzy
+msgid "Main Menu"
+msgstr "Menu:"
+
+#: ../udesign_options_page.php:1713
+msgid "\"Stay-On-Top\" Main Menu"
+msgstr ""
+
+#: ../udesign_options_page.php:1715 ../udesign_options_page.php:1738
+msgid "\"Stay-On-Top\" the Main Menu"
+msgstr ""
+
+#: ../udesign_options_page.php:1718
+msgid ""
+"Fix the main navigation bar to stay on top of the page once header has been "
+"scrolled past."
+msgstr ""
+
+#: ../udesign_options_page.php:1724
+#, fuzzy
+msgid "\"Stay-On-Top\" Main Menu Logo (optional)"
+msgstr "Sombras do Menu Superior"
+
+#: ../udesign_options_page.php:1727
+#, fuzzy
+msgid "Enter a URL or upload an image for your \"Stay-On-Top\" menu logo:"
+msgstr "Entre com uma URL ou suba uma imagem para usar como sua logo:"
+
+#: ../udesign_options_page.php:1732
+msgid ""
+"You may use this option to specify a logo for the \"Stay-On-Top\" menu. "
+"Please note, this is optional, the fallback is the the main logo (scaled "
+"down version)."
+msgstr ""
+
+#: ../udesign_options_page.php:1736
+#, fuzzy
+msgid "Disable the \"Stay-On-Top\" Main Menu Logo"
+msgstr "Sombras do Menu Superior"
+
+#: ../udesign_options_page.php:1741
+msgid ""
+"Selecting this option will remove the logo from the \"Stay-On-Top\" menu."
+msgstr ""
+
+#: ../udesign_options_page.php:1747 ../udesign_options_page.php:1749
+#, fuzzy
+msgid "\"Stay-On-Top\" Menu Shadow"
+msgstr "Sombras do Menu Superior"
+
+#: ../udesign_options_page.php:1752
+#, fuzzy
+msgid "Add shadow to the Stay-On-Top menu."
+msgstr "Ativar sombras do menu superior"
+
+#: ../udesign_options_page.php:1758 ../udesign_options_page.php:1760
+#, fuzzy
+msgid "\"Stay-On-Top\" Remove Background Image"
+msgstr "Imagem de Plano de Fundo do Topo"
+
+#: ../udesign_options_page.php:1763
+msgid ""
+"Remove the background image behind the Stay-On-Top menu, in which case the "
+"background color assigned to the Main Menu or Top Area will be used instead."
+msgstr ""
+
+#: ../udesign_options_page.php:1769 ../udesign_options_page.php:1771
+msgid "Disable \"Stay-On-Top\" Menu on Mobile Devices"
+msgstr ""
+
+#: ../udesign_options_page.php:1774
+msgid "This option will disable the Stay-On-Top menu on mobile devices only."
+msgstr ""
+
+#: ../udesign_options_page.php:1775
+msgid "It only applies for non-responsive layout."
+msgstr ""
+
+#: ../udesign_options_page.php:1787
+#, fuzzy
+msgid "Main Menu Alignment"
+msgstr "Alinamento da Imagem"
+
+#: ../udesign_options_page.php:1789
+#, fuzzy
+msgid "Choose alignment:"
+msgstr "Escolha de Alinhamento:"
+
+#: ../udesign_options_page.php:1791 ../udesign_options_page.php:1871
+#: ../udesign_options_page.php:1908 ../udesign_options_page.php:1952
+#: ../udesign_options_page.php:2984 ../udesign_options_page.php:3020
+#: ../udesign_options_page.php:3056 ../udesign_options_page.php:3092
+#: ../udesign_options_page.php:3128 ../udesign_options_page.php:3164
+#: ../udesign_options_page.php:3200 ../udesign_options_page.php:3236
+#: ../udesign_options_page.php:4158
+msgid "right"
+msgstr "direita"
+
+#: ../udesign_options_page.php:1792 ../udesign_options_page.php:1870
+#: ../udesign_options_page.php:1909 ../udesign_options_page.php:1951
+#: ../udesign_options_page.php:2983 ../udesign_options_page.php:3019
+#: ../udesign_options_page.php:3055 ../udesign_options_page.php:3091
+#: ../udesign_options_page.php:3127 ../udesign_options_page.php:3163
+#: ../udesign_options_page.php:3199 ../udesign_options_page.php:3235
+#: ../udesign_options_page.php:4157
+msgid "left"
+msgstr "esquerda"
+
+#: ../udesign_options_page.php:1793 ../udesign_options_page.php:1872
+#: ../udesign_options_page.php:1910 ../udesign_options_page.php:1950
+#: ../udesign_options_page.php:2982 ../udesign_options_page.php:2989
+#: ../udesign_options_page.php:3018 ../udesign_options_page.php:3025
+#: ../udesign_options_page.php:3054 ../udesign_options_page.php:3061
+#: ../udesign_options_page.php:3090 ../udesign_options_page.php:3097
+#: ../udesign_options_page.php:3126 ../udesign_options_page.php:3133
+#: ../udesign_options_page.php:3162 ../udesign_options_page.php:3169
+#: ../udesign_options_page.php:3198 ../udesign_options_page.php:3205
+#: ../udesign_options_page.php:3234 ../udesign_options_page.php:3241
+#: ../udesign_options_page.php:4156
+msgid "center"
+msgstr "centro"
+
+#: ../udesign_options_page.php:1795
+msgid "This option sets the main navigation menu alignment."
+msgstr ""
+
+#: ../udesign_options_page.php:1799
+#, fuzzy
+msgid "Main Menu Vertical Positioning"
+msgstr "Posição Fixada"
+
+#: ../udesign_options_page.php:1802
+msgid ""
+"This option allows you to move the menu vertically towards the top or bottom "
+"of the Top Area (\"0\" is the default which places the menu at the bottom)."
+msgstr ""
+
+#: ../udesign_options_page.php:1806 ../udesign_options_page.php:1808
+#, fuzzy
+msgid "Main Menu Auto Arrows"
+msgstr "Setas do menu superior automáticas"
+
+#: ../udesign_options_page.php:1811
+msgid ""
+"Show the top navigation menu's auto arrows. Those are the arrows indicating "
+"a submenu. "
+msgstr ""
+"Mostrar setas do menu de navegação superior automaticamente. Estas setas "
+"indicam um submenu."
+
+#: ../udesign_options_page.php:1817 ../udesign_options_page.php:1819
+#, fuzzy
+msgid "Main Menu Drop Shadows"
+msgstr "Sombras do Menu Superior"
+
+#: ../udesign_options_page.php:1822
+msgid "Enable drop shadows to the sub-menus. "
+msgstr "Ativar sombras do menu superior"
+
+#: ../udesign_options_page.php:1828 ../udesign_options_page.php:1830
+msgid "Border Under the Menu"
+msgstr "Borda Sob o Menu"
+
+#: ../udesign_options_page.php:1833
+msgid "Remove the border line located under the menu. "
+msgstr "Remover a linha de borda localizada sob o Menu"
+
+#: ../udesign_options_page.php:1841
+#, fuzzy
+msgid "Secondary Menu"
+msgstr "Cores da Seção do Topo:"
+
+#: ../udesign_options_page.php:1845 ../udesign_options_page.php:1847
+msgid "Enable Secondary Menu Bar"
+msgstr ""
+
+#: ../udesign_options_page.php:1850
+msgid "Toggle the visibility for the secondary menu bar. "
+msgstr ""
+
+#: ../udesign_options_page.php:1852
+#, php-format
+msgid ""
+"You may customize the colors of the secondary navigation bar from %1$sCustom "
+"Colors %2$s Secondary Menu Colors%3$s section."
+msgstr ""
+
+#: ../udesign_options_page.php:1859
+#, fuzzy
+msgid "Text Area 1"
+msgstr "Tamanho do texto"
+
+#: ../udesign_options_page.php:1861 ../udesign_options_page.php:1899
+msgid ""
+"You could use this area to add text, phone number, or other information. You "
+"may use HTML tags."
+msgstr ""
+
+#: ../udesign_options_page.php:1865
+#, fuzzy
+msgid "Restore Default Content"
+msgstr "Reiniciar para padrão"
+
+#: ../udesign_options_page.php:1868 ../udesign_options_page.php:1906
+#: ../udesign_options_page.php:1948
+#, fuzzy
+msgid "Text alignment:"
+msgstr "Escolha de Alinhamento:"
+
+#: ../udesign_options_page.php:1874
+#, fuzzy
+msgid "This option sets the text alignment for the Text Area 1."
+msgstr "Esta é a cor do texto padrão aplicada a esta área de Widget."
+
+#: ../udesign_options_page.php:1877 ../udesign_options_page.php:1915
+#: ../udesign_options_page.php:1957
+msgid "Select width:"
+msgstr ""
+
+#: ../udesign_options_page.php:1885 ../udesign_options_page.php:1923
+#: ../udesign_options_page.php:1965
+msgid " &nbsp;(Hide)"
+msgstr ""
+
+#: ../udesign_options_page.php:1888 ../udesign_options_page.php:1926
+#: ../udesign_options_page.php:1968
+msgid ""
+"The total including the other two areas combined should add up to grid_24."
+msgstr ""
+
+#: ../udesign_options_page.php:1897
+#, fuzzy
+msgid "Text Area 2"
+msgstr "Tamanho do texto"
+
+#: ../udesign_options_page.php:1903
+#, fuzzy
+msgid "Restore Default Icons"
+msgstr "Reiniciar para padrão"
+
+#: ../udesign_options_page.php:1912
+#, fuzzy
+msgid "This option sets the text alignment for the Text Area 2."
+msgstr "Esta é a cor do texto padrão aplicada a esta área de Widget."
+
+#: ../udesign_options_page.php:1935
+#, fuzzy
+msgid "Choose a Menu"
+msgstr "Escolha um Slider:"
+
+#: ../udesign_options_page.php:1938
+#, fuzzy
+msgid "Select Menu"
+msgstr "Selecione a categoria"
+
+#: ../udesign_options_page.php:1944
+msgid ""
+"This option allows you to assign a menu to the secondary nativation bar. "
+"Please note that only the top level menu items will be displayed (submenus "
+"are excluded)."
+msgstr ""
+
+#: ../udesign_options_page.php:1945
+#, php-format
+msgid ""
+"If there are no menus listed above you may create one from the "
+"%1$sAppearance %2$s Menus%3$s section."
+msgstr ""
+
+#: ../udesign_options_page.php:1946
+msgid "This link will open in a new window the WordPress Menus Editor section."
+msgstr ""
+
+#: ../udesign_options_page.php:1954
+msgid "This option sets the text alignment for the menu."
+msgstr ""
+
+#: ../udesign_options_page.php:1977
+#, fuzzy
+msgid "Choose Order"
+msgstr "Escolha um Slider:"
+
+#: ../udesign_options_page.php:1997
+msgid ""
+"This option allows you to assign the order in which the secondary menu items "
+"will be shown."
+msgstr ""
+
+#: ../udesign_options_page.php:2006
+msgid ""
+"Drop items in this menu simulator to add them to the menu. Drag and drop to "
+"change order or resize to set desired width:"
+msgstr ""
+
+#: ../udesign_options_page.php:2009
+msgid "Drop items in this area to remove them from the menu:"
+msgstr ""
+
+#: ../udesign_options_page.php:2025
+#, fuzzy
+msgid "Page Title"
+msgstr "Cor do Título da Página"
+
+#: ../udesign_options_page.php:2029 ../udesign_options_page.php:2041
+#, fuzzy
+msgid "Title Position 1"
+msgstr "Posição Fixada"
+
+#: ../udesign_options_page.php:2030 ../udesign_options_page.php:2042
+#, fuzzy
+msgid "Title Position 2"
+msgstr "Posição Fixada"
+
+#: ../udesign_options_page.php:2031 ../udesign_options_page.php:2043
+msgid "Remove Title (SEO-Friendly)"
+msgstr ""
+
+#: ../udesign_options_page.php:2032 ../udesign_options_page.php:2044
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:57
+msgid "Remove Title Completely"
+msgstr ""
+
+#: ../udesign_options_page.php:2037 ../udesign_options_page.php:2239
+#: ../udesign_options_page.php:2436 ../udesign_options_page.php:3319
+msgid "Update"
+msgstr "Atualizar"
+
+#: ../udesign_options_page.php:2041
+msgid ""
+"Display Title immediately under the Main Menu, it spans the full width of "
+"page."
+msgstr ""
+
+#: ../udesign_options_page.php:2042
+msgid "Display Title inside Main Content, it spans the main content width."
+msgstr ""
+
+#: ../udesign_options_page.php:2043
+msgid ""
+"Remove Title visually, so that human visitors will not see it, yet it will "
+"still be served as an \"h1\" heading to search engine spiders."
+msgstr ""
+
+#: ../udesign_options_page.php:2044
+msgid ""
+" ... just as it says! A word of caution, when using this option keep in mind "
+"that your pages will be left without an \"h1\" heading. It is your "
+"responsibility to look after that."
+msgstr ""
+
+#: ../udesign_options_page.php:2059
+msgid ""
+"Set the width of the \"Home Page Column 1\" Widget Area as constant 1/3 "
+"width (Applies only to a two column layout, in other words having the first "
+"widget area \"Home Page Column 1\" in combination with any of the other "
+"widget areas being active)."
+msgstr ""
+"Defina a largura da Área de Widget da \"Coluna 1 da Página Inicial\" como "
+"constante de largura 1/3 (Aplica-se apenas a um layout de duas colunas, em "
+"outras palavras, com a área primeiro widget \"Coluna 1 da Página Inicial\" "
+"em combinação com qualquer uma das áreas outros widget devem ser ativados)."
+
+#: ../udesign_options_page.php:2065 ../udesign_options_page.php:2067
+#, fuzzy
+msgid "Remove Sidebar from Default Pages"
+msgstr "Remover a barra lateral das páginas do Blog."
+
+#: ../udesign_options_page.php:2070
+msgid ""
+"Remove the sidebar from the default page template. This will make all pages "
+"that have been assigned \"Default Template\" full width."
+msgstr ""
+
+#: ../udesign_options_page.php:2076
+msgid "Default Pages Sidebar Position"
+msgstr "Padrão Posição Lateral Páginas"
+
+#: ../udesign_options_page.php:2078 ../udesign_options_page.php:2087
+#: ../udesign_options_page.php:2096 ../udesign_options_page.php:2105
+#: ../udesign_options_page.php:2114 ../udesign_options_page.php:2123
+#: ../udesign_options_page.php:2132 ../udesign_options_page.php:2141
+#: ../udesign_options_page.php:2150 ../udesign_options_page.php:5598
+#: ../udesign_options_page.php:5614 ../udesign_options_page.php:5714
+#: ../udesign_options_page.php:6034
+msgid "Choose position:"
+msgstr "Escolher posição:"
+
+#: ../udesign_options_page.php:2079 ../udesign_options_page.php:2088
+#: ../udesign_options_page.php:2097 ../udesign_options_page.php:2106
+#: ../udesign_options_page.php:2115 ../udesign_options_page.php:2124
+#: ../udesign_options_page.php:2133 ../udesign_options_page.php:2142
+#: ../udesign_options_page.php:2151 ../udesign_options_page.php:5615
+#: ../udesign_options_page.php:5715 ../udesign_options_page.php:5955
+#: ../udesign_options_page.php:6035
+msgid "Left"
+msgstr "Esquerda"
+
+#: ../udesign_options_page.php:2080 ../udesign_options_page.php:2089
+#: ../udesign_options_page.php:2098 ../udesign_options_page.php:2107
+#: ../udesign_options_page.php:2116 ../udesign_options_page.php:2125
+#: ../udesign_options_page.php:2134 ../udesign_options_page.php:2143
+#: ../udesign_options_page.php:2152 ../udesign_options_page.php:5616
+#: ../udesign_options_page.php:5716 ../udesign_options_page.php:5957
+#: ../udesign_options_page.php:6036
+msgid "Right"
+msgstr "Direita"
+
+#: ../udesign_options_page.php:2081
+msgid ""
+"This is the sidebar position for all pages assigned with \"Default Template"
+"\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"modelo padrão\"."
+
+#: ../udesign_options_page.php:2085
+msgid "Default Pages Sidebar 2 Position"
+msgstr "Páginas padrão Barra Lateral Posição 2"
+
+#: ../udesign_options_page.php:2090
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 2\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 2\"."
+
+#: ../udesign_options_page.php:2094
+msgid "Default Pages Sidebar 3 Position"
+msgstr "Páginas Padrão Sidebar Posição 3"
+
+#: ../udesign_options_page.php:2099
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 3\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 3\"."
+
+#: ../udesign_options_page.php:2103
+msgid "Default Pages Sidebar 4 Position"
+msgstr "Páginas Padrão Sidebar Posição 4"
+
+#: ../udesign_options_page.php:2108
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 4\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 4\"."
+
+#: ../udesign_options_page.php:2112
+msgid "Default Pages Sidebar 5 Position"
+msgstr "Páginas Padrão Sidebar Posição 5"
+
+#: ../udesign_options_page.php:2117
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 5\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 5\"."
+
+#: ../udesign_options_page.php:2121
+msgid "Default Pages Sidebar 6 Position"
+msgstr "Páginas Padrão Sidebar Posição 6"
+
+#: ../udesign_options_page.php:2126
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 6\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 6\"."
+
+#: ../udesign_options_page.php:2130
+msgid "Default Pages Sidebar 7 Position"
+msgstr "Páginas Padrão Sidebar Posição 7"
+
+#: ../udesign_options_page.php:2135
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 7\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 7\"."
+
+#: ../udesign_options_page.php:2139
+msgid "Default Pages Sidebar 8 Position"
+msgstr "Páginas Padrão Sidebar Posição 8"
+
+#: ../udesign_options_page.php:2144
+msgid ""
+"This is the sidebar position for all pages assigned with \"Page Template 8\"."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"\"Page Template 8\"."
+
+#: ../udesign_options_page.php:2148
+msgid "Sitemap Page Sidebar Position"
+msgstr "Página do Mapa do Site Barra Lateral Posição"
+
+#: ../udesign_options_page.php:2153
+msgid ""
+"This is the sidebar position for all pages assigned with \"Sitemap page\" "
+"template."
+msgstr ""
+"Esta é a posição da barra lateral para todas as páginas atribuídas com "
+"template \"Página Mapa do Site\"."
+
+#: ../udesign_options_page.php:2157 ../udesign_options_page.php:2159
+msgid "Show Comments on Pages"
+msgstr "Mostrar Comentários nas Páginas"
+
+#: ../udesign_options_page.php:2162
+msgid ""
+"Show Comments on Pages. Those are the pages assigned with the 'Default "
+"Page', 'Page Template 2', ..., 'Page Template 8' and 'Full-width Page' "
+"templates. Additionally, you can 'Allow' these comments from the individual "
+"page's configuration."
+msgstr ""
+"Mostrar comentários em páginas. Essas são as páginas atribuídas com a "
+"'Página Padrão', 'Página Template 2', ... modelos 'Página Template 8' e "
+"'Página de Largura Total'. Além disso, você pode 'Permitir' estes "
+"comentários da configuração da página individual."
+
+#: ../udesign_options_page.php:2178
+msgid "Greater than 960px Theme Width Fluid Layout"
+msgstr ""
+
+#: ../udesign_options_page.php:2179
+msgid ""
+"In Fluid Layout the widths of elements such as the main content block, "
+"sidebar, columns, etc. are converted to percentages rather than fixed width "
+"in pixels. This allows resizing of those elements to be relative to the "
+"browser window width. This section allows you to set the overall theme and "
+"sidebar width. The theme width can only be greater than the default 960px "
+"and will only exhibit fluid behaviour in widths greater than the default "
+"960px width. If the site is viewed in a device or browser with width less "
+"than 960px then the theme will behave as a standard fixed width theme with "
+"960px width frame, unless of course Responsive layout is enabled."
+msgstr ""
+
+#: ../udesign_options_page.php:2183 ../udesign_options_page.php:2185
+msgid "Enable Maximum Width"
+msgstr ""
+
+#: ../udesign_options_page.php:2188
+msgid "Set the theme width to the maximum possible browser or device width."
+msgstr ""
+
+#: ../udesign_options_page.php:2189
+msgid "(Fluid Layout)"
+msgstr ""
+
+#: ../udesign_options_page.php:2195
+msgid "Global Theme Width"
+msgstr ""
+
+#: ../udesign_options_page.php:2199 ../udesign_options_page.php:6326
+#, fuzzy
+msgid "(Width) in pixels."
+msgstr "(Altura) em pixels."
+
+#: ../udesign_options_page.php:2200
+msgid ""
+"This option is about the overall theme width and it will be applied to all "
+"pages. You may specify a range between 960px and 1600px."
+msgstr ""
+
+#: ../udesign_options_page.php:2201
+msgid "(default: 960)"
+msgstr ""
+
+#: ../udesign_options_page.php:2205
+msgid "Global Sidebar Width"
+msgstr ""
+
+#: ../udesign_options_page.php:2209
+msgid "(Width) in percentage."
+msgstr ""
+
+#: ../udesign_options_page.php:2210
+msgid ""
+"This option is about the overall sidebar width and it will be applied to all "
+"pages. You may specify a range between 20% and 50%."
+msgstr ""
+
+#: ../udesign_options_page.php:2211
+msgid "(default: 33)"
+msgstr ""
+
+#: ../udesign_options_page.php:2226 ../udesign_options_page.php:2228
+#, fuzzy
+msgid "Google Fonts"
+msgstr "Fontes da Web do Google"
+
+#: ../udesign_options_page.php:2231
+#, fuzzy
+msgid "Enable Google Fonts"
+msgstr "Habilitar Fontes da Web do Google."
+
+#: ../udesign_options_page.php:2234
+msgid ""
+"Enable this option and hit \"Update\" to add the Google Fonts to the "
+"available fonts listed below."
+msgstr ""
+"Habilite esta opção e clique em \"Atualizar \" para adicionar as fontes do "
+"Google para as fontes disponíveis abaixo."
+
+#: ../udesign_options_page.php:2235
+msgid "Preview the available fonts at"
+msgstr "Pré-visualizar as fontes disponíveis em"
+
+#: ../udesign_options_page.php:2235
+msgid "Go to the \"Google Fonts\" site"
+msgstr ""
+
+#: ../udesign_options_page.php:2246
+msgid "General Font Settings"
+msgstr "Configurações Gerais de Fonte"
+
+#: ../udesign_options_page.php:2249 ../udesign_options_page.php:2310
+#: ../udesign_options_page.php:2369
+msgid "Font Family: "
+msgstr "Família de Fonte:"
+
+#: ../udesign_options_page.php:2273 ../udesign_options_page.php:2334
+#: ../udesign_options_page.php:5031 ../udesign_options_page.php:5315
+msgid "Font Size: "
+msgstr "Tamanho da Fonte:"
+
+#: ../udesign_options_page.php:2301 ../udesign_options_page.php:2413
+#: ../udesign_options_page.php:5054 ../udesign_options_page.php:5338
+msgid "Line Height: "
+msgstr "Altura da Linha:"
+
+#: ../udesign_options_page.php:2303
+msgid ""
+"This option can be used to specify the line height for the general body "
+"text. Range from 0.2 to 5.0 (default: 1.7)"
+msgstr ""
+
+#: ../udesign_options_page.php:2307
+msgid "Top Navigation Menu Font Settings"
+msgstr "Navegação Superior de Configurações de Fonte do Menu"
+
+#: ../udesign_options_page.php:2364
+msgid "Title Headings Font Settings"
+msgstr "Configurações de Fonte dos Títulos"
+
+#: ../udesign_options_page.php:2366
+msgid ""
+"This font is applied to all h1, h2, h3, h4, h5, h6 - Headings (with small "
+"exceptions) and  the Slogan (Tagline):"
+msgstr ""
+"Esta fonte é aplicada a todos os h1, h2, h3, h4, h5, h6 - Títulos (com "
+"pequenas excepções) e o slogan (Tagline):"
+
+#: ../udesign_options_page.php:2393
+msgid "Font Size Coefficient: "
+msgstr "Coeficiente de Tamanho da Fonte:"
+
+#: ../udesign_options_page.php:2411
+msgid ""
+"The Font Size Coefficient is multiplied by the actual heading size in \"em"
+"\", thus any coefficient greater than \"1.0\" will cause the font size to "
+"inclease and any coefficient less than \"1.0 will produce smaller font size."
+msgstr ""
+"O Coeficiente Tamanho da fonte é multiplicado pelo tamanho real do título "
+"\"em\", portanto, qualquer coeficiente maior que \"1.0\" fará com que o "
+"tamanho da fonte aumente e qualquer coeficiente inferior a \"1.0 irá "
+"produzir tamanho de fonte menor."
+
+#: ../udesign_options_page.php:2415
+msgid ""
+"This option can be used to specify the line height for the headings. Range "
+"from 0.2 to 5.0 (default: 1.2)"
+msgstr ""
+
+#: ../udesign_options_page.php:2427
+msgid "Custom Colors Switch"
+msgstr "Mudar Cores personalizadas"
+
+#: ../udesign_options_page.php:2429
+msgid "If enabled this option will overwrite the default CSS styles."
+msgstr "Se habilitado esta opção irá substituir os estilos padrão CSS."
+
+#: ../udesign_options_page.php:2430
+msgid "Custom colors option:"
+msgstr "Opção de Personalizar cores:"
+
+#: ../udesign_options_page.php:2432
+msgid "Disable"
+msgstr "Desativar"
+
+#: ../udesign_options_page.php:2440
+msgid "Continue with the section below to customize the colors..."
+msgstr "Continue com a seção abaixo para personalizar as cores..."
+
+#: ../udesign_options_page.php:2450
+#, fuzzy
+msgid "General Text and Link Colors"
+msgstr "Cores Gerais de Textos e Links:"
+
+#: ../udesign_options_page.php:2454
+msgid "Body Text Color"
+msgstr "Cor do Corpo de Texto"
+
+#: ../udesign_options_page.php:2462
+msgid "Main body text color affecting the entire site."
+msgstr "Cor do texto principal com efeito em todo o site."
+
+#: ../udesign_options_page.php:2466 ../udesign_options_page.php:2572
+#: ../udesign_options_page.php:2700
+msgid "Link Color"
+msgstr "Cor de Link"
+
+#: ../udesign_options_page.php:2474
+msgid "Main link color affecting the entire site."
+msgstr "Cor do link principal com efeito em todo o site."
+
+#: ../udesign_options_page.php:2478 ../udesign_options_page.php:2712
+msgid "Link Hover Color"
+msgstr "Cor do 'Link Hover'"
+
+#: ../udesign_options_page.php:2486
+msgid "This is the link hover color."
+msgstr "Esta é a cor do link hover."
+
+#: ../udesign_options_page.php:2490
+msgid "Headings Color"
+msgstr "Cor dos Títulos"
+
+#: ../udesign_options_page.php:2498
+msgid ""
+"This is the color for general H1, H2, H3, H4 ,H5 ,H6 Headings where "
+"applicable."
+msgstr "Esta é a cor geral H1, H2, H3, H4, H5, H6 títulos se forem relevantes."
+
+#: ../udesign_options_page.php:2503
+#, fuzzy
+msgid "Top Section Colors"
+msgstr "Cores da Seção do Topo:"
+
+#: ../udesign_options_page.php:2507
+msgid "Top Area Background"
+msgstr "Área do Top do Plano de Fundo"
+
+#: ../udesign_options_page.php:2515
+#, fuzzy
+msgid ""
+"Site's top section background color. This is the section with the logo, "
+"slogan, phone number and search box, immediately above the menu."
+msgstr ""
+"Cor da seção de Plano de fundo do topo do site. Esta é a seção com o "
+"logotipo, slogan, número de telefone e caixa de pesquisa, logo acima do menu."
+
+#: ../udesign_options_page.php:2519
+msgid "Top Area Text Color"
+msgstr "Cor do texto da área do topo"
+
+#: ../udesign_options_page.php:2527
+msgid "This color affects the slogan, phone number and search text."
+msgstr "Esta cor aplica-se ao slogan, número de telefone e texto de pesquisa."
+
+#: ../udesign_options_page.php:2541
+#, fuzzy
+msgid "Main Menu Colors"
+msgstr "Cor do Menu 1"
+
+#: ../udesign_options_page.php:2545 ../udesign_options_page.php:2661
+#: ../udesign_options_page.php:2815
+msgid "Background Color"
+msgstr "Cor do Plano de Fundo"
+
+#: ../udesign_options_page.php:2553
+#, fuzzy
+msgid "This is the background color of the main menu."
+msgstr ""
+"Esta é a cor do plano de fundo para a área do fundo (área acima do rodapé)."
+
+#: ../udesign_options_page.php:2561 ../udesign_options_page.php:2677
+#, fuzzy
+msgid "Background Opacity"
+msgstr "Imagens de Plano de Fundo:"
+
+#: ../udesign_options_page.php:2564 ../udesign_options_page.php:2651
+#: ../udesign_options_page.php:2680
+msgid ""
+"This option can be used to specify the opacity of the background. From 0 "
+"(fully transparent) to 1.0 (fully opaque)."
+msgstr ""
+
+#: ../udesign_options_page.php:2580
+msgid "This is the color of the main menu links."
+msgstr "Esta é a cor dos links do menu principal"
+
+#: ../udesign_options_page.php:2584
+#, fuzzy
+msgid "Active Link Color"
+msgstr "Cor do Link Ativo do Menu Principal"
+
+#: ../udesign_options_page.php:2592
+msgid "This is the color of the main menu active/selected link."
+msgstr "Esta é a cor do menu principal referente ao link ativo/selecionado"
+
+#: ../udesign_options_page.php:2596
+#, fuzzy
+msgid "Hover Link Color"
+msgstr "Cor do Link do Rodapé"
+
+#: ../udesign_options_page.php:2604
+msgid "This is the color of the main menu hover link."
+msgstr "Esta é a cor do menu principal do link hover"
+
+#: ../udesign_options_page.php:2608
+#, fuzzy
+msgid "Dropdown Menu Link Color"
+msgstr "Cor de Link do Menu do Topo"
+
+#: ../udesign_options_page.php:2616
+#, fuzzy
+msgid "This is the color of the main menu dropdown (submenu) links."
+msgstr "Esta é a cor dos links do menu principal"
+
+#: ../udesign_options_page.php:2620
+#, fuzzy
+msgid "Dropdown Menu Hover Link Color"
+msgstr "Cor do Link Hover do Menu Principal"
+
+#: ../udesign_options_page.php:2628
+#, fuzzy
+msgid "This is the color of the main menu dropdown (submenu) hover link."
+msgstr "Esta é a cor do menu principal do link hover"
+
+#: ../udesign_options_page.php:2632
+#, fuzzy
+msgid "Dropdown Menu Background Color"
+msgstr "Cor do Plano de Fundo do Rodapé"
+
+#: ../udesign_options_page.php:2640
+#, fuzzy
+msgid "This is the color of the main menu dropdown (submenu) background."
+msgstr ""
+"Esta é a cor do conteúdo principal da capa do plano de fundo (wrapper)."
+
+#: ../udesign_options_page.php:2648
+msgid "Dropdown Menu Background Opacity"
+msgstr ""
+
+#: ../udesign_options_page.php:2657
+#, fuzzy
+msgid "Secondary Menu Colors"
+msgstr "Cores da Seção do Topo:"
+
+#: ../udesign_options_page.php:2669
+#, fuzzy
+msgid "This is the secondary menu's background color."
+msgstr "Esta é a cor do plano de fundo do plano de fundo do rodapé"
+
+#: ../udesign_options_page.php:2688 ../udesign_options_page.php:2803
+#: ../udesign_options_page.php:5088 ../udesign_options_page.php:5372
+msgid "Text Color"
+msgstr "Cor de Texto"
+
+#: ../udesign_options_page.php:2696
+#, fuzzy
+msgid "This is the general text color."
+msgstr "Esta é a cor geral dos textos do do rodapé"
+
+#: ../udesign_options_page.php:2708
+#, fuzzy
+msgid "This is the menu's link color."
+msgstr "Esta é a cor do link do rodapé"
+
+#: ../udesign_options_page.php:2720
+#, fuzzy
+msgid "This is the menu's link hover color."
+msgstr "Esta é a cor do link hover."
+
+#: ../udesign_options_page.php:2734
+#, fuzzy
+msgid "Midsection Colors"
+msgstr "Cores de Média Seção/Midsection:"
+
+#: ../udesign_options_page.php:2738
+msgid "Page Title Color"
+msgstr "Cor do Título da Página"
+
+#: ../udesign_options_page.php:2746
+msgid ""
+"This is the color for the title of pages/posts/archives, etc. located in the "
+"area underneath the menu."
+msgstr ""
+"Esta é a cor para o título das páginas/posts/ arquivos, etc. localizadas na "
+"área abaixo do menu."
+
+#: ../udesign_options_page.php:2750
+msgid "Page Title Background Color"
+msgstr "Cor do Plano de Fundo do Título da Página"
+
+#: ../udesign_options_page.php:2758
+msgid "This is the background color behind the page titles."
+msgstr "Esta é a cor de fundo por trás dos títulos da página."
+
+#: ../udesign_options_page.php:2762
+msgid "Header/Slider Background"
+msgstr "Plano de Fundo do Cabeçalho/Slider (Destaques)"
+
+#: ../udesign_options_page.php:2770
+msgid "This is the background color behind the home page sliders."
+msgstr ""
+"Esta é a cor de fundo por trás da Página Inicial dos sliders (destaques)."
+
+#: ../udesign_options_page.php:2774
+msgid "Main Content Area Background"
+msgstr "Área de Plano de Fundo do conteúdo principal"
+
+#: ../udesign_options_page.php:2782
+msgid "This is the color of the main content wrapper background."
+msgstr ""
+"Esta é a cor do conteúdo principal da capa do plano de fundo (wrapper)."
+
+#: ../udesign_options_page.php:2787
+#, fuzzy
+msgid "Home Page Before Content Widget Area Colors"
+msgstr "Cores da Página Inicial Antes da área de conteúdo Widget:"
+
+#: ../udesign_options_page.php:2791
+msgid "Title Color"
+msgstr "Cor do Título"
+
+#: ../udesign_options_page.php:2799
+msgid ""
+"This is the color for the title of widgets used in this Widget Area, usually "
+"an \"H3\" Headings."
+msgstr ""
+"Esta é a cor para o título de widgets utilizados nesta área Widget, "
+"geralmente em Títulos \"H3\"."
+
+#: ../udesign_options_page.php:2811
+msgid "This is the default text color applied to this Widget Area."
+msgstr "Esta é a cor do texto padrão aplicada a esta área de Widget."
+
+#: ../udesign_options_page.php:2823
+msgid "This is the background color."
+msgstr "Esta é a cor do Plano de Fundo."
+
+#: ../udesign_options_page.php:2837
+#, fuzzy
+msgid "Bottom Area Colors"
+msgstr "Cores da Área do Fundo (parte inferior do site, antes do Rodapé):"
+
+#: ../udesign_options_page.php:2841
+msgid "Bottom Background Color"
+msgstr "Cor do Plano de Fundo do fundo do site (acima do Rodapé)."
+
+#: ../udesign_options_page.php:2849
+msgid "This is the background color for the bottom area."
+msgstr ""
+"Esta é a cor do plano de fundo para a área do fundo (área acima do rodapé)."
+
+#: ../udesign_options_page.php:2853
+msgid "Bottom Titles Color"
+msgstr "Cor dos Títulos para o Fundo."
+
+#: ../udesign_options_page.php:2861
+msgid "This is the color applied to the bottom area widget titles."
+msgstr "Esta é a cor aplicada aos títulos de widget área do fundo."
+
+#: ../udesign_options_page.php:2865
+msgid "Bottom Text Color"
+msgstr "Cor do Texto da Parte Inferior (acima do Rodapé)"
+
+#: ../udesign_options_page.php:2873
+msgid "This is the default text color applied to the bottom area."
+msgstr "Esta é a cor de texto padrão aplicada a área do inferior"
+
+#: ../udesign_options_page.php:2877
+msgid "Bottom Link Color"
+msgstr "Cor do Link da Parte Inferior"
+
+#: ../udesign_options_page.php:2885
+msgid "This is the bottom area link color."
+msgstr "Esta é a cor do link da área da parte inferior."
+
+#: ../udesign_options_page.php:2889
+msgid "Bottom Link Hover Color"
+msgstr "Cor do Link Hover da Parte inferior"
+
+#: ../udesign_options_page.php:2897
+msgid "This is the bottom area link hover color."
+msgstr "Esta é a cor do link hover da área da parte inferior"
+
+#: ../udesign_options_page.php:2902
+#, fuzzy
+msgid "Footer Area Colors"
+msgstr "Cores da área do Rodapé"
+
+#: ../udesign_options_page.php:2906
+msgid "Footer Background Color"
+msgstr "Cor do Plano de Fundo do Rodapé"
+
+#: ../udesign_options_page.php:2914
+msgid "This is the footer background color."
+msgstr "Esta é a cor do plano de fundo do plano de fundo do rodapé"
+
+#: ../udesign_options_page.php:2918
+msgid "Footer Text Color"
+msgstr "Cor de Texto do Rodapé"
+
+#: ../udesign_options_page.php:2926
+msgid "This is the footer general text color."
+msgstr "Esta é a cor geral dos textos do do rodapé"
+
+#: ../udesign_options_page.php:2930
+msgid "Footer Link Color"
+msgstr "Cor do Link do Rodapé"
+
+#: ../udesign_options_page.php:2938
+msgid "This is the footer link color."
+msgstr "Esta é a cor do link do rodapé"
+
+#: ../udesign_options_page.php:2942
+msgid "Footer Link Hover Color"
+msgstr "Cor do Link Hover do Rodapé"
+
+#: ../udesign_options_page.php:2950
+msgid "This is the footer link hover color."
+msgstr "Esta é a cor do link hover do rodapé"
+
+#: ../udesign_options_page.php:2959
+#, fuzzy
+msgid "Background Images"
+msgstr "Imagens de Plano de Fundo:"
+
+#: ../udesign_options_page.php:2960
+msgid ""
+"Tip: To upload an image click on 'Upload Image' button below. Once the image "
+"is uploaded it will give you various options. Click on 'Insert into Post' "
+"button. Once you click on 'Insert into Post', link with the uploaded image "
+"will be inserted into the corresponding text field below. The background "
+"image is placed according to the background-position property. If 'No "
+"Repeat' is specified (see below), the image is placed at the element's top "
+"center possition."
+msgstr ""
+"Dica: Para fazer upload de uma imagem clique no botão abaixo 'Carregar "
+"imagem'. Uma vez que a imagem é carregada, você terá várias opções. Clique "
+"no botão 'Inserir-Insert no Post'. Uma vez que você clique em 'Inserir no "
+"Post', um link com a imagem carregada será inserido no campo de texto "
+"correspondente abaixo. A imagem de fundo é colocado de acordo com a "
+"propriedade 'background-position'. Se ativar 'Não Repeat' (veja abaixo), a "
+"imagem é colocada na posição central superior do elemento."
+
+#: ../udesign_options_page.php:2964
+msgid "Top Background Image"
+msgstr "Imagem de Plano de Fundo do Topo"
+
+#: ../udesign_options_page.php:2967 ../udesign_options_page.php:3003
+#: ../udesign_options_page.php:3039 ../udesign_options_page.php:3075
+#: ../udesign_options_page.php:3111 ../udesign_options_page.php:3147
+#: ../udesign_options_page.php:3183 ../udesign_options_page.php:3219
+#: ../udesign_options_page.php:4842 ../udesign_options_page.php:4910
+msgid "Enter a URL or upload an image:"
+msgstr "Entre com a URL da Imagem ou carregue"
+
+#: ../udesign_options_page.php:2969 ../udesign_options_page.php:3005
+#: ../udesign_options_page.php:3041 ../udesign_options_page.php:3077
+#: ../udesign_options_page.php:3113 ../udesign_options_page.php:3149
+#: ../udesign_options_page.php:3185 ../udesign_options_page.php:3221
+#: ../udesign_options_page.php:3491 ../udesign_options_page.php:3543
+#: ../udesign_options_page.php:3809 ../udesign_options_page.php:3836
+#: ../udesign_options_page.php:4354 ../udesign_options_page.php:4386
+#: ../udesign_options_page.php:4405 ../udesign_options_page.php:4454
+#: ../udesign_options_page.php:4498 ../udesign_options_page.php:4529
+#: ../udesign_options_page.php:4844 ../udesign_options_page.php:4912
+#: ../udesign_options_page.php:5117 ../udesign_options_page.php:5200
+#: ../udesign_options_page.php:5401 ../udesign_options_page.php:5425
+#: ../udesign_options_page.php:5450 ../udesign_options_page.php:5474
+msgid "Upload Image"
+msgstr "Carregar imagem"
+
+#: ../udesign_options_page.php:2973 ../udesign_options_page.php:3009
+#: ../udesign_options_page.php:3045 ../udesign_options_page.php:3081
+msgid "Background  Properties:"
+msgstr "Propriedades do Plano de Fundo:"
+
+#: ../udesign_options_page.php:2975 ../udesign_options_page.php:3011
+#: ../udesign_options_page.php:3047 ../udesign_options_page.php:3083
+#: ../udesign_options_page.php:3119 ../udesign_options_page.php:3155
+#: ../udesign_options_page.php:3191 ../udesign_options_page.php:3227
+msgid "No Repeat"
+msgstr "Não repetir"
+
+#: ../udesign_options_page.php:2976 ../udesign_options_page.php:3012
+#: ../udesign_options_page.php:3048 ../udesign_options_page.php:3084
+#: ../udesign_options_page.php:3120 ../udesign_options_page.php:3156
+#: ../udesign_options_page.php:3192 ../udesign_options_page.php:3228
+msgid "Repeat only Horizontally"
+msgstr "Repetir Horizontalmente"
+
+#: ../udesign_options_page.php:2977 ../udesign_options_page.php:3013
+#: ../udesign_options_page.php:3049 ../udesign_options_page.php:3085
+#: ../udesign_options_page.php:3121 ../udesign_options_page.php:3157
+#: ../udesign_options_page.php:3193 ../udesign_options_page.php:3229
+msgid "Repeat only Vertically"
+msgstr "Repetir Verticalmente"
+
+#: ../udesign_options_page.php:2978 ../udesign_options_page.php:3014
+#: ../udesign_options_page.php:3050 ../udesign_options_page.php:3086
+#: ../udesign_options_page.php:3122 ../udesign_options_page.php:3158
+#: ../udesign_options_page.php:3194 ../udesign_options_page.php:3230
+msgid "Repeat both Vertically and Horizontally"
+msgstr "Repetir ambos Vertical e Horizontalmente"
+
+#: ../udesign_options_page.php:2980 ../udesign_options_page.php:3016
+#: ../udesign_options_page.php:3052 ../udesign_options_page.php:3088
+#: ../udesign_options_page.php:3124 ../udesign_options_page.php:3160
+#: ../udesign_options_page.php:3196 ../udesign_options_page.php:3232
+msgid "Horizontal:"
+msgstr "Horizontal:"
+
+#: ../udesign_options_page.php:2986 ../udesign_options_page.php:3022
+#: ../udesign_options_page.php:3058 ../udesign_options_page.php:3094
+#: ../udesign_options_page.php:3130 ../udesign_options_page.php:3166
+#: ../udesign_options_page.php:3202 ../udesign_options_page.php:3238
+msgid "Vertical:"
+msgstr "Vertical:"
+
+#: ../udesign_options_page.php:2988 ../udesign_options_page.php:3024
+#: ../udesign_options_page.php:3060 ../udesign_options_page.php:3096
+#: ../udesign_options_page.php:3132 ../udesign_options_page.php:3168
+#: ../udesign_options_page.php:3204 ../udesign_options_page.php:3240
+msgid "top"
+msgstr "topo"
+
+#: ../udesign_options_page.php:2990 ../udesign_options_page.php:3026
+#: ../udesign_options_page.php:3062 ../udesign_options_page.php:3098
+#: ../udesign_options_page.php:3134 ../udesign_options_page.php:3170
+#: ../udesign_options_page.php:3206 ../udesign_options_page.php:3242
+msgid "bottom"
+msgstr "fundo"
+
+#: ../udesign_options_page.php:3000
+msgid "Home Page Header/Slider Background Image"
+msgstr "Imagem de Plano de Fundo do Slider/Cabeçalho da Página Inicial"
+
+#: ../udesign_options_page.php:3036
+msgid "Home Page Before Content Background Image"
+msgstr "Imagem de Plano de Fundo Anterior ao Conteúdo da Página Inicial"
+
+#: ../udesign_options_page.php:3072
+msgid "Page Title Background Image"
+msgstr "Imagem de Plano de Fundo do Título da Página"
+
+#: ../udesign_options_page.php:3108
+msgid "Main Content Background Image"
+msgstr "Imagem de Plano de Fundo do Conteúdo Principal"
+
+#: ../udesign_options_page.php:3117 ../udesign_options_page.php:3153
+#: ../udesign_options_page.php:3189 ../udesign_options_page.php:3225
+msgid "Background Properties:"
+msgstr "Propriedades do Plano de Fundo:"
+
+#: ../udesign_options_page.php:3144
+msgid "Bottom Area Background Image"
+msgstr "Imagem de Plano de Fundo da Área Inferior (acima do Rodapé)"
+
+#: ../udesign_options_page.php:3180
+msgid "Footer Background Image"
+msgstr "Imagem de Plano de Fundo do Rodapé"
+
+#: ../udesign_options_page.php:3216
+msgid "One Continuous Background Image That Will Span Across All Sections"
+msgstr "Uma imagem de fundo contínua que irá abranger todas as seções"
+
+#: ../udesign_options_page.php:3246
+#, php-format
+msgid "For Background color  %1$sTop Area Background %2$s%3$s  will be used."
+msgstr ""
+"Para cor de plano de fundo o %1$sPlano de Fundo da Área do Topo %2$s%3$s "
+"será usado."
+
+#: ../udesign_options_page.php:3248
+msgid "Fixed Position"
+msgstr "Posição Fixada"
+
+#: ../udesign_options_page.php:3251
+msgid "Fix the position of the background image so that it is not scrollable."
+msgstr "Fixar a posição da imagem de fundo de modo que não fique deslocável."
+
+#: ../udesign_options_page.php:3254
+msgid "Allow Other Sections' Images"
+msgstr "Permitir Outras Imagens de Seções"
+
+#: ../udesign_options_page.php:3257
+msgid ""
+"Enable background images from other sections to show as well, you can "
+"achieve sort of layered layout."
+msgstr ""
+"Habilitar imagens de fundo de outras seções para mostrar, assim você poderá "
+"escolher um layout em camadas."
+
+#: ../udesign_options_page.php:3268 ../udesign_options_page.php:3270
+#, fuzzy
+msgid "Remove Horizontal Rulers"
+msgstr "Repetir Horizontalmente"
+
+#: ../udesign_options_page.php:3273
+msgid ""
+"This option will allow you to remove the horizontal ruler lines that are "
+"enabled by default for some sections."
+msgstr ""
+
+#: ../udesign_options_page.php:3275
+#, php-format
+msgid ""
+"Note: If you wish to remove the border line under the top navigation menu, "
+"the option for that is located under: %1$s General Options %2$s Border Under "
+"the Menu %3$s"
+msgstr ""
+"Nota: Se você deseja remover a linha da borda abaixo do menu de navegação "
+"superior, a opção está localizado em:  %1$s Opções Gerais %2$s Borda "
+"Inferior do Menu %3$s"
+
+#: ../udesign_options_page.php:3286
+msgid "Administrative Tasks:"
+msgstr "Tarefas administrativas:"
+
+#: ../udesign_options_page.php:3289
+msgid "Save the current custom colors."
+msgstr "Salve as cores atuais personalizadas."
+
+#: ../udesign_options_page.php:3291
+msgid ""
+"A Color Scheme will be saved with an automatic name generated from the "
+"current time stamp. Once saved you will be able to choose it from the "
+"dropdown below and load it at a later time."
+msgstr ""
+"Um esquema de cores será salvo com um nome automático gerado a partir da "
+"data corrente. Uma vez salvo, você será capaz de escolher a partir da lista "
+"suspensa abaixo e carregá-lo posteriormente."
+
+#: ../udesign_options_page.php:3294
+#: ../lib/u-design-cmb2/cmb2/includes/helper-functions.php:249
+msgid "Save"
+msgstr "Salvar"
+
+#: ../udesign_options_page.php:3300
+msgid ""
+"Choose a custom color scheme from the first dropdown below and then choose a "
+"task to perform from the second dropdown, then hit the \"Update\" button."
+msgstr ""
+"Escolha um esquema de cores personalizado a partir do primeiro dropdown "
+"abaixo e em seguida, escolha uma tarefa para executar no menu suspenso, em "
+"seguida, clique no botão \"Atualizar\"."
+
+#: ../udesign_options_page.php:3315
+msgid "Note: The \"Default Colors\" cannot be deleted."
+msgstr "Observe: As \"Cores Padrões\" não podem ser deletadas."
+
+#: ../udesign_options_page.php:3335
+msgid "Current Slider"
+msgstr "Slider Atual"
+
+#: ../udesign_options_page.php:3337
+msgid "Choose a slider:"
+msgstr "Escolha um Slider:"
+
+#: ../udesign_options_page.php:3340
+#, fuzzy
+msgid "Flashmo Grid Slider"
+msgstr "1. Slider Grid Flashmo"
+
+#: ../udesign_options_page.php:3341
+#, fuzzy
+msgid "Piecemaker"
+msgstr "2. Piecemaker"
+
+#: ../udesign_options_page.php:3342
+#, fuzzy
+msgid "Piecemaker 2"
+msgstr "3. Piecemaker 2"
+
+#: ../udesign_options_page.php:3343
+#, fuzzy
+msgid "Cycle 1 (full width image)"
+msgstr "4. Ciclo 1 (imagem com largura total)"
+
+#: ../udesign_options_page.php:3344
+#, fuzzy
+msgid "Cycle 2 (image with text)"
+msgstr "5. Cycle 2 (imagem com texto)"
+
+#: ../udesign_options_page.php:3345
+#, fuzzy
+msgid "Cycle 3 (image with sliding text)"
+msgstr "6. Cycle 3 (imagem com texto passeando)"
+
+#: ../udesign_options_page.php:3346 ../udesign_options_page.php:5534
+#, fuzzy
+msgid "Revolution Slider"
+msgstr "Sem Slider"
+
+#: ../udesign_options_page.php:3347
+#, fuzzy
+msgid "No Slider"
+msgstr "Sem Slider"
+
+#: ../udesign_options_page.php:3352
+msgid "Save & Activate"
+msgstr "Salvar & Ativar"
+
+#: ../udesign_options_page.php:3356
+msgid "Continue with the section below to customize the slider..."
+msgstr "Continuar com a seção abaixo para personalizar o Slider..."
+
+#: ../udesign_options_page.php:3390
+msgid "Flashmo Grid Slider Settings:"
+msgstr "Configurações da grade Flashmo do Slider:"
+
+#: ../udesign_options_page.php:3394 ../udesign_options_page.php:3634
+#: ../udesign_options_page.php:3892 ../udesign_options_page.php:5924
+msgid "Image Width"
+msgstr "Largura da Imagem"
+
+#: ../udesign_options_page.php:3397
+msgid "The width in pixels of the slider images (940 recommended)."
+msgstr "A largura em pixels do Slider de imagens (940 recomendado)."
+
+#: ../udesign_options_page.php:3401 ../udesign_options_page.php:3641
+#: ../udesign_options_page.php:3899 ../udesign_options_page.php:5931
+msgid "Image Height"
+msgstr "Altura da Imagem"
+
+#: ../udesign_options_page.php:3404
+msgid "The height in pixels of the slider images (400 recommended)."
+msgstr "A altura em pixels do Slider de imagens (400 recomendado)."
+
+#: ../udesign_options_page.php:3408
+msgid "Auto Play"
+msgstr "Tocar Automaticamente"
+
+#: ../udesign_options_page.php:3411
+msgid "True"
+msgstr "Verdadeiro"
+
+#: ../udesign_options_page.php:3412
+msgid "False"
+msgstr "Falso"
+
+#: ../udesign_options_page.php:3414
+msgid "Set the auto play option, true by default ( or false )."
+msgstr ""
+"Determinar a opção de play automático. A opção 'verdadeira' é o padrão (ou "
+"'falsa')."
+
+#: ../udesign_options_page.php:3418
+msgid "Auto Play Duration"
+msgstr "Duração do Play Automático"
+
+#: ../udesign_options_page.php:3421
+msgid ""
+"Number of seconds between transitions, 2.4 seconds by default ( or any "
+"number of seconds )."
+msgstr ""
+"Número de segundos entre as transições, 2.4 segundos é o padrão (ou qualquer "
+"número de segundos)."
+
+#: ../udesign_options_page.php:3425
+msgid "Number of Rows"
+msgstr "Número de linhas"
+
+#: ../udesign_options_page.php:3428
+msgid ""
+"Number of rows, in which the images will be sliced, 4 rows by default ( or "
+"any number of rows )"
+msgstr ""
+"Número de linhas, em que as imagens serão cortadas, 4 linhas é o padrão (ou "
+"qualquer número de linhas)"
+
+#: ../udesign_options_page.php:3432
+msgid "Number of Columns"
+msgstr "Número de Colunas"
+
+#: ../udesign_options_page.php:3435
+msgid ""
+"Number of columns, in which the images will be sliced, 6 columns by default "
+"( or any number of columns )"
+msgstr ""
+"Número de colunas, em que as imagens serão cortadas, 6 colunas é o padrão "
+"(ou qualquer número de colunas)"
+
+#: ../udesign_options_page.php:3439
+msgid "Tween Duration"
+msgstr "Duração do Tween"
+
+#: ../udesign_options_page.php:3442
+msgid ""
+"Duration in seconds of the motion tween for each block in the transition."
+msgstr ""
+"Duração em segundos da tween (interpolação) de movimento para cada bloco na "
+"transição."
+
+#: ../udesign_options_page.php:3446 ../udesign_options_page.php:3662
+msgid "Tween Delay"
+msgstr "Atraso do Tween"
+
+#: ../udesign_options_page.php:3449
+msgid "Delay in seconds between each block in the transition."
+msgstr "Atraso em segundos entre cada block na transição."
+
+#: ../udesign_options_page.php:3453
+msgid "Bar Status"
+msgstr "Barra de Estado"
+
+#: ../udesign_options_page.php:3456
+msgid "Hide the Bar"
+msgstr "Esconder a Barra"
+
+#: ../udesign_options_page.php:3457
+msgid "Show the Bar"
+msgstr "Mostrar a Barra"
+
+#: ../udesign_options_page.php:3458
+msgid "Show the Bar and Photo Description"
+msgstr "Mostrar a Barra e a Descrição da Foto"
+
+#: ../udesign_options_page.php:3460
+msgid "This is the area in the slider displaying additional controls and text."
+msgstr ""
+"Esta é a área do slider na qual são exibidos controles adicionais e texto."
+
+#: ../udesign_options_page.php:3464 ../udesign_options_page.php:3466
+#: ../udesign_options_page.php:3753 ../udesign_options_page.php:3755
+#: ../udesign_options_page.php:4817 ../udesign_options_page.php:4819
+msgid "3D Shadow"
+msgstr "Sombra 3D"
+
+#: ../udesign_options_page.php:3469 ../udesign_options_page.php:3758
+#: ../udesign_options_page.php:4822
+msgid "Remove the 3D shadow under the slider"
+msgstr "Remover a sombra 3D, sob o slider"
+
+#: ../udesign_options_page.php:3489 ../udesign_options_page.php:3541
+#: ../udesign_options_page.php:3807 ../udesign_options_page.php:3834
+#: ../udesign_options_page.php:4352 ../udesign_options_page.php:4384
+#: ../udesign_options_page.php:4403 ../udesign_options_page.php:4452
+#: ../udesign_options_page.php:4496 ../udesign_options_page.php:4527
+#: ../udesign_options_page.php:5115 ../udesign_options_page.php:5198
+#: ../udesign_options_page.php:5399 ../udesign_options_page.php:5448
+msgid "Image:"
+msgstr "Imagem:"
+
+#: ../udesign_options_page.php:3495 ../udesign_options_page.php:3547
+msgid "Flow:"
+msgstr "Fluxo:"
+
+#: ../udesign_options_page.php:3502 ../udesign_options_page.php:3554
+msgid "Direction:"
+msgstr "Direção"
+
+#: ../udesign_options_page.php:3512 ../udesign_options_page.php:3564
+msgid "Rotation:"
+msgstr "Rotação"
+
+#: ../udesign_options_page.php:3522 ../udesign_options_page.php:3574
+#: ../udesign_options_page.php:4374 ../udesign_options_page.php:4474
+#: ../udesign_options_page.php:5169 ../udesign_options_page.php:5252
+#: ../udesign_options_page.php:5430 ../udesign_options_page.php:5479
+msgid "Slide text"
+msgstr "Texto do Slide"
+
+#: ../udesign_options_page.php:3526 ../udesign_options_page.php:3578
+msgid ""
+"This textfield supports HTML and CSS. The CSS classes used are located in "
+"\"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+msgstr ""
+"Este campo de texto suporta HTML e CSS. As classes CSS utilizados estão "
+"localizados em  \"sliders/flashmo/grid_slider/flashmo_224_style.css\""
+
+#: ../udesign_options_page.php:3588 ../udesign_options_page.php:3855
+#: ../udesign_options_page.php:4749
+msgid "No JavaScript image"
+msgstr "Sem imagem JavaScript"
+
+#: ../udesign_options_page.php:3590 ../udesign_options_page.php:3857
+#: ../udesign_options_page.php:4751
+msgid "Paste the full path to your image:"
+msgstr "Cole o caminho completo de sua imagem:"
+
+#: ../udesign_options_page.php:3592
+msgid ""
+"In the case when JavaScript is disabled the 1st slider image is displayed by "
+"default in place of the Flashmo slider, you may change that in here"
+msgstr ""
+"Quando o JavaScript está desativado o primeiro slider de imagem  é exibido "
+"como padrão, no lugar do slider Flashmo. Você pode mudar isso aqui"
+
+#: ../udesign_options_page.php:3630
+msgid "Piecemaker Slider Settings:"
+msgstr "Configurações do Slider Piecemaker"
+
+#: ../udesign_options_page.php:3637
+msgid "The width of the images to be loaded."
+msgstr "A largura das imagens podem ser carregadas."
+
+#: ../udesign_options_page.php:3644
+msgid "The height of the images to be loaded."
+msgstr "A altura das imagens podem ser carregadas."
+
+#: ../udesign_options_page.php:3648
+msgid "Number of segments"
+msgstr "Número de Seguimentos"
+
+#: ../udesign_options_page.php:3651
+msgid "Number of segments, in which the images will be sliced."
+msgstr "O número de segmentos, nos quais as imagens serão fatiadas."
+
+#: ../udesign_options_page.php:3655
+msgid "Tween Time"
+msgstr "Tempo do Tween"
+
+#: ../udesign_options_page.php:3658
+msgid "Number of seconds for each element to be turned."
+msgstr "Número de segundos para cara elemento ser transformado."
+
+#: ../udesign_options_page.php:3665
+msgid ""
+"Number of seconds from one element starting to turn to the next element "
+"starting."
+msgstr ""
+"Número de segundos de um elemento começando a se transformar no elemento "
+"posterior."
+
+#: ../udesign_options_page.php:3669
+msgid "Tween Type"
+msgstr "Tipo do Tween"
+
+#: ../udesign_options_page.php:3714
+#, php-format
+msgid ""
+"Type of transition from Caurina&#39;s Tweener class. Find all possible "
+"transition types and more information about Tweener in the official "
+"%1$sdocumentation%2$s."
+msgstr ""
+"Tipo de transição da classe Caurina&#39;s Tweener. Encontrar todos os tipos "
+"possíveis de transição e mais informações sobre o Tweener na %1$sdocumentação"
+"%2$s oficial."
+
+#: ../udesign_options_page.php:3718
+msgid "Z Distance"
+msgstr "Distâcia Z"
+
+#: ../udesign_options_page.php:3721
+msgid ""
+"To which extent are the cubes moved on z axis when being tweened. Negative "
+"values bring the cube closer to the camera, positive values take it further "
+"away. A good range is roughly between -200 and 700."
+msgstr ""
+"Até que ponto são os cubos são movidos no eixo Z ao serem interpolados. Os "
+"valores negativos trazem o cubo mais perto da câmera, os valores positivos "
+"levá-no para mais longe. Um bom intervalo é entre -200 e 700 aproximadamente."
+
+#: ../udesign_options_page.php:3725
+msgid "Expand"
+msgstr "Expandir"
+
+#: ../udesign_options_page.php:3728
+msgid "To which extent are the cubes moved away from each other when tweening."
+msgstr ""
+"Até que ponto os cubos são afastados uns dos outros quando ocorre a "
+"interpolação."
+
+#: ../udesign_options_page.php:3732
+msgid "Shadow Darkness"
+msgstr "Escuridão da Sombra"
+
+#: ../udesign_options_page.php:3735
+msgid ""
+"To which extent are the sides shadowed, when the elements are tweening and "
+"the sided move towards the background. 100 is black, 0 is no darkening."
+msgstr ""
+"Até que ponto os lados são sombreados, quando os elementos são interpolados "
+"e levados em direção ao plano de fundo. O valor '100' é preto, '0' significa "
+"ausência de escurecimento."
+
+#: ../udesign_options_page.php:3739 ../udesign_options_page.php:3940
+msgid "Autoplay"
+msgstr "Executar automaticamente"
+
+#: ../udesign_options_page.php:3742
+msgid "Number of seconds to the next image."
+msgstr "Número de segundos para a próxima imagem."
+
+#: ../udesign_options_page.php:3746
+msgid "Text Distance"
+msgstr "Distância do Texto"
+
+#: ../udesign_options_page.php:3749
+msgid "Distance of the info text to the borders of its background."
+msgstr ""
+"Distância do texto informativo para as fronteiras de seu plano de fundo."
+
+#: ../udesign_options_page.php:3769
+msgid "Text Background"
+msgstr "Plano de Fundo do Texto"
+
+#: ../udesign_options_page.php:3777
+msgid "Description text background"
+msgstr "Plano de Fundo do texto de descrição"
+
+#: ../udesign_options_page.php:3781
+msgid "Inner Color"
+msgstr "Cor Interna"
+
+#: ../udesign_options_page.php:3789
+msgid "Sides color of the sliced elements"
+msgstr "Cor dos Lados dos elementos em fatias"
+
+#: ../udesign_options_page.php:3815 ../udesign_options_page.php:3841
+msgid "Edit the info text, erase all for none:"
+msgstr "Edite o texto informativo, apague tudo para zerar:"
+
+#: ../udesign_options_page.php:3819 ../udesign_options_page.php:3845
+msgid "Study the above text for slider's specific syntax"
+msgstr "Estude o texto acima para a sintaxe específica do Slider"
+
+#: ../udesign_options_page.php:3859
+msgid ""
+"In the case when JavaScript is disabled the 1st slider image is displayed by "
+"default in place of the Piecemaker slider, you may change that in here"
+msgstr ""
+"No caso quando o JavaScript está desativado a primeira imagem do Slider é "
+"exibida como padrão no lugar do Slider Piecemaker, você pode mudar isso aqui"
+
+#: ../udesign_options_page.php:3885
+msgid "Piecemaker 2 Slider Settings:"
+msgstr "Configurações do Slider Piecemarker 2:"
+
+#: ../udesign_options_page.php:3888
+msgid "General Settings:"
+msgstr "Configurações Gerais:"
+
+#: ../udesign_options_page.php:3895
+msgid "The width of every image."
+msgstr "A largura de toda imagem."
+
+#: ../udesign_options_page.php:3902
+msgid "The height of every image."
+msgstr "A altura de toda imagem."
+
+#: ../udesign_options_page.php:3911
+msgid "Loader Color"
+msgstr "Carregador de cor"
+
+#: ../udesign_options_page.php:3919
+msgid ""
+"Color of the cubes before the first image appears, also the color of the "
+"back sides of the cube, which become visible at some transition types."
+msgstr ""
+"Cor dos cubos antes da primeira imagem ser exibida, bem como a cor dos lados "
+"de trás do cubo, que se tornam visíveis em alguns tipos de transição."
+
+#: ../udesign_options_page.php:3923
+msgid "Inner Side Color"
+msgstr "Cor Lateral Interna"
+
+#: ../udesign_options_page.php:3931
+msgid "Color of the inner sides of the cube when sliced"
+msgstr "Cor dos lados interiores do cubo quando cortado"
+
+#: ../udesign_options_page.php:3943
+msgid ""
+"Number of seconds from one transition to another, if not stopped. Set to 0 "
+"to disable autoplay."
+msgstr ""
+"Número de segundos de uma transição para outra, se não for interrompido. "
+"Defina como '0' para desativar o play automático."
+
+#: ../udesign_options_page.php:3947
+msgid "Field of View"
+msgstr "Campo de Visão"
+
+#: ../udesign_options_page.php:3950
+#, php-format
+msgid ""
+"The display of the slide object moving down the z axis (1 to 179). It "
+"appears to change size quickly and moves a great distance. %1$sMore info%2$s"
+msgstr ""
+"O visor do Slider se move para baixo do eixo Z (1 a 179). Que parece mudar "
+"depressa de tamanho e movimentar-se a uma grande distância. %1$sMais info%2$s"
+
+#: ../udesign_options_page.php:3958
+msgid "Shadows:"
+msgstr "Sombras:"
+
+#: ../udesign_options_page.php:3962
+msgid "Side Shadow Alpha"
+msgstr "Sombra do Lado Alpha"
+
+#: ../udesign_options_page.php:3965
+#, php-format
+msgid ""
+"Sides get darker when moved away from the front. This is the degree of "
+"darkness 0 = no change, 1 = 100%s black."
+msgstr ""
+"Lados ficam mais escuros quando se afastam da frente. Este é o grau de "
+"escuridão '0' = sem alteração, '1' = 100%s preto."
+
+#: ../udesign_options_page.php:3969
+msgid "Drop Shadow Alpha"
+msgstr "Sombra Alpha"
+
+#: ../udesign_options_page.php:3972
+msgid "Alpha of the drop shadow 0 = no shadow, 1 = opaque."
+msgstr "Alpha da sombra: '0' = sem sombra, '1' = opaco."
+
+#: ../udesign_options_page.php:3976
+msgid "Drop Shadow Distance"
+msgstr "Distância da Sombra"
+
+#: ../udesign_options_page.php:3979
+msgid "Distance of the shadow from the bottom of the image."
+msgstr "Distância da sombra a partir do fundo da imagem."
+
+#: ../udesign_options_page.php:3983
+msgid "Drop Shadow Scale"
+msgstr "Escala da Sombra"
+
+#: ../udesign_options_page.php:3986
+msgid ""
+"As the shadow is blurred, it appears wider that the actual image, when not "
+"resized. Thus it's a good idea to make it slightly smaller. 1 would be no "
+"resizing at all."
+msgstr ""
+"Como a sombra é desfocada, parece mais ampla que a imagem real, quando não "
+"redimensionado. Dessa forma, é uma boa torná-lo um pouco menor. Assim '1' "
+"não seria absolutamente redimensionamento."
+
+#: ../udesign_options_page.php:3990
+msgid "Drop Shadow Blur X"
+msgstr "Desfoque em X da Sombra"
+
+#: ../udesign_options_page.php:3993
+msgid "Blur of the drop shadow on the x-axis."
+msgstr "Desfoque da sombra no eixo-x"
+
+#: ../udesign_options_page.php:3997
+msgid "Drop Shadow Blur Y"
+msgstr "Desfoque em Y da Sombra"
+
+#: ../udesign_options_page.php:4000
+msgid "Blur of the drop shadow on the y-axis."
+msgstr "Desfoque da sombra no eixo-y"
+
+#: ../udesign_options_page.php:4008
+msgid "Menu:"
+msgstr "Menu:"
+
+#: ../udesign_options_page.php:4012
+msgid "Menu Distance X"
+msgstr "Distância X do Menu"
+
+#: ../udesign_options_page.php:4015
+msgid "Distance between two menu items (from center to center)."
+msgstr "Distância entre dois itens de menu (de centro a centro)."
+
+#: ../udesign_options_page.php:4019
+msgid "Menu Distance Y"
+msgstr "Distância Y do Menu"
+
+#: ../udesign_options_page.php:4022
+msgid "Distance of the menu from the bottom of the image."
+msgstr "Distância do menu a partir do fundo da imagem."
+
+#: ../udesign_options_page.php:4031
+msgid "Menu Color 1"
+msgstr "Cor do Menu 1"
+
+#: ../udesign_options_page.php:4039
+msgid "Color of an inactive menu item."
+msgstr "Cor de um item de menu inativo."
+
+#: ../udesign_options_page.php:4043
+msgid "Menu Color 2"
+msgstr "Cor do Menu 2"
+
+#: ../udesign_options_page.php:4051
+msgid "Color of an active menu item."
+msgstr "Cor de um item de menu ativo."
+
+#: ../udesign_options_page.php:4055
+msgid "Menu Color 3"
+msgstr "Cor do Menu 3"
+
+#: ../udesign_options_page.php:4063
+msgid ""
+"Color of the inner circle of an active menu item. Should equal the "
+"background color of the whole thing."
+msgstr ""
+"Cor do círculo interno de um item de menu ativo. Deve ser igual a cor do "
+"plano de fundo da coisa toda."
+
+#: ../udesign_options_page.php:4071
+msgid "Controls:"
+msgstr "Controles:"
+
+#: ../udesign_options_page.php:4075
+msgid "Controls' Size"
+msgstr "Tamanho dos controles"
+
+#: ../udesign_options_page.php:4078
+msgid ""
+"Size of the controls, which appear on rollover (play, stop, info, link)."
+msgstr ""
+"Tamanho dos controles, que aparecem no efeito rolante (tocar, parar, info, "
+"link)."
+
+#: ../udesign_options_page.php:4082
+msgid "Controls' Distance"
+msgstr "Distância dos Controles"
+
+#: ../udesign_options_page.php:4085
+msgid "Distance between the controls (from the borders)."
+msgstr "Distância entre os controles (das bordas)."
+
+#: ../udesign_options_page.php:4094
+msgid "Control Color 1"
+msgstr "Cor 1 do Controle"
+
+#: ../udesign_options_page.php:4102
+msgid "Background color of the controls."
+msgstr "Cor de Fundo dos controles."
+
+#: ../udesign_options_page.php:4106
+msgid "Control Color 2"
+msgstr "Cor 2 do Controle"
+
+#: ../udesign_options_page.php:4114
+msgid "Font color of the controls."
+msgstr "Cor da fonte de texto dos controles."
+
+#: ../udesign_options_page.php:4123
+msgid "Control Alpha"
+msgstr "Controle Alpha"
+
+#: ../udesign_options_page.php:4126
+msgid "Alpha of a control, when mouse is not over."
+msgstr "Controle do Alpha, quando o mouse não está em cima."
+
+#: ../udesign_options_page.php:4130
+msgid "Control Alpha Over"
+msgstr "Controle Alpha Sobreposto"
+
+#: ../udesign_options_page.php:4133
+msgid "Alpha of a control, when mouse is over."
+msgstr "Controle do Alpha, quando o mouse estiver em cima."
+
+#: ../udesign_options_page.php:4137
+msgid "Controls X"
+msgstr "Controlar em X"
+
+#: ../udesign_options_page.php:4140
+msgid ""
+"X-position of the point, which aligns the controls (measured from [0,0] of "
+"the image)."
+msgstr ""
+"Posição-X do ponto, que alinha os controles (medido a partir de [0,0] da "
+"imagem)."
+
+#: ../udesign_options_page.php:4144
+msgid "Controls Y"
+msgstr "Controlar em Y"
+
+#: ../udesign_options_page.php:4147
+msgid ""
+"Y-position of the point, which aligns the controls (measured from [0,0] of "
+"the image)."
+msgstr ""
+"Posição-Y do ponto, que alinha os controles (medido a partir de [0,0] da "
+"imagem)."
+
+#: ../udesign_options_page.php:4151
+msgid "Controls' Alignment"
+msgstr "Alinhamento dos Controles"
+
+#: ../udesign_options_page.php:4154 ../udesign_options_page.php:5953
+msgid "Choose Alignment: "
+msgstr "Escolha de Alinhamento:"
+
+#: ../udesign_options_page.php:4161
+msgid ""
+"Type of alignment from the point [controlsX, controlsY] - can be \"center\", "
+"\"left\" or \"right\"."
+msgstr ""
+"Tipo de alinhamento a partir do ponto [controlesX,controlesY] - podem ser "
+"\"centro\", \"esquerda\" ou \"direita\"."
+
+#: ../udesign_options_page.php:4169
+msgid "Toolstips:"
+msgstr "Dicas de Ferramentas (Toolstips):"
+
+#: ../udesign_options_page.php:4173
+msgid "Tooltip Height"
+msgstr "Altura da dica de ferramenta:"
+
+#: ../udesign_options_page.php:4176
+msgid "Height of the tooltip surface in the menu."
+msgstr "Altura da dica de ferramenta da área do menu"
+
+#: ../udesign_options_page.php:4185
+msgid "Tooltip Color"
+msgstr "Cor da dica de ferramenta"
+
+#: ../udesign_options_page.php:4193
+msgid "Color of the tooltip surface in the menu."
+msgstr "Cor da dica de ferramenta no menu."
+
+#: ../udesign_options_page.php:4202
+msgid "Tooltip Text Y"
+msgstr "Texto em Y da dica de ferramenta"
+
+#: ../udesign_options_page.php:4205
+msgid "Y-distance of the tooltip text field from the top of the tooltip."
+msgstr "Distância-Y do campo de texto da tooltip a partir do topo da tooltip."
+
+#: ../udesign_options_page.php:4209
+msgid "Tooltip Text Style"
+msgstr "Estilo de texto da Tooltip"
+
+#: ../udesign_options_page.php:4212
+msgid ""
+"The style of the tooltip text, specified in the CSS file. Default: \"P-Italic"
+"\""
+msgstr ""
+"O estilo do texto do tooltip, especificado no arquivo CSS. Padrão: \"P-Italic"
+"\""
+
+#: ../udesign_options_page.php:4221
+msgid "Tooltip Text Color"
+msgstr "Cor de texto do Tooltip"
+
+#: ../udesign_options_page.php:4229
+msgid "Color of the tooltip text."
+msgstr "Cor do texto de um tooltip"
+
+#: ../udesign_options_page.php:4238
+msgid "Tooltip Margin Left"
+msgstr "Margem esquerda do Tooltip"
+
+#: ../udesign_options_page.php:4241
+msgid "Margin of the text to the left end of the tooltip."
+msgstr "Margem do texto para a extrema esquerda do tooltip."
+
+#: ../udesign_options_page.php:4245
+msgid "Tooltip Margin Right"
+msgstr "Margem direita do tooltip"
+
+#: ../udesign_options_page.php:4248
+msgid "Margin of the text to the right end of the tooltip."
+msgstr "Margem para o texto a extrema direita do tooltip."
+
+#: ../udesign_options_page.php:4252
+msgid "Tooltip Text Sharpness"
+msgstr "Nintidez do texto do tooltip"
+
+#: ../udesign_options_page.php:4255
+#, php-format
+msgid "Sharpness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr "Nitidez do tempo do tooltip (-400 a 400). %1$sMais info%2$s"
+
+#: ../udesign_options_page.php:4259
+msgid "Tooltip Text Thickness"
+msgstr "Espessura do texto tooltip"
+
+#: ../udesign_options_page.php:4262
+#, php-format
+msgid "Thickness of the tooltip text (-400 to 400). %1$sMore info%2$s"
+msgstr "Espessura do texto do tooltip (-400 a 400). %1$sMais info%2$s"
+
+#: ../udesign_options_page.php:4270
+msgid "Info Text:"
+msgstr "Texto Informações:"
+
+#: ../udesign_options_page.php:4274
+msgid "Info Width"
+msgstr "Largura informações:"
+
+#: ../udesign_options_page.php:4277
+msgid "The width of the info text field."
+msgstr "A largura do campo de texto informativo."
+
+#: ../udesign_options_page.php:4286
+msgid "Info Background"
+msgstr "Info de Plano de Fundo"
+
+#: ../udesign_options_page.php:4294
+msgid "The background color of the info text field."
+msgstr "A cor do plano de fundo do campo de texto informativo."
+
+#: ../udesign_options_page.php:4303
+msgid "Info Background Alpha"
+msgstr "Alpha do Plano de Fundo da Info"
+
+#: ../udesign_options_page.php:4306
+msgid ""
+"The alpha of the background of the info text, the image shines through, when "
+"smaller than 1."
+msgstr ""
+"O alfa do plano fundo do texto informativo, a imagem brilha quando menor do "
+"que 1."
+
+#: ../udesign_options_page.php:4310
+msgid "Info Margin"
+msgstr "Margem de informações"
+
+#: ../udesign_options_page.php:4313
+msgid "The margin of the text field in the info section to all sides."
+msgstr ""
+"A margem do campo de texto na seção de informações para todos os lados."
+
+#: ../udesign_options_page.php:4317
+msgid "Info Sharpness"
+msgstr "Nitidez das Informações"
+
+#: ../udesign_options_page.php:4320
+msgid "Sharpness of the info text (-400 to 400)."
+msgstr "Nitidez do texto de informação (-400 a 400)."
+
+#: ../udesign_options_page.php:4324
+msgid "Info Thickness"
+msgstr "Espessura da Informação"
+
+#: ../udesign_options_page.php:4327
+msgid "Thickness of the info text (-400 to 400)."
+msgstr "Espessura do texto informativo (-400 a 400)."
+
+#: ../udesign_options_page.php:4336
+msgid "Piecemaker 2 Slides:"
+msgstr "Slides Pieacemaker 2"
+
+#: ../udesign_options_page.php:4359 ../udesign_options_page.php:4459
+#: ../widgets/customCategory-widget.php:130
+#: ../widgets/googleMap-widget.php:101 ../widgets/latestPost-widget.php:153
+#: ../widgets/loginForm-widget.php:134 ../widgets/subpages-widget.php:148
+msgid "Title:"
+msgstr "Título:"
+
+#: ../udesign_options_page.php:4363 ../udesign_options_page.php:4463
+#: ../udesign_options_page.php:4882 ../udesign_options_page.php:4950
+#: ../udesign_options_page.php:5154 ../udesign_options_page.php:5237
+msgid "Link:"
+msgstr "Link:"
+
+#: ../udesign_options_page.php:4366 ../udesign_options_page.php:4466
+#: ../udesign_options_page.php:4885 ../udesign_options_page.php:4953
+#: ../udesign_options_page.php:5157 ../udesign_options_page.php:5240
+#: ../udesign_options_page.php:5409 ../udesign_options_page.php:5458
+msgid "Target: "
+msgstr "Objetivo"
+
+#: ../udesign_options_page.php:4368 ../udesign_options_page.php:4468
+#: ../udesign_options_page.php:4887 ../udesign_options_page.php:4955
+#: ../udesign_options_page.php:5159 ../udesign_options_page.php:5242
+#: ../udesign_options_page.php:5411 ../udesign_options_page.php:5460
+msgid "self"
+msgstr "a mesmo"
+
+#: ../udesign_options_page.php:4369 ../udesign_options_page.php:4469
+#: ../udesign_options_page.php:4888 ../udesign_options_page.php:4956
+#: ../udesign_options_page.php:5160 ../udesign_options_page.php:5243
+#: ../udesign_options_page.php:5412 ../udesign_options_page.php:5461
+msgid "blank"
+msgstr "em branco"
+
+#: ../udesign_options_page.php:4379 ../udesign_options_page.php:4479
+msgid "To remove the text just leave a single space."
+msgstr "Para remover o texto basta deixar um único espaço."
+
+#: ../udesign_options_page.php:4391 ../udesign_options_page.php:4410
+#: ../udesign_options_page.php:4503 ../udesign_options_page.php:4534
+msgid "Title Attribute:"
+msgstr "Atributo de Título:"
+
+#: ../udesign_options_page.php:4393 ../udesign_options_page.php:4412
+#: ../udesign_options_page.php:4505 ../udesign_options_page.php:4536
+msgid "(The title attribute will be shown in the tooltip on the menu)"
+msgstr ""
+"(O título de atributo será mostrado na dica de ferramenta (tooltip) no menu)"
+
+#: ../udesign_options_page.php:4396 ../udesign_options_page.php:4508
+msgid "SWF Link:"
+msgstr "Link do SWF (flash):"
+
+#: ../udesign_options_page.php:4398 ../udesign_options_page.php:4510
+msgid "(Paste the URL to the SWF file here. Should be on same Server)"
+msgstr ""
+"(Cole a URL do arquivo SWF (flash) aqui. Tem que estar no mesmo servidor)"
+
+#: ../udesign_options_page.php:4415 ../udesign_options_page.php:4539
+msgid "Video Link:"
+msgstr "Link do Vídeo:"
+
+#: ../udesign_options_page.php:4417
+msgid ""
+"(Paste the URL to the video file here. Should be on same Server. Accepted "
+"file formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr ""
+"(Cole a URL do arquivo de vídeo aqui. Tem que estar no mesmo servidor. "
+"Formatos de arquivos aceitos são MPEG4 com o codec H.264, bem como F4V e FLV)"
+
+#: ../udesign_options_page.php:4420 ../udesign_options_page.php:4544
+msgid "Width:"
+msgstr "Largura:"
+
+#: ../udesign_options_page.php:4424 ../udesign_options_page.php:4548
+msgid "Height:"
+msgstr "Altura"
+
+#: ../udesign_options_page.php:4429 ../udesign_options_page.php:4553
+msgid "Autoplay: "
+msgstr "Executar automaticamente:"
+
+#: ../udesign_options_page.php:4431 ../udesign_options_page.php:4555
+msgid "Yes"
+msgstr "Sim"
+
+#: ../udesign_options_page.php:4432 ../udesign_options_page.php:4556
+msgid "No"
+msgstr "Não"
+
+#: ../udesign_options_page.php:4541
+msgid ""
+"(Paste the URL to the FLV file here. Should be on same Server. Accepted file "
+"formats are MPEG4 with H.264 Codec, as well as F4V and FLV)"
+msgstr ""
+"(Cole a URL do arquivo FLV (vídeo em flash) aqui. Tem que estar no mesmo "
+"servidor. Formatos de arquivos aceitos são MPEG4 com o codec H.264, bem como "
+"F4V e FLV)"
+
+#: ../udesign_options_page.php:4567
+msgid "Piecemaker 2 Transitions:"
+msgstr "Transições Piecemaker 2:"
+
+#: ../udesign_options_page.php:4568
+msgid ""
+"You can add as many transitions to the Piecemaker 2 as you want. These "
+"transitions will be started in the order they are specified below. This "
+"order is entirely independent from the order of the slides above. Once the "
+"last transition is reached, it starts over again with the first transition."
+msgstr ""
+
+#: ../udesign_options_page.php:4569
+msgid ""
+"Every transition needs to have the following six attributes assigned to it:"
+msgstr ""
+
+#: ../udesign_options_page.php:4571
+#, fuzzy
+msgid "Pieces"
+msgstr "Peças:"
+
+#: ../udesign_options_page.php:4571
+#, fuzzy
+msgid "Number of pieces to which the image is sliced."
+msgstr "O número de segmentos, nos quais as imagens serão fatiadas."
+
+#: ../udesign_options_page.php:4572
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:180
+#, fuzzy
+msgid "Time"
+msgstr "Tempo:"
+
+#: ../udesign_options_page.php:4572
+msgid "Time for one cube to turn."
+msgstr ""
+
+#: ../udesign_options_page.php:4573
+#, fuzzy
+msgid "Transition"
+msgstr "Transição:"
+
+#: ../udesign_options_page.php:4573
+msgid ""
+"Transition type of the Tweener class. For more info on these types see the "
+"official Tweener Documentation and go to \"Transition Types\". The best "
+"results are achieved by those transition types, which begin with easeInOut."
+msgstr ""
+
+#: ../udesign_options_page.php:4574
+#, fuzzy
+msgid "Delay"
+msgstr "Atraso:"
+
+#: ../udesign_options_page.php:4574
+msgid "Delay between the start of one cube to the start of the next cube."
+msgstr ""
+
+#: ../udesign_options_page.php:4575
+#, fuzzy
+msgid "Depth Offset"
+msgstr "Profundidade do Afastamento:"
+
+#: ../udesign_options_page.php:4575
+msgid ""
+"The offset during transition on the z-axis. Value between 100 and 1000 are "
+"recommended. But go for experiments."
+msgstr ""
+
+#: ../udesign_options_page.php:4576
+#, fuzzy
+msgid "Cube Distance"
+msgstr "Distância do Cubo:"
+
+#: ../udesign_options_page.php:4576
+msgid ""
+"The distance between the cubes during transition. Values between 5 and 50 "
+"are recommended. But go for experiments."
+msgstr ""
+
+#: ../udesign_options_page.php:4591 ../udesign_options_page.php:4671
+msgid "Pieces:"
+msgstr "Peças:"
+
+#: ../udesign_options_page.php:4595 ../udesign_options_page.php:4675
+msgid "Time:"
+msgstr "Tempo:"
+
+#: ../udesign_options_page.php:4600 ../udesign_options_page.php:4680
+msgid "Transition: "
+msgstr "Transição:"
+
+#: ../udesign_options_page.php:4647 ../udesign_options_page.php:4727
+msgid "Delay:"
+msgstr "Atraso:"
+
+#: ../udesign_options_page.php:4651 ../udesign_options_page.php:4731
+msgid "Depth Offset:"
+msgstr "Profundidade do Afastamento:"
+
+#: ../udesign_options_page.php:4655 ../udesign_options_page.php:4735
+msgid "Cube Distance:"
+msgstr "Distância do Cubo:"
+
+#: ../udesign_options_page.php:4753
+msgid ""
+"In the case when JavaScript is disabled the 1st slider image is displayed by "
+"default in place of the Piecemaker 2 slider, you may change that in here"
+msgstr ""
+"Quando o JavaScript estiver desativado a primeira imagem do Slider será "
+"exibida por padrão no lugar do Slider Piecemaker 2, você pode mudar isso "
+"aqui, caso queira."
+
+#: ../udesign_options_page.php:4776
+msgid "Cycle 1 Slider Settings:"
+msgstr "Configurações do Slider 'Ciclo ':"
+
+#: ../udesign_options_page.php:4780 ../udesign_options_page.php:4992
+msgid "Transition Speed"
+msgstr "Velocidade da Transição"
+
+#: ../udesign_options_page.php:4783 ../udesign_options_page.php:4995
+msgid "Speed of the transition."
+msgstr "Velocidade da transição."
+
+#: ../udesign_options_page.php:4787 ../udesign_options_page.php:4999
+#: ../udesign_options_page.php:5294
+msgid "Timeout"
+msgstr "Tempo limite"
+
+#: ../udesign_options_page.php:4790 ../udesign_options_page.php:5002
+#: ../udesign_options_page.php:5297
+msgid "Milliseconds between slide transitions (0 to disable auto advance)."
+msgstr ""
+"Milissegundos entre transições de slides ('0' para desativar avanço "
+"automático)."
+
+#: ../udesign_options_page.php:4794 ../udesign_options_page.php:4796
+#: ../udesign_options_page.php:5006 ../udesign_options_page.php:5008
+msgid "Sync"
+msgstr "Sincronização"
+
+#: ../udesign_options_page.php:4799 ../udesign_options_page.php:5011
+msgid ""
+"Toggle this option to see how some effects behave differently (such as "
+"blind, curtain, and zoom)."
+msgstr ""
+"Alterne esta opção para ver como alguns efeitos se comportam de maneira "
+"diferente (como blind, curtain e zoom)."
+
+#: ../udesign_options_page.php:4805 ../udesign_options_page.php:4807
+msgid "Image Frame"
+msgstr "Moldura da Imagem"
+
+#: ../udesign_options_page.php:4810
+msgid "Remove the image frame with the border around the image?"
+msgstr "Retirar a moldura da imagem com a borda ao redor da imagem?"
+
+#: ../udesign_options_page.php:4811
+msgid ""
+"With the frame enabled (default state) image dimension is 914px by 374px "
+"(width by height). Without the frame image dimension is 940px by 400px. "
+"Depending on which option is selected, create and upload images with the "
+"corresponding dimensions for optimal quality."
+msgstr ""
+"Com a moldura ativada (estado padrão) a dimensão da imagem é 914 X 374 "
+"pixels (largura por altura). Sem a moldura na imagem as dimensões ficam 940 "
+"X 400 pixels. Portanto, uma imagem com ótima qualidade  vai depender da "
+"opção selecionada, quando se está criando e carregando imagens para o site."
+
+#: ../udesign_options_page.php:4879 ../udesign_options_page.php:4947
+msgid "Transition effect."
+msgstr "Efeito de Transição."
+
+#: ../udesign_options_page.php:4892 ../udesign_options_page.php:4960
+#: ../udesign_options_page.php:5164 ../udesign_options_page.php:5247
+#: ../udesign_options_page.php:5416 ../udesign_options_page.php:5465
+msgid "Alt Tag:"
+msgstr "Texto Alternativo da Imagem:"
+
+#: ../udesign_options_page.php:4895 ../udesign_options_page.php:4963
+#: ../udesign_options_page.php:5419 ../udesign_options_page.php:5468
+msgid "(To clear a text field above, replace it with a single space)"
+msgstr ""
+"(Para limpar um campo de texto acima, é só substituir o campo com um simples "
+"espaço)"
+
+#: ../udesign_options_page.php:4988
+msgid "Cycle 2 Slider Settings:"
+msgstr "Configurações do Slider 'Ciclo 2':"
+
+#: ../udesign_options_page.php:5017 ../udesign_options_page.php:5019
+msgid "Enable Transition on Text"
+msgstr "Ativar Transição no Texto"
+
+#: ../udesign_options_page.php:5022
+msgid ""
+"Toggle this option to enable/disable the transition effect on the info text. "
+"If disabled (unchecked) then the text will disapear for the duration of the "
+"transition."
+msgstr ""
+"Alternar essa opção para ativar/desativar o efeito de transição no texto "
+"informativo. Se desativado (desmarcado), então o texto desaparecerá durante "
+"o período/duração da transição."
+
+#: ../udesign_options_page.php:5028 ../udesign_options_page.php:5312
+msgid "Text Size"
+msgstr "Tamanho do texto"
+
+#: ../udesign_options_page.php:5047 ../udesign_options_page.php:5331
+msgid ""
+"When using \"em\" you are specifying size relative to the general font size."
+msgstr ""
+"Ao usar \"em\" você está especificando tamanho relativo ao tamanho da fonte "
+"geral."
+
+#: ../udesign_options_page.php:5051 ../udesign_options_page.php:5335
+msgid "Text Line Height"
+msgstr "Altura da Linha do Texto"
+
+#: ../udesign_options_page.php:5096
+msgid "Slider text color including the Title."
+msgstr "Cor do texto do Slider incluindo o Título."
+
+#: ../udesign_options_page.php:5121 ../udesign_options_page.php:5204
+msgid "Transition:"
+msgstr "Transição:"
+
+#: ../udesign_options_page.php:5169 ../udesign_options_page.php:5252
+#: ../udesign_options_page.php:5430 ../udesign_options_page.php:5479
+msgid "(You could use text and/or html)"
+msgstr "(Pode-se usar texto e/ou html)"
+
+#: ../udesign_options_page.php:5175 ../udesign_options_page.php:5258
+msgid "Button Text:"
+msgstr "Texto do Botão:"
+
+#: ../udesign_options_page.php:5177 ../udesign_options_page.php:5260
+msgid "Button Style: "
+msgstr "Estilo do Botão:"
+
+#: ../udesign_options_page.php:5179 ../udesign_options_page.php:5262
+msgid "Dark"
+msgstr "Escuro"
+
+#: ../udesign_options_page.php:5180 ../udesign_options_page.php:5263
+msgid "Light"
+msgstr "Claro"
+
+#: ../udesign_options_page.php:5183 ../udesign_options_page.php:5266
+msgid ""
+"The button is activated only if a <strong>Link</strong> is provided. To "
+"remove the button just replace the link with a single space."
+msgstr ""
+"O botão é ativado somente se um <strong>Link</ strong> é fornecido. Para "
+"remover o botão, basta substituir o link com um simples espaço."
+
+#: ../udesign_options_page.php:5290
+msgid "Cycle 3 Slider Settings:"
+msgstr "Configurações do Slider 'Ciclo 3':"
+
+#: ../udesign_options_page.php:5301 ../udesign_options_page.php:5303
+msgid "Autostop"
+msgstr "Parar automaticamente"
+
+#: ../udesign_options_page.php:5306
+msgid "End slideshow after the last slide."
+msgstr "Finalizar slideshow depois do último slide."
+
+#: ../udesign_options_page.php:5380
+msgid "Slider text color."
+msgstr "Cor do texto do Slider"
+
+#: ../udesign_options_page.php:5406 ../udesign_options_page.php:5455
+msgid "Image Link:"
+msgstr "Link da Imagem:"
+
+#: ../udesign_options_page.php:5423 ../udesign_options_page.php:5472
+msgid "Image 2:"
+msgstr "Imagem 2:"
+
+#: ../udesign_options_page.php:5504
+#, fuzzy
+msgid "Title Text"
+msgstr "Título:"
+
+#: ../udesign_options_page.php:5506
+#, fuzzy
+msgid "Change the Title:"
+msgstr "Modificar a frase:"
+
+#: ../udesign_options_page.php:5508
+msgid ""
+"This is the title text displayed in the place of the slider on the home page"
+msgstr "Este é o título do texto exibido no lugar do Slider na página inicial"
+
+#: ../udesign_options_page.php:5528
+#, php-format
+msgid ""
+"You need  to install the \"Revolution Slider\" first before using this "
+"feature. You may install the slider through the %1$sInstall Plugins%2$s "
+"section."
+msgstr ""
+
+#: ../udesign_options_page.php:5540
+#, php-format
+msgid ""
+"No sliders found!  Please create a new slider from the %1$sRevolution Slider"
+"%2$s page."
+msgstr ""
+
+#: ../udesign_options_page.php:5543
+#, fuzzy
+msgid "Choose a Revolution Slider:"
+msgstr "Escolha um Slider:"
+
+#: ../udesign_options_page.php:5545
+msgid "--Select Slider--"
+msgstr ""
+
+#: ../udesign_options_page.php:5550
+#, php-format
+msgid ""
+"To create additional sliders or to configure the existing ones please refer "
+"to the %1$sRevolution Slider%2$s page."
+msgstr ""
+
+#: ../udesign_options_page.php:5550
+#, fuzzy
+msgid "Go to Revolution Slider page"
+msgstr "Sem Slider"
+
+#: ../udesign_options_page.php:5551
+#, php-format
+msgid "For help please refer to the %1$sDocumentation%2$s."
+msgstr ""
+
+#: ../udesign_options_page.php:5551
+#, fuzzy
+msgid "Go to the Documentation"
+msgstr "Documentação"
+
+#: ../udesign_options_page.php:5571
+msgid "Portfolio Pages"
+msgstr "Páginas de Portfolio"
+
+#: ../udesign_options_page.php:5573
+msgid ""
+"Use this area to assign Portfolio Categories to their respective Portfolio "
+"pages."
+msgstr ""
+"Use esta área para atribuir Categorias de Portfólio de suas respectivas "
+"páginas de Portfólio."
+
+#: ../udesign_options_page.php:5574
+msgid ""
+"Firstly though, you have to create the Portfolio page(s) and assign the "
+"\"Portfolio page\" template to it."
+msgstr ""
+"Em primeiro lugar, você tem que criar a(s) página(s) de Portfólio(s) e "
+"atribuir o modelo \"Página de Portfólio\" para ela(s)."
+
+#: ../udesign_options_page.php:5575
+#, fuzzy
+msgid ""
+"If you don't see any categories in the dropdown(s) below it's because you "
+"haven't created any yet, in that case go to 'Posts &rarr; Categories' and "
+"create a 'Portfolio' category there. Also don't forget to save all your "
+"Portfolio related Posts and sub categories under that category."
+msgstr ""
+"Se você não vê quaisquer categorias na lista suspensa(s) abaixo é porque "
+"você não criou nenhuma, nesse caso vá até 'Posts -> Categorias' e crie uma "
+"Categoria de 'Portfólio' por lá. Também não se esqueça de guardar todos os "
+"seus Posts de Portfólio relacionados e subcategorias sob essa Categoria."
+
+#: ../udesign_options_page.php:5580
+msgid "To Portfolio page"
+msgstr "Para página de Portfolio"
+
+#: ../udesign_options_page.php:5581
+msgid "assign the Category:"
+msgstr "Atribuir a Categoria:"
+
+#: ../udesign_options_page.php:5581 ../widgets/customCategory-widget.php:74
+msgid "Select Category"
+msgstr "Selecione a categoria"
+
+#: ../udesign_options_page.php:5582
+msgid "with"
+msgstr "com"
+
+#: ../udesign_options_page.php:5582
+msgid "items per page."
+msgstr "itens por página."
+
+#: ../udesign_options_page.php:5587
+msgid "Do not link adjacent items in this category as gallery."
+msgstr "Não criar link dos itens adjacentes desta categoria como galeria."
+
+#: ../udesign_options_page.php:5589
+msgid ""
+"(Remove the ability to go to the next or previous item when previewing with "
+"prettyPhoto lightbox)"
+msgstr ""
+"(Remover a possibilidade de avançar ou recuar um item ao visualizar com o "
+"prettyPhoto lightbox)"
+
+#: ../udesign_options_page.php:5596
+msgid "Portfolio Title Position"
+msgstr "Posição do Título do Portfolio"
+
+#: ../udesign_options_page.php:5599
+msgid "Below"
+msgstr "abaixo"
+
+#: ../udesign_options_page.php:5600
+msgid "Above"
+msgstr "acima"
+
+#: ../udesign_options_page.php:5601
+msgid ""
+"This is the post title shown with every thumbnail. Choose whether you would "
+"like to have it displayed above the Thumbnail or just below it."
+msgstr ""
+"Este é o título do post mostrado por meio de toda a thumbnail. Escolha se "
+"você gostaria de exibi-lo acima da thumbnail ou logo abaixo dela."
+
+#: ../udesign_options_page.php:5608
+msgid ""
+"The following settings refer to the individual portfolio item post (single "
+"post view)"
+msgstr ""
+"As definições a seguir referem-se ao item de postagem individual do "
+"portfólio (visão de post único)"
+
+#: ../udesign_options_page.php:5612 ../udesign_options_page.php:5712
+#: ../udesign_options_page.php:6033
+msgid "Sidebar Position"
+msgstr "Posição Barra Lateral"
+
+#: ../udesign_options_page.php:5617
+#, fuzzy
+msgid "This is the sidebar shown on individual portfolio items' posts"
+msgstr ""
+"Esta é a barra lateral mostrada em mensagens itens dos portflio individuais"
+
+#: ../udesign_options_page.php:5621 ../udesign_options_page.php:5623
+#, fuzzy
+msgid "Portfolio Postmetadata"
+msgstr "Portfolio de Metadados de Post"
+
+#: ../udesign_options_page.php:5626
+msgid "Show Portfolio Post Metadata box (Single View)."
+msgstr "Exibir a caixa do Portfolio de Metadados de Post (visão única)."
+
+#: ../udesign_options_page.php:5627
+msgid ""
+"This is the info block containing the information about Author, Date, "
+"Categories, Comments in a single view portfolio post."
+msgstr ""
+
+#: ../udesign_options_page.php:5633
+#, fuzzy
+msgid "Portfolio Postmetadata Location"
+msgstr "Portfolio de Metadados de Post"
+
+#: ../udesign_options_page.php:5636 ../udesign_options_page.php:5871
+#, fuzzy
+msgid "Choose Location: "
+msgstr "Escolher posição:"
+
+#: ../udesign_options_page.php:5638 ../udesign_options_page.php:5873
+#, fuzzy
+msgid "Bottom"
+msgstr "Fundo 1"
+
+#: ../udesign_options_page.php:5639 ../udesign_options_page.php:5874
+#, fuzzy
+msgid "Top"
+msgstr "topo"
+
+#: ../udesign_options_page.php:5641
+msgid ""
+"This is the location of the block containing the information about Author, "
+"Date, Categories, Comments in a single view portfolio post."
+msgstr ""
+
+#: ../udesign_options_page.php:5646 ../udesign_options_page.php:5648
+msgid "Portfolio Post Author"
+msgstr "Autor de Post Portfolio"
+
+#: ../udesign_options_page.php:5651
+msgid ""
+"Show Author Name (\"Portfolio Post Metadata\" needs to be enabled for this "
+"option)"
+msgstr "Mostrar nome do autor (\"Metadados de Post Portfolio"
+
+#: ../udesign_options_page.php:5652 ../udesign_options_page.php:5796
+#, fuzzy, php-format
+msgid ""
+"The following text: \"Written by: Author Name\" will be added to the "
+"postmetadata box. The author's name will be displayed as specified under "
+"%1$sUsers %2$s Your Profile%3$s <strong>Display name publicly as</strong> "
+"field and linking it to the author's page."
+msgstr ""
+"O texto seguinte: \"Escrito por: Nome do autor\" será adicionado à caixa de "
+"postmetadados. O nome do autor será exibido, conforme especificado em "
+"%1$sUsuários -> Seu Perfil%2$s <strong>Mostrar nome publicamente como</"
+"strong> campo e fazer link para a página do autor."
+
+#: ../udesign_options_page.php:5652
+msgid "Go to your Profile"
+msgstr ""
+
+#: ../udesign_options_page.php:5658 ../udesign_options_page.php:5660
+msgid "Portfolio Post Tags"
+msgstr "Portfolio das Tags de Postagens"
+
+#: ../udesign_options_page.php:5663
+msgid "Show Portfolio Post Tags"
+msgstr "Mostrar Portfolio das Tags de Postagens"
+
+#: ../udesign_options_page.php:5669 ../udesign_options_page.php:5671
+msgid "Show Comment Area"
+msgstr "Mostrar Área de Comentários"
+
+#: ../udesign_options_page.php:5674
+#, fuzzy
+msgid "Show comment area in portfolio posts (Single View)"
+msgstr "Exibir área de comentários no posts de Portfolio (única visão)"
+
+#: ../udesign_options_page.php:5680 ../udesign_options_page.php:5682
+#: ../udesign_options_page.php:5857 ../udesign_options_page.php:5859
+msgid "Full-width Single Post View Page"
+msgstr "Ver Página de Postagem Individual com largura total"
+
+#: ../udesign_options_page.php:5685
+#, fuzzy
+msgid "Remove the sidebar from single post view portfolio pages."
+msgstr ""
+"Remover a barra lateral das Páginas de Portfolio de Postagem Individual"
+
+#: ../udesign_options_page.php:5691 ../udesign_options_page.php:5693
+#, fuzzy
+msgid "Single Portfolio Post Navigation Links"
+msgstr "Mostrar Portfolio das Tags de Postagens"
+
+#: ../udesign_options_page.php:5696
+msgid ""
+"Show \"Previous\" and \"Next\" navigation links on a single post view "
+"portfolio pages."
+msgstr ""
+
+#: ../udesign_options_page.php:5717
+msgid "This is the sidebar shown on blog pages"
+msgstr "Esta é a barra lateral mostrada nas páginas do blog"
+
+#: ../udesign_options_page.php:5721 ../udesign_options_page.php:5723
+msgid "Show Excerpt"
+msgstr "Mostrar Trecho"
+
+#: ../udesign_options_page.php:5726
+msgid "Show the excerpt instead of the full post content on the Blog page."
+msgstr "Mostrar o trecho em vez de todo o conteúdo do post na página do Blog."
+
+#: ../udesign_options_page.php:5732
+msgid "Excerpt Length"
+msgstr "Comprimento do trecho"
+
+#: ../udesign_options_page.php:5734
+msgid "Change the excerpt length:"
+msgstr "Alterar o comprimento do trecho:"
+
+#: ../udesign_options_page.php:5735
+msgid "This number refers to the number of words to show."
+msgstr "Este número refere-se ao número de palavras para mostrar."
+
+#: ../udesign_options_page.php:5739
+msgid "\"Read more\" Link"
+msgstr "Link \"Ler mais\""
+
+#: ../udesign_options_page.php:5742
+msgid ""
+"Enter the text for the post's 'Read more' link.  Leave blank to hide it."
+msgstr ""
+"Digite o texto para substituir o link 'Leia mais' (personalizar o link). "
+"Deixe em branco para escondê-lo."
+
+#: ../udesign_options_page.php:5746 ../udesign_options_page.php:5748
+msgid "Exclude Portfolio(s) from Blog"
+msgstr "Ecluir Portfolio(s) do Blog"
+
+#: ../udesign_options_page.php:5751
+msgid "Exclude portfolio categories and posts from the blog and archive pages."
+msgstr ""
+
+#: ../udesign_options_page.php:5752
+msgid ""
+"Note: If a portfolio category has children categories those will also be "
+"excluded although they may not necessarily be assigned a portfolio page "
+"template themselves."
+msgstr ""
+
+#: ../udesign_options_page.php:5755
+msgid "Extended exclusion:"
+msgstr ""
+
+#: ../udesign_options_page.php:5758
+#, fuzzy
+msgid "Exclude Portfolio Entries from Recent Posts Widget"
+msgstr "Ecluir Portfolio(s) do Blog"
+
+#: ../udesign_options_page.php:5759
+msgid "\"Recent Posts\" Widget : "
+msgstr ""
+
+#: ../udesign_options_page.php:5761
+#, php-format
+msgid ""
+"Enabling this option will exlude portfolio related entries from the %sRecent "
+"Posts%s widget."
+msgstr ""
+
+#: ../udesign_options_page.php:5765
+#, fuzzy
+msgid "Exclude Portfolio(s) from Archives Widget"
+msgstr "Ecluir Portfolio(s) do Blog"
+
+#: ../udesign_options_page.php:5766
+#, fuzzy
+msgid "\"Archives\" Widget : "
+msgstr "Arquivos por Assunto:"
+
+#: ../udesign_options_page.php:5768
+#, php-format
+msgid ""
+"Enabling this option will exlude portfolio related entries from the "
+"%sArchives%s widget."
+msgstr ""
+
+#: ../udesign_options_page.php:5772
+#, fuzzy
+msgid "Exclude Portfolio(s) from Main Query"
+msgstr "Ecluir Portfolio(s) do Blog"
+
+#: ../udesign_options_page.php:5773
+#, fuzzy
+msgid "Main Query : "
+msgstr "Menu:"
+
+#: ../udesign_options_page.php:5775
+#, php-format
+msgid ""
+"Enabling this option will exlude portfolio categories and posts from the "
+"%1$sWordPress Main Query%2$s (note that the %1$sRecent Posts%2$s widget will "
+"also be affected)."
+msgstr ""
+
+#: ../udesign_options_page.php:5790 ../udesign_options_page.php:5792
+msgid "Show Post Author"
+msgstr "Mostrar post do autor"
+
+#: ../udesign_options_page.php:5795
+msgid "Show Author Name"
+msgstr "Mostrar nome do autor"
+
+#: ../udesign_options_page.php:5796
+msgid "Go to Your Profile"
+msgstr ""
+
+#: ../udesign_options_page.php:5802 ../udesign_options_page.php:5804
+msgid "Post Tags"
+msgstr "Tags das Postagens"
+
+#: ../udesign_options_page.php:5807
+msgid "Show Post Tags"
+msgstr "Mostrar tags das postagens"
+
+#: ../udesign_options_page.php:5813 ../udesign_options_page.php:5815
+msgid "Category Archive Title"
+msgstr "Arquivo por Categoria de Título"
+
+#: ../udesign_options_page.php:5818
+msgid ""
+"Remove the \"Archive for the '...' Category\" string from the category "
+"archive title."
+msgstr ""
+"Remover o \"Arquivo para a '...' Categoria\" seqüência do título do arquivo "
+"da categoria. "
+
+#: ../udesign_options_page.php:5824 ../udesign_options_page.php:5826
+#, fuzzy
+msgid "\"Comments are closed\" message"
+msgstr "Os comentários estão desabilitados."
+
+#: ../udesign_options_page.php:5829
+msgid ""
+"Show \"Comments are closed\" message for posts where the comments have been "
+"disabled, otherwise no message will be displayed."
+msgstr ""
+
+#: ../udesign_options_page.php:5835 ../udesign_options_page.php:5837
+msgid "Full-width Blog Page"
+msgstr "Página do Blog com largura total"
+
+#: ../udesign_options_page.php:5840
+msgid "Remove the sidebar from Blog pages."
+msgstr "Remover a barra lateral das páginas do Blog."
+
+#: ../udesign_options_page.php:5846 ../udesign_options_page.php:5848
+msgid "Full-width Archive Page"
+msgstr "Página do Arquivo com largura total"
+
+#: ../udesign_options_page.php:5851
+msgid ""
+"Remove the sidebar from Archive pages (e.g. Category archives, Date "
+"archives, Tag archives, etc.)."
+msgstr ""
+"Remover a barra lateral das páginas de Arquivo (por exemplo, Arquivos de "
+"Categoria, Arquivos de Dados, Arquivos de Tag, etc.)"
+
+#: ../udesign_options_page.php:5862
+msgid "Remove the sidebar from Single Post View pages."
+msgstr "Remova a barra lateral das páginas Visualizador de Post Individual."
+
+#: ../udesign_options_page.php:5868
+msgid "Single View Postmetadata Location"
+msgstr ""
+
+#: ../udesign_options_page.php:5875
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Field.php:916
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Field.php:920
+msgid "None"
+msgstr ""
+
+#: ../udesign_options_page.php:5877
+msgid ""
+"This is the location of the block containing the information about Author, "
+"Date, Categories, Comments in a single view post."
+msgstr ""
+
+#: ../udesign_options_page.php:5882 ../udesign_options_page.php:5884
+msgid "Single Post Navigation Links"
+msgstr ""
+
+#: ../udesign_options_page.php:5887
+msgid ""
+"Show \"Previous\" and \"Next\" navigation links on a single post view pages."
+msgstr ""
+
+#: ../udesign_options_page.php:5893 ../udesign_options_page.php:5895
+msgid "Post Image in Single Post View"
+msgstr "Imagem de Post em Visualizador de post Individual"
+
+#: ../udesign_options_page.php:5898
+msgid "Display the post image in single post view."
+msgstr "Visualize a imagem do post em modo postagem única."
+
+#: ../udesign_options_page.php:5908
+msgid "Blog and Archive Section \"Featured Image\":"
+msgstr "Seção de Arquivo e Blog \"Imagem em Destaque\""
+
+#: ../udesign_options_page.php:5909
+msgid ""
+"Use this section to set the Post \"Featured Image\" the way it will be shown "
+"on the Blog and Archive Pages for each post. Please note, that if you have "
+"\"post_image\" custom field specified in a post, it will be given priority "
+"over the post \"Featured Image\", so if you would like to use the \"Featured "
+"Image\" do not use the custom field \"post_image\"."
+msgstr ""
+"Use esta seção para definir o Post \"Imagem em destaque\" a forma como ele "
+"será mostrado no blog e Páginas de Arquivos para cada postagem. Note que se "
+"você tem  \"post_image \" campo personalizado especificado num post, ele vai "
+"ter prioridade em relação a \"Imagem em destaque\", então se você quer usar "
+"\"Imagem de Destaque\" não use o campo personalizado \"post_image \"."
+
+#: ../udesign_options_page.php:5913
+msgid "Enable This Section"
+msgstr "Ativar Esta Seção"
+
+#: ../udesign_options_page.php:5915 ../udesign_options_page.php:5940
+msgid "Enable Custom \"Featured Image\""
+msgstr "Habilitar Personalização da \"Imagem de Destaque\""
+
+#: ../udesign_options_page.php:5918
+msgid ""
+"Select this option to apply the settings below to the \"Featured Image\"."
+msgstr ""
+"Selecione esta opção para aplicar as configurações abaixo na \"Imagem "
+"Destaque\"."
+
+#: ../udesign_options_page.php:5927
+msgid "Apply this image width in pixels."
+msgstr "Aplicar esta largura de imagem em pixels."
+
+#: ../udesign_options_page.php:5934
+msgid "Apply this image height in pixels."
+msgstr "Aplicar esta altura de imagem em pixels."
+
+#: ../udesign_options_page.php:5938
+msgid "Force Image Dimensions"
+msgstr "Forçar Dimensões de Imagem"
+
+#: ../udesign_options_page.php:5943
+#, fuzzy
+msgid ""
+"Select this option to force cropping and resizing the images which is "
+"recommended if you would like all images to be of the same specified "
+"dimensions."
+msgstr ""
+"Selecione esta opção para cortar e redimensionar a imagem com o script "
+"TimThumb que é recomendado para você por todas as imagens na mesma dimensão. "
+"Caso contrário, um script de redimensionamento nativo do  WordPress será "
+"aplicado para a \"Imagem em Destaque\"."
+
+#: ../udesign_options_page.php:5946
+#, fuzzy
+msgid ""
+"(This option would only be considered if image cropping is enabled (default) "
+"from the \"General Options\" section)"
+msgstr ""
+"(Essa opção só será considerada se o TimThumb foi ativado em \"Opções gerais"
+"\")"
+
+#: ../udesign_options_page.php:5950
+msgid "Image Alignment"
+msgstr "Alinamento da Imagem"
+
+#: ../udesign_options_page.php:5956
+msgid "Center"
+msgstr "Centro"
+
+#: ../udesign_options_page.php:5963 ../udesign_options_page.php:5965
+#, fuzzy
+msgid "Remove Image Frame"
+msgstr "Moldura da Imagem"
+
+#: ../udesign_options_page.php:5968
+msgid "This option will remove the image frame."
+msgstr ""
+
+#: ../udesign_options_page.php:6000
+msgid "Enable Business Contact"
+msgstr "Ativar Contato Comercial"
+
+#: ../udesign_options_page.php:6001
+msgid "Enable Contact Info Fields"
+msgstr "Habilitar Campos de Informações de Contato"
+
+#: ../udesign_options_page.php:6004
+msgid "Enable the Business Contact fields (see below for description)"
+msgstr "Habilitar campos de Contato Comercial (ver abaixo a descrição)"
+
+#: ../udesign_options_page.php:6007
+msgid "Business Contact Fields"
+msgstr "Campos de Contato Comercial"
+
+#: ../udesign_options_page.php:6009
+msgid ""
+"The Business Contact Fields provide a way to better display additional "
+"contact information such as Company Name, Address, Phone, etc. An example of "
+"a Field pair could be <strong>Telephone: (123) 123-4567</strong>, where you "
+"would enter the \"<strong>Telephone:</strong>\" part in the first field and "
+"\"<strong>(123) 123-4567</strong>\" in the second (under the same \"Line #"
+"\") respectively."
+msgstr ""
+"Os campos de contato comercial fornecem uma maneira para melhor exibir as "
+"informações de contato adicionais, tais como nome da empresa, endereço, "
+"telefone, etc. Um exemplo de uma parte de campo: <strong> Telefone: (91) "
+"1234-5678 </strong>, onde você entraria com \"<strong>Telefone: </strong>\" "
+"parte no primeiro campo e \"<strong> (91) 1234-5678</ strong> \" no segundo "
+"(segue a mesma ideia \"Line #\"), respectivamente."
+
+#: ../udesign_options_page.php:6010
+msgid "Line 1:"
+msgstr "Linha 1:"
+
+#: ../udesign_options_page.php:6013
+msgid "Line 2:"
+msgstr "Linha 2:"
+
+#: ../udesign_options_page.php:6016
+msgid "Line 3:"
+msgstr "Linha 3:"
+
+#: ../udesign_options_page.php:6019
+msgid "Line 4:"
+msgstr "Linha 4:"
+
+#: ../udesign_options_page.php:6022
+msgid "Line 5:"
+msgstr "Linha 5:"
+
+#: ../udesign_options_page.php:6025
+msgid "Line 6:"
+msgstr "Linha 6:"
+
+#: ../udesign_options_page.php:6028
+msgid "Line 7:"
+msgstr "Linha 7:"
+
+#: ../udesign_options_page.php:6031
+msgid ""
+"Some html tags and inline styling could be used for formatting here, e.g."
+msgstr ""
+"Algumas tags de html e estilo em linha podem ser utilizadas para formatação "
+"aqui, por exemplo."
+
+#: ../udesign_options_page.php:6031
+msgid "Address"
+msgstr "Endereço"
+
+#: ../udesign_options_page.php:6031
+msgid "or"
+msgstr "ou"
+
+#: ../udesign_options_page.php:6037
+msgid "This is the sidebar shown on the Contact page"
+msgstr "Esta é a barra lateral mostrada na página de Contato."
+
+#: ../udesign_options_page.php:6039 ../udesign_options_page.php:6040
+msgid "Remove Sidebar"
+msgstr ""
+
+#: ../udesign_options_page.php:6043
+msgid ""
+"Remove the sidebar from the Contact page, which will make it a full-width "
+"page layout."
+msgstr ""
+
+#: ../udesign_options_page.php:6046
+msgid "Phone Number validation"
+msgstr "Validação de número de telefone"
+
+#: ../udesign_options_page.php:6047
+msgid ""
+"This is the field displayed in the E-mail form on the Contact page template. "
+"If checked, the validation for North American phone numbers will be enabled."
+msgstr ""
+"Este é o campo exibido no formulário de e-mail, na página de modelo de "
+"Contato. Se marcar esta opção, a validação de números de telefone norte-"
+"americanos será ativada."
+
+#: ../udesign_options_page.php:6048
+msgid "Enable North American phone number validation"
+msgstr "Habilitar a validação de número de telefone norte-americano"
+
+#: ../udesign_options_page.php:6051
+msgid "Enable North American phone number validation in the contact email form"
+msgstr ""
+"Habilitar a validação de número de telefone norte-americano no formulário de "
+"e-mail de contato"
+
+#: ../udesign_options_page.php:6057
+msgid "E-mail Recipient(s)"
+msgstr "E-mail destinatário(s)"
+
+#: ../udesign_options_page.php:6059
+msgid ""
+"Please enter recipient's email address, comma-separate multiple recipients:"
+msgstr ""
+"Por favor digite os endereços de e-mails dos destinatários, separados por "
+"vírgula, quando se tratar de muitos e-mails:"
+
+#: ../udesign_options_page.php:6064 ../udesign_options_page.php:6066
+#, fuzzy
+msgid "Enable reCAPTCHA"
+msgstr "Habilitar o ReCAPTCHA"
+
+#: ../udesign_options_page.php:6069
+#, fuzzy, php-format
+msgid ""
+"Add reCAPTCHA to the email form for extra security (for more information "
+"visit %s)"
+msgstr ""
+"Adicionar ReCAPTCHA para um formulário de e-mail para a segurança extra "
+"(para mais informações  visite %s)"
+
+#: ../udesign_options_page.php:6069 ../udesign_options_page.php:6079
+#: ../udesign_options_page.php:6086
+msgid "Go to www.reCAPTCHA.net"
+msgstr ""
+
+#: ../udesign_options_page.php:6071
+#, fuzzy
+msgid ""
+"Please note: reCAPTCHA will be automatically disabled if the two fields "
+"below are empty!"
+msgstr ""
+"Atenção: ReCAPTCHA será desativado automaticamente se os dois campos abaixo "
+"estiverem vazios!"
+
+#: ../udesign_options_page.php:6076
+#, fuzzy
+msgid "reCAPTCHA Public Key"
+msgstr "Chave Pública do ReCAPTCHA"
+
+#: ../udesign_options_page.php:6079
+msgid "To use reCAPTCHA you must get an API public key from"
+msgstr "Para usar o reCAPTCHA é preciso obter uma chave pública API."
+
+#: ../udesign_options_page.php:6083
+#, fuzzy
+msgid "reCAPTCHA Private Key"
+msgstr "Chave Privada do ReCAPTCHA"
+
+#: ../udesign_options_page.php:6086
+#, fuzzy
+msgid "To use reCAPTCHA you must get an API private key from"
+msgstr "Para usar o reCAPTCHA é preciso obter uma chave privada API."
+
+#: ../udesign_options_page.php:6087
+#, fuzzy
+msgid ""
+"This key is used when communicating between your server and the reCAPTCHA "
+"server. Be sure to keep it a secret."
+msgstr ""
+"Esta chave é usada na comunicação entre o servidor e o servidor ReCAPTCHA. "
+"Certifique-se de manter isso em segredo."
+
+#: ../udesign_options_page.php:6091
+#, fuzzy
+msgid "reCAPTCHA Language"
+msgstr "Languagem do ReCAPTCHA"
+
+#: ../udesign_options_page.php:6094
+msgid "Language: "
+msgstr "Linguagem:"
+
+#: ../udesign_options_page.php:6116
+msgid "Copyright Message"
+msgstr "Mensagem de direitos autorais"
+
+#: ../udesign_options_page.php:6120
+msgid "Copyright message displayed in the footer."
+msgstr "Mensagem de direitos autorais mostrada no Rodapé."
+
+#: ../udesign_options_page.php:6124 ../udesign_options_page.php:6126
+msgid "WordPress credits link"
+msgstr "Link de crédito do Wordpress"
+
+#: ../udesign_options_page.php:6129
+#, php-format
+msgid "Show \"is proudly powered by %s\" in footer?"
+msgstr "Mostrar no Rodapé \"é orgulhosamente desenvolvido com %s\""
+
+#: ../udesign_options_page.php:6140 ../udesign_options_page.php:6142
+msgid "Your \"U-Design\" Affiliate Link"
+msgstr ""
+
+#: ../udesign_options_page.php:6145
+#, php-format
+msgid "Show %1$sThemeForest Affiliate%2$s link in footer?"
+msgstr ""
+
+#: ../udesign_options_page.php:6147
+#, php-format
+msgid "ThemeForest %1$susername%2$s:"
+msgstr ""
+
+#: ../udesign_options_page.php:6149
+msgid "(case-sensitive)"
+msgstr ""
+
+#: ../udesign_options_page.php:6150
+#, php-format
+msgid ""
+"Would you like to make money with \"U-Design\"? Refer new ThemeForest users "
+"to the \"U-Design\" theme and ThemeForest will pay you 30&#37; of their "
+"first purchase or cash deposit!! Click %1$shere%2$s for more information."
+msgstr ""
+
+#: ../udesign_options_page.php:6160 ../udesign_options_page.php:6162
+msgid "Entries (RSS) link"
+msgstr "Link do RSS"
+
+#: ../udesign_options_page.php:6165
+msgid "Show \"Entries (RSS)\" link in footer?"
+msgstr "Mostrar o link do \"RSS\" rodapé?"
+
+#: ../udesign_options_page.php:6171 ../udesign_options_page.php:6173
+msgid "Comments (RSS) link"
+msgstr "Link de comentários (RSS)"
+
+#: ../udesign_options_page.php:6176
+msgid "Show \"Comments (RSS)\" link in footer?"
+msgstr "Mostrar no Rodapé \"Comentários RSS\"?"
+
+#: ../udesign_options_page.php:6182 ../udesign_options_page.php:6184
+msgid "\"Sticky\" Footer"
+msgstr ""
+
+#: ../udesign_options_page.php:6187
+msgid ""
+"Have the footer stay at the bottom of the page on pages that have very "
+"little content."
+msgstr ""
+
+#: ../udesign_options_page.php:6202
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: ../udesign_options_page.php:6206
+msgid ""
+"Paste your Google Analytics or other tracking code here. It will be inserted "
+"just before the closing &lt;/head&gt; tag."
+msgstr ""
+"Colar seu Google Analytics ou outros códigos aqui. Ele será inserido antes "
+"do fechamento do cabeçalho &lt;/head&gt; tag."
+
+#: ../udesign_options_page.php:6221
+msgid ""
+"960px is the theme's default width. If responsive is enabled the theme will "
+"resize automatically to adjust to the size of the browser window or the type "
+"of device being used based on the following three breakpoints:"
+msgstr ""
+
+#: ../udesign_options_page.php:6223
+msgid "1 ) Breakpoint 1 - [ 960px to 720px ]"
+msgstr ""
+
+#: ../udesign_options_page.php:6224
+msgid "2 ) Breakpoint 2 - [ 720px to 480px ]"
+msgstr ""
+
+#: ../udesign_options_page.php:6225
+msgid "3 ) Breakpoint 3 - [ smaller than 480px ]"
+msgstr ""
+
+#: ../udesign_options_page.php:6235 ../udesign_options_page.php:6237
+#, fuzzy
+msgid "Enable Responsive"
+msgstr "Sem respostas"
+
+#: ../udesign_options_page.php:6240
+msgid "Enable responsive layout."
+msgstr ""
+
+#: ../udesign_options_page.php:6246
+msgid "Responsive Logo (optional)"
+msgstr ""
+
+#: ../udesign_options_page.php:6249
+#, fuzzy
+msgid "Enter a URL or upload an image for your alternative logo:"
+msgstr "Entre com uma URL ou suba uma imagem para usar como sua logo:"
+
+#: ../udesign_options_page.php:6254
+msgid ""
+"An alternative logo will be loaded ONLY in the case Breakpoints 2 and 3. "
+"Please note, this is optional, in most cases you won't need an alternative "
+"logo but in some cases might be handy. In either case the theme will resize "
+"(if necessary) and center the logo automatically."
+msgstr ""
+
+#: ../udesign_options_page.php:6258
+msgid "Responsive Logo Height"
+msgstr ""
+
+#: ../udesign_options_page.php:6261
+msgid ""
+"(Height) in pixels.  Note: The width is automatically adjusted to the "
+"maximum allowed width."
+msgstr ""
+
+#: ../udesign_options_page.php:6265 ../udesign_options_page.php:6267
+msgid "Remove Secondary Menu"
+msgstr ""
+
+#: ../udesign_options_page.php:6270
+msgid ""
+"Remove the secondary menu completely from the top of the page for the "
+"Breakpoints 2 and 3."
+msgstr ""
+
+#: ../udesign_options_page.php:6276 ../udesign_options_page.php:6278
+#, fuzzy
+msgid "Remove the Slider Area"
+msgstr "Remover a barra lateral das páginas do Blog."
+
+#: ../udesign_options_page.php:6281
+msgid ""
+"Remove the Slider Area completely from the home page for the Breakpoints 2 "
+"and 3."
+msgstr ""
+
+#: ../udesign_options_page.php:6287 ../udesign_options_page.php:6289
+#, fuzzy
+msgid "Remove Background Images"
+msgstr "Imagem de Plano de Fundo do Topo"
+
+#: ../udesign_options_page.php:6292
+msgid ""
+"Remove all background images for Breakpoint 1. Those are the background "
+"images that have been assigned through the theme's 'Custom Colors' section."
+msgstr ""
+
+#: ../udesign_options_page.php:6293
+msgid ""
+"(Note: The background images will be replaced with their corresponding "
+"background colors for those respective sections. Also, by default the "
+"background images will be removed automatically for Breakpoints 2 and 3 "
+"respectively)"
+msgstr ""
+
+#: ../udesign_options_page.php:6299
+msgid "Responsive Menu"
+msgstr ""
+
+#: ../udesign_options_page.php:6303
+msgid "Responsive Menu 1"
+msgstr ""
+
+#: ../udesign_options_page.php:6304
+msgid "Responsive Menu 2"
+msgstr ""
+
+#: ../udesign_options_page.php:6306
+msgid "Choose a menu to be used for Breakpoints 2 and 3."
+msgstr ""
+
+#: ../udesign_options_page.php:6311 ../udesign_options_page.php:6313
+msgid "Pinch-to-Zoom"
+msgstr ""
+
+#: ../udesign_options_page.php:6316
+msgid ""
+"Enable pinch-to-zoom on mobile devices. Adds the ability to zoom in on "
+"images, text, links, etc. which could come really handy in some situations."
+msgstr ""
+
+#: ../udesign_options_page.php:6322
+#, fuzzy
+msgid "Disable prettyPhoto"
+msgstr "Habilitar o script prettyPhoto"
+
+#: ../udesign_options_page.php:6327
+msgid ""
+"This is the device width or browser width at which the prettyPhoto lightbox "
+"effect will be disabled, anything smaller than that width will not have "
+"prettyPhoto enabled. This is especially useful for widths smaller than the "
+"Breakpoint 3 - [ 480px ], but a value slightly greater than that could be a "
+"good start, for instance \"600\". To disable this option set the width to "
+"\"0\"."
+msgstr ""
+
+#: ../udesign_options_page.php:6337
+msgid ""
+"The options in this section are generally offered to assist more advanced "
+"users with deeper knowledge of WordPress programming."
+msgstr ""
+
+#: ../udesign_options_page.php:6341 ../udesign_options_page.php:6343
+msgid "Show Action Hook Locations"
+msgstr ""
+
+#: ../udesign_options_page.php:6346
+msgid ""
+"Enabling this option will allow you to see in the front end the exact "
+"locations of the U-Design action hooks located within the \"body\" tags."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:162
+#: ../lib/plugin-activation/register-required-plugins.php:157
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:163
+#: ../lib/plugin-activation/register-required-plugins.php:158
+msgid "Install Plugins"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:164
+#: ../lib/plugin-activation/register-required-plugins.php:159
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:165
+msgid "Something went wrong."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:176
+#: ../lib/plugin-activation/register-required-plugins.php:171
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:177
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:178
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1957
+#: ../lib/plugin-activation/register-required-plugins.php:172
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:179
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:181
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:533
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2174
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1168
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1349
+msgid "Private Repository"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1171
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1352
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1176
+#, fuzzy
+msgid "WordPress Repository"
+msgstr "Link de crédito do Wordpress"
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1179
+#, fuzzy
+msgid "Required"
+msgstr "exigido"
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1179
+msgid "Recommended"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1182
+msgid "Not Installed"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1184
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1289
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1410
+msgid "Install"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1313
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1411
+#, fuzzy
+msgid "Activate"
+msgstr "Salvar & Ativar"
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1373
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1389
+msgid "Plugin"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1390
+msgid "Source"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1391
+msgid "Type"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1392
+#, fuzzy
+msgid "Status"
+msgstr "Barra de Estado"
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1940
+#, fuzzy
+msgid "Install package not available."
+msgstr "Pré-visualização do item está disponível!"
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1941
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1942
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1943
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1944
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1945
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:1956
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2070
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2071
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2071
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2080
+#, fuzzy
+msgid "Show Details"
+msgstr "Mostrar miniaturas"
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2071
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2080
+msgid "Hide Details"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2072
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2077
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2080
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2081
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../lib/plugin-activation/class-tgm-plugin-activation.php:2082
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../lib/plugin-activation/register-required-plugins.php:160
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../lib/plugin-activation/register-required-plugins.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../lib/shortcodes/u-design-shortcodes.php:19
+#: ../lib/shortcodes/u-design-shortcodes.php:507
+#: ../widgets/latestPost-widget.php:63 ../widgets/latestPost-widget.php:148
+msgid "Read more"
+msgstr "Ler mais"
+
+#: ../lib/shortcodes/u-design-shortcodes.php:38
+#: ../lib/shortcodes/u-design-shortcodes.php:67
+#: ../lib/shortcodes/u-design-shortcodes.php:96
+#: ../lib/shortcodes/u-design-shortcodes.php:125
+#: ../lib/shortcodes/u-design-shortcodes.php:156
+msgid "Read more..."
+msgstr "Ler mais..."
+
+#: ../lib/shortcodes/u-design-shortcodes.php:195
+msgid "Top of Page"
+msgstr "Topo da Página"
+
+#: ../lib/shortcodes/u-design-shortcodes.php:500
+#: ../widgets/latestPost-widget.php:148
+msgid "Latest Posts"
+msgstr "Últimas Postagens"
+
+#: ../lib/shortcodes/u-design-shortcodes.php:521
+#, php-format
+msgid ""
+"%s: Widget class not found. Make sure this widget exists and the class name "
+"is correct"
+msgstr ""
+"%s: Classe de widget não encontrada. Tenha certeza se este widget existe e/"
+"ou seu nome está correto"
+
+#: ../lib/structured-data/schema/u-design-schema.php:28
+#: ../lib/structured-data/schema/u-design-schema.php:54
+#, fuzzy, php-format
+msgid "%1$s On %2$s "
+msgstr "%1$s por %2$s "
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:46
+#, fuzzy
+msgid "Title Position"
+msgstr "Posição Fixada"
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:47
+msgid "Overwrite the global title position (applies to this page only)"
+msgstr ""
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:53
+#, fuzzy
+msgid "Use the default position"
+msgstr "Reiniciar para padrão"
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:54
+msgid "Title Position 1 (before the main content)"
+msgstr ""
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:55
+msgid "Title Position 2 (inside the main content)"
+msgstr ""
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:56
+msgid "Remove Title (SEO-friendly)"
+msgstr ""
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:63
+#, fuzzy
+msgid "Disable Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: ../lib/u-design-cmb2/u-design-cmb2-functions.php:64
+msgid "This option will disable/hide the breadcrumbs on this page only"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2.php:119
+msgid "Metabox configuration is required to have an ID parameter"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2.php:316
+msgid "Click to toggle"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Ajax.php:40
+#, fuzzy
+msgid "Please Try Again"
+msgstr "Por favor digite um nome."
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Ajax.php:135
+#, fuzzy
+msgid "Remove Embed"
+msgstr "Moldura da Imagem"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Ajax.php:139
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Field.php:893
+msgid "Add Group"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Field.php:894
+msgid "Remove Group"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:139
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:176
+msgid "Clear"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:140
+#, fuzzy
+msgid "Default"
+msgstr "Imagem Padrão"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:141
+#, fuzzy
+msgid "Select Color"
+msgstr "Selecione a categoria"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:142
+#, fuzzy
+msgid "Current Color"
+msgstr "Slider Atual"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:167
+msgid "Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:168
+msgid "Su, Mo, Tu, We, Th, Fr, Sa"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:169
+msgid "Sun, Mon, Tue, Wed, Thu, Fri, Sat"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:170
+msgid ""
+"January, February, March, April, May, June, July, August, September, "
+"October, November, December"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:171
+msgid "Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:172
+#, fuzzy
+msgid "Next"
+msgstr "Últimas Postagens"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:173
+msgid "Prev"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:174
+msgid "Today"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:175
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:185
+msgid "Done"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:179
+#, fuzzy
+msgid "Choose Time"
+msgstr "Escolha um tema:"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:181
+msgid "Hour"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:182
+msgid "Minute"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:183
+msgid "Second"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:184
+#, fuzzy
+msgid "Now"
+msgstr "Não"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:192
+msgid "Use this file"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:193
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:970
+#, fuzzy
+msgid "Remove Image"
+msgstr "Moldura da Imagem"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:194
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:356
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:989
+msgid "Remove"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:195
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:984
+#, fuzzy
+msgid "File:"
+msgstr "Perfil:"
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:196
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:987
+msgid "Download"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_hookup.php:197
+msgid "Select / Deselect All"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:297
+msgid "Add Row"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:725
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:773
+msgid "No terms"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:838
+msgid "Add or Upload Files"
+msgstr ""
+
+#: ../lib/u-design-cmb2/cmb2/includes/CMB2_Types.php:896
+msgid "Add or Upload File"
+msgstr ""
+
+#: ../lib/updates/class-envato-api.php:67
+#: ../lib/updates/class-envato-api.php:104
+#: ../lib/updates/class-envato-api.php:158
+#, fuzzy
+msgid "Please enter your Envato Marketplace Username."
+msgstr "Por favor digite sua mensagem"
+
+#: ../lib/updates/class-envato-api.php:71
+#, fuzzy
+msgid "Please enter your Envato Marketplace API Key."
+msgstr "Por favor digite sua mensagem"
+
+#: ../lib/updates/class-envato-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: ../lib/updates/class-envato-api.php:185
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: ../scripts/breadcrumbs.php:105
+msgid "Author: "
+msgstr "Autor:"
+
+#: ../scripts/breadcrumbs.php:107
+msgid "Tag: "
+msgstr "tag:"
+
+#: ../scripts/breadcrumbs.php:108
+msgid "404 - Page not Found"
+msgstr "404 - Página Não Encontrada"
+
+#: ../scripts/portfolio-item-thumbnail.php:61
+msgid "Preview item is not available!."
+msgstr "Pré-visualização do item não está disponível!"
+
+#: ../scripts/portfolio-item-thumbnail.php:79
+msgid "Preview image not available!."
+msgstr "Pré-visualização do item está disponível!"
+
+#: ../scripts/portfolio-item-thumbnail.php:86
+msgid "Default Image"
+msgstr "Imagem Padrão"
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:8
+msgid "uDesign: Select an Icon Font"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:51
+#, fuzzy
+msgid "Choose an Icon Font:"
+msgstr "Escolha de Alinhamento:"
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:57
+msgid "Font Awesome Icons:"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:64
+msgid "Fontello Icons:"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:75
+#, php-format
+msgid "Total Icons: %1$s  (Font Awesome) + %2$s  (Fontello)"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:88
+#, fuzzy
+msgid "Icon Font Color:"
+msgstr "Cor Interna"
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:92
+msgid "Inherit default color or:"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:100
+#, fuzzy
+msgid "Icon Font Size:"
+msgstr "Tamanho da Fonte do Slogan"
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:103
+msgid ""
+"\"1 em\" is the default (inherit) text size, hence it will not be included "
+"in the code/shortcode."
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:107
+#, fuzzy
+msgid "Other Options:"
+msgstr "Opções do Rodapé"
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:109
+msgid "Animated Spin:"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:112
+msgid "Add animated spin"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:116
+msgid "Wrap In Circle:"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:119
+msgid "Wrap in a circle"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:129
+msgid "Show Preview"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:148
+msgid "HTML Version:"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:151
+msgid ""
+"Insert as HTML (shortcode version is used by default, see the preview above "
+"for details)"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:161
+msgid "Insert Icon"
+msgstr ""
+
+#: ../scripts/admin/icon-fonts/icon-fonts-tc-editor-button.php:162
+msgid "Cancel"
+msgstr ""
+
+#: ../sliders/cycle/cycle1/cycle1_display.php:35
+#: ../sliders/cycle/cycle2/cycle2_display.php:39
+#: ../sliders/cycle/cycle3/cycle3_display.php:45
+msgid "Play"
+msgstr "Play"
+
+#: ../sliders/cycle/cycle1/cycle1_display.php:36
+#: ../sliders/cycle/cycle2/cycle2_display.php:38
+#: ../sliders/cycle/cycle3/cycle3_display.php:46
+msgid "Pause"
+msgstr "Pausar"
+
+#: ../sliders/flashmo/grid_slider/grid_slider_display.php:28
+#: ../sliders/flashmo/grid_slider/grid_slider_display.php:32
+#: ../sliders/piecemaker/piecemaker_display.php:13
+#: ../sliders/piecemaker/piecemaker_display.php:21
+#: ../sliders/piecemaker_2/piecemaker_display.php:13
+#: ../sliders/piecemaker_2/piecemaker_display.php:18
+msgid "Slider Image"
+msgstr "Imagem do Slider"
+
+#: ../widgets/customCategory-widget.php:40
+msgid "A list or dropdown of a single category's descendants."
+msgstr ""
+"Uma lista ou dropdown (lista suspensa) de descendentes de uma única "
+"categoria."
+
+#: ../widgets/customCategory-widget.php:46
+msgid "U-Design: Custom Category"
+msgstr "U-Design: Personalizar Categoria"
+
+#: ../widgets/customCategory-widget.php:136
+msgid "Category to be displayed:"
+msgstr "A categoria será mostrada:"
+
+#: ../widgets/customCategory-widget.php:146
+msgid "Show as dropdown"
+msgstr "Mostrar como dropdown (caixinhas com setas indicativas)"
+
+#: ../widgets/customCategory-widget.php:152
+msgid "Show post counts"
+msgstr "Mostrar contagem de post"
+
+#: ../widgets/customCategory-widget.php:158
+msgid "Show hierarchy"
+msgstr "Mostrar hierarquia"
+
+#: ../widgets/googleMap-widget.php:40
+msgid "A Google Map widget."
+msgstr "Um widget do Google Mapas."
+
+#: ../widgets/googleMap-widget.php:46
+msgid "U-Design: Google Map"
+msgstr "U-Design: Google Mapas"
+
+#: ../widgets/googleMap-widget.php:96
+msgid "Google Map"
+msgstr "Google Mapas"
+
+#: ../widgets/googleMap-widget.php:106
+msgid "Google Map Code:"
+msgstr "Código do Google Mapas:"
+
+#: ../widgets/latestPost-widget.php:40
+msgid "The most recent posts with teaser text"
+msgstr "As mensagens mais recentes com um texto chamariz"
+
+#: ../widgets/latestPost-widget.php:46
+msgid "U-Design: Recent Posts"
+msgstr "U-Design: Postagens Recentes"
+
+#: ../widgets/latestPost-widget.php:92
+#, php-format
+msgid "%1$s by %2$s "
+msgstr "%1$s por %2$s "
+
+#: ../widgets/latestPost-widget.php:159
+msgid "Pick a specific category:"
+msgstr "Escolha uma categoria específica:"
+
+#: ../widgets/latestPost-widget.php:165
+msgid "Number of posts to show:"
+msgstr "Número de posts para mostrar:"
+
+#: ../widgets/latestPost-widget.php:168
+msgid "(at most 15)"
+msgstr "(no máximo 15)"
+
+#: ../widgets/latestPost-widget.php:173
+msgid "Number of posts to skip:"
+msgstr "Número de postagens a pular:"
+
+#: ../widgets/latestPost-widget.php:176
+msgid "(offset from latest)"
+msgstr "(offset/afastamento mais recente)"
+
+#: ../widgets/latestPost-widget.php:181
+msgid "Limit the number of words to show from each post:"
+msgstr "Limitar o número de palavras para exibir de cada post:"
+
+#: ../widgets/latestPost-widget.php:184
+msgid ""
+"(Could also be limited by \"Excerpt Length\" defined in the theme's options "
+"page)"
+msgstr ""
+"(Poderia também ser limitada pelo \"Comprimento do Trecho\", definida na "
+"página de opções do tema)"
+
+#: ../widgets/latestPost-widget.php:191
+msgid "Show date & author info"
+msgstr "Mostrar informações de data & autor"
+
+#: ../widgets/latestPost-widget.php:199
+#, fuzzy
+msgid "Show \"more\" link."
+msgstr "Mostrar link \"Ler mais &rarr;\""
+
+#: ../widgets/latestPost-widget.php:202
+#, fuzzy
+msgid "The text:"
+msgstr "Texto do Slide"
+
+#: ../widgets/latestPost-widget.php:210
+msgid "Show thumbnails"
+msgstr "Mostrar miniaturas"
+
+#: ../widgets/latestPost-widget.php:221
+#, fuzzy
+msgid "Remove thumbnail frame"
+msgstr "Mostrar sombra da moldura da miniatura"
+
+#: ../widgets/latestPost-widget.php:229
+msgid "Show thumbnail frame shadow"
+msgstr "Mostrar sombra da moldura da miniatura"
+
+#: ../widgets/latestPost-widget.php:237
+msgid "Use default image (when no image found)"
+msgstr ""
+
+#: ../widgets/latestPost-widget.php:243
+msgid "Thumbnail Dimensions:"
+msgstr "Dimensões da miniatura:"
+
+#: ../widgets/latestPost-widget.php:248
+msgid "(Width X Height) in pixels"
+msgstr "(Largura x Altura) em pixels"
+
+#: ../widgets/loginForm-widget.php:40
+msgid "A user login form."
+msgstr "Um formulário de login do usuário."
+
+#: ../widgets/loginForm-widget.php:46
+msgid "U-Design: Login Form"
+msgstr "U-Design: Formulário de Login"
+
+#: ../widgets/loginForm-widget.php:70
+msgid "You are logged in as"
+msgstr "Você está logado como"
+
+#: ../widgets/loginForm-widget.php:73
+msgid "Logout"
+msgstr "Sair"
+
+#: ../widgets/loginForm-widget.php:80
+msgid "User"
+msgstr "Usuário"
+
+#: ../widgets/loginForm-widget.php:83
+msgid "Password"
+msgstr "Senha"
+
+#: ../widgets/loginForm-widget.php:87
+msgid "Login"
+msgstr "Login"
+
+#: ../widgets/loginForm-widget.php:88
+msgid "Remember me"
+msgstr "Lembre-me"
+
+#: ../widgets/loginForm-widget.php:95
+msgid "Register"
+msgstr "Registrar"
+
+#: ../widgets/loginForm-widget.php:97
+msgid "Recover password"
+msgstr "Recuperar senha"
+
+#: ../widgets/loginForm-widget.php:129
+msgid "Login Form"
+msgstr "Formulário de Login"
+
+#: ../widgets/subpages-widget.php:40
+msgid "Display subpages if present page only."
+msgstr "Exibir subpáginas se a página atual for única."
+
+#: ../widgets/subpages-widget.php:46
+msgid "U-Design: Subpages"
+msgstr "U-Design: Subpáginas"
+
+#: ../widgets/subpages-widget.php:151
+msgid ""
+"Leave the Title field blank if you would like to display the parent page "
+"Title instead."
+msgstr ""
+"Deixe em branco o campo Título, se você gostaria de exibir o título da "
+"página principal como alternativa."
+
+#: ../widgets/subpages-widget.php:154
+msgid "Sort by:"
+msgstr ""
+
+#: ../widgets/subpages-widget.php:156
+#, fuzzy
+msgid "Page title"
+msgstr "Cor do Título da Página"
+
+#: ../widgets/subpages-widget.php:157
+#, fuzzy
+msgid "Page order"
+msgstr "Page Peel (Página Orelha)"
+
+#: ../widgets/subpages-widget.php:158
+#, fuzzy
+msgid "Page ID"
+msgstr "ID da página:"
+
+#: ../widgets/subpages-widget.php:162
+msgid "Exclude:"
+msgstr ""
+
+#: ../widgets/subpages-widget.php:164
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#~ msgid "Custom Logo"
+#~ msgstr "Personalizar a logo"
+
+#~ msgid "(Height) in pixels."
+#~ msgstr "(Altura) em pixels."
+
+#~ msgid "Slogan Position from the Top"
+#~ msgstr "Posição do Slogan do Topo"
+
+#~ msgid "Slogan Position from the Left"
+#~ msgstr "Posição do Sligan da esquerda"
+
+#~ msgid "Slogan Font Size"
+#~ msgstr "Tamanho da Fonte do Slogan"
+
+#~ msgid "Page Peel Link URL:"
+#~ msgstr "Link da Page Peel:"
+
+#~ msgid "Feedback Button URL:"
+#~ msgstr "URL do botão de Feedback:"
+
+#, fuzzy
+#~ msgid "Choose theme:"
+#~ msgstr "Escolha um tema:"
+
+#~ msgid "Enable %1$sstyle.css%2$s"
+#~ msgstr "Ativar %1$sstyle.css%2$s"
+
+#~ msgid "Not Found"
+#~ msgstr "Não encontrado"
+
+#~ msgid "Sorry, but you are looking for something that isn't here."
+#~ msgstr ""
+#~ "Desculpe, mas você está procurando por algo que não se encontra aqui."
+
+#~ msgid "<strong>Search</strong> for it:"
+#~ msgstr "<strong>Pesquisar</strong> por:"
+
+#~ msgid ""
+#~ "<h2 class='center'>Sorry, but there aren't any posts in the %s category "
+#~ "yet.</h2>"
+#~ msgstr ""
+#~ "<h2 class='center'>Desculpe, mas não há nenhuma postagem na %s categoria "
+#~ "ainda.</h2>"
+
+#~ msgid "Default Post Thumbnail"
+#~ msgstr "Miniatura de Postagem padrão"
+
+#~ msgid "Enable Default Thumb"
+#~ msgstr "Ativar Miniatura de Postagem padrão"
+
+#~ msgid ""
+#~ "Enable default thumbnail for posts (This options is used with the \"U-"
+#~ "Design: Recent Posts\" widget)."
+#~ msgstr ""
+#~ "Ativar miniaturas padrão para postagens (Esta opção é usada com o widget "
+#~ "\"U-Design: Postagens Recentes\")."
+
+#~ msgid ""
+#~ "Exclude Portfolio section(s) related posts from showing in the the "
+#~ "general Blog section (\"Blog page\" template loop)."
+#~ msgstr ""
+#~ "Excluir seção(ões) de Posts de Portfólio(s) relacionados, para serem "
+#~ "apresentados na seção geral do Blog (\"Página do Blog\" do loop do "
+#~ "template)."
+
+#, fuzzy
+#~ msgid ""
+#~ "Note: Portfolio posts are those that have been assigned to a portfolio "
+#~ "related category. A portfolio related category is one which either "
+#~ "directly or indirectly (parent or descendant) has been assigned to a "
+#~ "\"Portfolio page\" template (see the \"Portfolio section above for these "
+#~ "assignments)"
+#~ msgstr ""
+#~ "Note: Os Posts do POrtfólio são aqueles que foram atribuídos a uma "
+#~ "categoria de portfólio relacionada. A categoria do portfólio relacionada "
+#~ "é aquele que, direta ou indiretamente (pai ou descendente) foi atribuído "
+#~ "a um modelo de \"Página de Portfólio\" (veja a \"Seção do Portfólio\" "
+#~ "acima dessas tarefas)."
+
+#, fuzzy
+#~ msgid "reCAPTCHA Theme"
+#~ msgstr "Tema do ReCAPTCHA"
+
+#~ msgid "white"
+#~ msgstr "branco"
+
+#~ msgid "red"
+#~ msgstr "vermelhor"
+
+#~ msgid "blackglass"
+#~ msgstr "blackglass (vidro escuro)"
+
+#~ msgid "clean"
+#~ msgstr "limpo/claro"
+
+#~ msgid "Google WebFont Directory"
+#~ msgstr "Google WebFont Diretório"
+
+#~ msgid "Archive Index Page"
+#~ msgstr "Página de Índice de Arquivo"
+
+#~ msgid "Edit this entry."
+#~ msgstr "Editar esta postagem."
+
+#~ msgid "Contact the Author"
+#~ msgstr "Contactar o autor"
+
+#~ msgid ""
+#~ "This is the info box situated right under the post and just above the "
+#~ "comments area."
+#~ msgstr ""
+#~ "Esta é a caixa informativa situada logo abaixo da postagem e logo acima "
+#~ "da área de comentários."
+
+#~ msgid "Disable TimThumb"
+#~ msgstr "Desativar TimThumb"
+
+#~ msgid "Disable the use of TimThumb script for cropping images."
+#~ msgstr "Desabilite o uso do script TimThumb para cortar imagens."
+
+#~ msgid "Exclude Pages From Menu"
+#~ msgstr "Excluir páginas de menu"
+
+#~ msgid ""
+#~ "If you have setup your menu through %1$sAppearance -> Menus%2$s, then you "
+#~ "can ignore this option. Please select the page(s) you would like to be "
+#~ "excluded from the top navigation menu. This option will NOT affect the "
+#~ "settings in the new WordPress 3.0+ Menu option."
+#~ msgstr ""
+#~ "Se você configurar seu menu através de %1$sAparência -> Menus%2$s, então "
+#~ "você pode ignorar esta opção. Por favor, selecione as página(s) que você "
+#~ "gostaria de ser excluída(s) do menu de navegação superior. Esta opção não "
+#~ "irá afetar as configurações no menu de opções do novo WordPress 3.0+."
+
+#~ msgid ""
+#~ "Keep in mind that if you exclude a page that has descendants (children "
+#~ "pages), they will automatically be excluded from the menu as well!"
+#~ msgstr ""
+#~ "Tenha em mente que se você excluir uma página que tem descendentes "
+#~ "(páginas filhas), elas serão automaticamente excluídas do menu também!"
+
+#~ msgid "Posts Tagged &#8216;%s&#8217;"
+#~ msgstr "Postagens Marcadas &#8216;%s&#8217;"
+
+#~ msgid "Documentation (new window)"
+#~ msgstr "Documentação (em nova janela ou aba)"
+
+#~ msgid "<div>Tags: "
+#~ msgstr "<div>Tags:"
+
+#, fuzzy
+#~ msgid "TitlePosition 2"
+#~ msgstr "Posição Fixada"
+
+#~ msgid "Upload Slide:"
+#~ msgstr "Carregar Slide:"
+
+#~ msgid "(Preview image to be loaded before the SWF file is shown)"
+#~ msgstr ""
+#~ "(Imagem de prá-visualização para ser carregada antes do arquivo SWF "
+#~ "(flash) ser exibido)"
+
+#~ msgid "(Preview image to be loaded before the Video file is shown)"
+#~ msgstr ""
+#~ "(Imagem de visualização para ser carregada antes do arquivo de vídeo ser "
+#~ "mostrado)"
+
+#~ msgid "Slide Image:"
+#~ msgstr "Imagem do Slide:"
+
+#~ msgid "\"No Slider\" Text"
+#~ msgstr "Texto \"Sem Slider\""

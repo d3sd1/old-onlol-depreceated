@@ -1,0 +1,537 @@
+[12-Feb-2016 16:12:18 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44894923?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[12-Feb-2016 16:25:09 Europe/Madrid] PHP Notice:  Undefined index: name in /home/sczhmszf/public_html/champ_info.php on line 592
+[12-Feb-2016 16:25:35 Europe/Madrid] PHP Notice:  Undefined variable: champ_name in /home/sczhmszf/public_html/champ_info.php on line 592
+[12-Feb-2016 16:19:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/champ_info.php on line 578
+[12-Feb-2016 18:32:58 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 18:49:06 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44894923?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[12-Feb-2016 20:06:37 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[12-Feb-2016 20:14:09 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[12-Feb-2016 20:16:51 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/69828172?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[12-Feb-2016 21:04:36 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 21:05:21 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 21:34:32 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 21:34:32 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[12-Feb-2016 21:34:32 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[12-Feb-2016 21:34:32 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 807
+[12-Feb-2016 21:34:32 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[12-Feb-2016 21:56:02 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:04:23 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:05:07 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:21:08 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:24:22 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:24:23 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[12-Feb-2016 22:24:23 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 807
+[12-Feb-2016 22:25:05 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:37:53 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:40:43 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:52:55 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:54:37 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 22:54:37 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[12-Feb-2016 22:55:32 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:11:22 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:16:20 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:21:15 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:28:07 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:30:17 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:44:51 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:44:51 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[12-Feb-2016 23:49:33 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[12-Feb-2016 23:50:04 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 00:01:36 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 00:01:39 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44894923?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 00:02:00 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/50638126?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 00:18:08 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 00:18:20 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 00:28:43 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44894923?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 00:46:27 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:08:35 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:08:35 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 807
+[13-Feb-2016 01:08:35 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[13-Feb-2016 01:14:45 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:25:19 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:42:04 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:43:21 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:43:21 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 807
+[13-Feb-2016 01:43:21 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[13-Feb-2016 01:58:49 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 01:58:49 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 01:58:49 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 02:11:39 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 02:11:39 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 02:11:39 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 02:15:33 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 02:32:18 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 02:39:56 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 02:39:56 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 02:39:56 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 02:49:03 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 02:49:03 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 02:49:03 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 03:05:47 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 03:08:37 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 03:22:32 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 03:36:50 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:05:05 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:34:49 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:34:49 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 04:34:49 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 04:34:49 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 807
+[13-Feb-2016 04:34:49 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[13-Feb-2016 04:35:20 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:35:51 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:36:23 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:36:54 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 04:36:54 Europe/Madrid] PHP Notice:  Undefined offset: 8 in /home/sczhmszf/public_html/champ_info.php on line 833
+[13-Feb-2016 04:38:06 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 05:02:04 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 05:02:58 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 05:02:58 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 05:02:58 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[13-Feb-2016 05:19:43 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 05:19:43 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 05:36:27 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 05:36:28 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 05:36:28 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[13-Feb-2016 05:53:12 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 05:53:12 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 05:53:12 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 05:58:47 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 06:06:42 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 06:11:56 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 06:23:51 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 06:53:35 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 07:22:17 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 07:27:44 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 07:51:25 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 08:20:31 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 08:43:30 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 08:50:21 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 11:15:05 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 12:30:52 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 14:18:47 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 15:02:26 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 16:18:44 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 17:49:06 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 18:04:02 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 18:04:03 Europe/Madrid] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/sczhmszf/public_html/profile.php on line 1616
+[13-Feb-2016 18:04:24 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1616
+[13-Feb-2016 18:06:48 Europe/Madrid] PHP Warning:  Illegal string offset 'champs' in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:06:48 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:07:16 Europe/Madrid] PHP Warning:  Illegal string offset 'champs' in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:07:16 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:08:04 Europe/Madrid] PHP Warning:  Illegal string offset 'champs' in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:08:04 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:08:17 Europe/Madrid] PHP Fatal error:  Cannot use object of type stdClass as array in /home/sczhmszf/public_html/profile.php on line 1618
+[13-Feb-2016 18:09:30 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 18:22:54 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/69828172?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 18:23:52 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 18:31:41 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 20:00:55 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/69828172?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 20:00:58 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 20:01:35 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/20918670?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 20:01:42 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/27836840?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 20:01:52 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 999
+[13-Feb-2016 20:01:52 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1011
+[13-Feb-2016 20:01:54 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 999
+[13-Feb-2016 20:01:54 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1011
+[13-Feb-2016 20:46:22 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 734
+[13-Feb-2016 20:46:22 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 747
+[13-Feb-2016 20:46:22 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 807
+[13-Feb-2016 20:46:22 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 820
+[13-Feb-2016 20:46:22 Europe/Madrid] PHP Notice:  Undefined index: winrate in /home/sczhmszf/public_html/champ_info.php on line 1090
+[13-Feb-2016 20:46:22 Europe/Madrid] PHP Notice:  Undefined index: winrate in /home/sczhmszf/public_html/champ_info.php on line 1090
+[13-Feb-2016 20:47:51 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[13-Feb-2016 20:47:51 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 769
+[13-Feb-2016 20:47:51 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 829
+[13-Feb-2016 20:47:51 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 842
+[13-Feb-2016 20:48:26 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[13-Feb-2016 20:48:26 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 769
+[13-Feb-2016 20:48:26 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 829
+[13-Feb-2016 20:48:26 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 842
+[13-Feb-2016 20:48:43 Europe/Madrid] PHP Notice:  Undefined index: HTTP_ACCEPT_LANGUAGE in /home/sczhmszf/public_html/core/region.php on line 86
+[13-Feb-2016 20:49:27 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[13-Feb-2016 20:49:27 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 769
+[13-Feb-2016 20:49:27 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 829
+[13-Feb-2016 20:49:27 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 842
+[13-Feb-2016 20:49:53 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[13-Feb-2016 20:49:53 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 769
+[13-Feb-2016 20:49:53 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 829
+[13-Feb-2016 20:49:53 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 842
+[13-Feb-2016 21:46:40 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[13-Feb-2016 21:57:45 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 22:04:45 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 22:15:41 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 22:34:52 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 22:47:56 Europe/Madrid] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/sczhmszf/public_html/core/class.php on line 747
+[13-Feb-2016 22:49:21 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 23:18:42 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 23:29:21 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/43047523?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[13-Feb-2016 23:29:34 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 999
+[13-Feb-2016 23:29:34 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1011
+[13-Feb-2016 23:29:50 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 999
+[13-Feb-2016 23:29:50 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1011
+[14-Feb-2016 00:58:44 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 01:20:14 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 01:34:38 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 01:37:09 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/45924779?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 02:04:42 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/45924779?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 02:04:55 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 999
+[14-Feb-2016 02:04:55 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1011
+[14-Feb-2016 02:06:26 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 999
+[14-Feb-2016 02:06:26 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/profile.php on line 1011
+[14-Feb-2016 02:12:12 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/45924779?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 02:19:39 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[14-Feb-2016 02:19:39 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 769
+[14-Feb-2016 02:22:10 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 756
+[14-Feb-2016 02:22:10 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 769
+[14-Feb-2016 02:28:59 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:28:59 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:28:59 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:28:59 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:29:44 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:29:44 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:29:44 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:29:44 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:16 Europe/Madrid] PHP Notice:  Undefined offset: 8 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:16 Europe/Madrid] PHP Notice:  Undefined offset: 11 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:16 Europe/Madrid] PHP Notice:  Undefined offset: 10 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:16 Europe/Madrid] PHP Notice:  Undefined offset: 12 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:30 Europe/Madrid] PHP Notice:  Undefined offset: 8 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:30 Europe/Madrid] PHP Notice:  Undefined offset: 11 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:30 Europe/Madrid] PHP Notice:  Undefined offset: 10 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:32:30 Europe/Madrid] PHP Notice:  Undefined offset: 12 in /home/sczhmszf/public_html/champ_info.php on line 710
+[14-Feb-2016 02:33:31 Europe/Madrid] PHP Notice:  Undefined variable: is_active in /home/sczhmszf/public_html/champ_info.php on line 713
+[14-Feb-2016 02:33:31 Europe/Madrid] PHP Notice:  Undefined offset: 8 in /home/sczhmszf/public_html/champ_info.php on line 714
+[14-Feb-2016 02:33:31 Europe/Madrid] PHP Notice:  Undefined offset: 11 in /home/sczhmszf/public_html/champ_info.php on line 714
+[14-Feb-2016 02:33:31 Europe/Madrid] PHP Notice:  Undefined offset: 10 in /home/sczhmszf/public_html/champ_info.php on line 714
+[14-Feb-2016 02:33:31 Europe/Madrid] PHP Notice:  Undefined offset: 12 in /home/sczhmszf/public_html/champ_info.php on line 714
+[14-Feb-2016 02:34:10 Europe/Madrid] PHP Notice:  Undefined offset: 8 in /home/sczhmszf/public_html/champ_info.php on line 718
+[14-Feb-2016 02:34:10 Europe/Madrid] PHP Notice:  Undefined offset: 11 in /home/sczhmszf/public_html/champ_info.php on line 718
+[14-Feb-2016 02:34:10 Europe/Madrid] PHP Notice:  Undefined offset: 10 in /home/sczhmszf/public_html/champ_info.php on line 718
+[14-Feb-2016 02:34:10 Europe/Madrid] PHP Notice:  Undefined offset: 12 in /home/sczhmszf/public_html/champ_info.php on line 718
+[14-Feb-2016 02:34:28 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 765
+[14-Feb-2016 02:34:28 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 778
+[14-Feb-2016 02:36:34 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 766
+[14-Feb-2016 02:36:34 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 779
+[14-Feb-2016 02:37:09 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 766
+[14-Feb-2016 02:37:09 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 779
+[14-Feb-2016 02:38:04 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 766
+[14-Feb-2016 02:38:04 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 779
+[14-Feb-2016 02:38:34 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 766
+[14-Feb-2016 02:38:34 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 779
+[14-Feb-2016 02:39:01 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 768
+[14-Feb-2016 02:39:01 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 781
+[14-Feb-2016 03:21:23 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 03:21:23 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 03:21:43 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 03:26:58 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 03:58:01 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 04:06:23 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 03:07:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/profile.php on line 1541
+[14-Feb-2016 04:11:59 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 05:29:21 Europe/Madrid] PHP Warning:  require(langs/en_EN.php): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/core.php on line 34
+[14-Feb-2016 05:29:21 Europe/Madrid] PHP Warning:  require(langs/en_EN.php): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/core.php on line 34
+[14-Feb-2016 05:29:21 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'langs/en_EN.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/sczhmszf/public_html/core/core.php on line 34
+[14-Feb-2016 05:38:19 Europe/Madrid] PHP Parse error:  syntax error, unexpected ',' in /home/sczhmszf/public_html/core/region.php on line 19
+[14-Feb-2016 05:38:45 Europe/Madrid] PHP Warning:  require(langs/en_EN.php): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/core.php on line 34
+[14-Feb-2016 05:38:45 Europe/Madrid] PHP Warning:  require(langs/en_EN.php): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/core.php on line 34
+[14-Feb-2016 05:38:45 Europe/Madrid] PHP Fatal error:  require(): Failed opening required 'langs/en_EN.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/sczhmszf/public_html/core/core.php on line 34
+[14-Feb-2016 05:39:55 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 05:46:20 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 05:55:23 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 06:17:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 09:09:29 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 09:09:29 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 09:09:29 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 09:22:41 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 09:22:41 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 14:39:46 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 15:06:42 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 15:06:42 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 15:06:42 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 15:10:16 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 15:46:02 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 15:46:52 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 15:52:47 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 15:57:06 Europe/Madrid] PHP Fatal error:  Call to undefined function lang() in /home/sczhmszf/public_html/index.php on line 7
+[14-Feb-2016 15:57:47 Europe/Madrid] PHP Notice:  Undefined variable: lang in /home/sczhmszf/public_html/core/class.php on line 20
+[14-Feb-2016 15:57:47 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/sczhmszf/public_html/core/class.php on line 20
+[14-Feb-2016 15:57:47 Europe/Madrid] PHP Notice:  Undefined variable: lang in /home/sczhmszf/public_html/core/class.php on line 30
+[14-Feb-2016 16:49:45 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 17:06:26 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/67018335?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 17:08:17 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/43100247?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 17:32:16 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 19:27:17 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 20:38:08 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 20:50:59 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 21:03:51 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 21:03:51 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 21:13:40 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44229558?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[14-Feb-2016 21:16:42 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 21:31:10 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 21:34:37 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 21:48:26 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 21:48:26 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[14-Feb-2016 22:05:34 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 22:05:34 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[14-Feb-2016 22:22:50 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 22:39:57 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 22:39:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 22:39:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[14-Feb-2016 22:57:14 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 23:14:21 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[14-Feb-2016 23:48:56 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 00:06:01 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 00:40:24 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 00:57:41 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 02:06:28 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 02:23:47 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 03:15:14 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 03:32:32 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 03:32:33 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[15-Feb-2016 03:32:33 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 03:32:33 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[15-Feb-2016 03:32:33 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 03:49:35 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 03:49:35 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 04:01:06 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 04:06:56 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 04:41:19 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 04:58:43 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 05:15:41 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 05:33:06 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 05:50:02 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 06:07:30 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 06:24:23 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 06:41:49 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 06:59:01 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 06:59:01 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[15-Feb-2016 06:59:01 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 07:16:16 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 07:33:31 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 07:50:48 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 07:57:22 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 08:08:11 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 08:20:52 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 08:20:52 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[15-Feb-2016 08:20:52 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 08:20:52 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[15-Feb-2016 08:20:52 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 08:27:57 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 08:27:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 08:42:04 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 08:56:11 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 09:10:18 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 11:53:46 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 11:54:22 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[15-Feb-2016 20:11:59 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 20:11:59 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 20:24:59 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 20:30:11 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/20096854?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[15-Feb-2016 20:40:59 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 20:40:59 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[15-Feb-2016 20:53:13 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 20:53:13 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[15-Feb-2016 20:53:13 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[15-Feb-2016 22:22:17 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[15-Feb-2016 23:44:40 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 01:41:03 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/20918670?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[16-Feb-2016 01:51:41 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 04:57:11 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 05:46:50 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 05:46:51 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[16-Feb-2016 05:46:51 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 07:04:30 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 07:04:30 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[16-Feb-2016 07:04:30 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 07:04:30 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[16-Feb-2016 07:04:30 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 07:59:51 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 08:04:13 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 08:28:32 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 08:33:22 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 08:33:23 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[16-Feb-2016 08:33:23 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 08:33:23 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[16-Feb-2016 08:33:23 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 08:50:56 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 08:50:56 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 08:50:56 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 09:00:09 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 09:08:30 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 09:22:00 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 09:26:17 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 09:26:17 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[16-Feb-2016 16:36:20 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/60726869?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[16-Feb-2016 16:39:03 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/56903356?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[16-Feb-2016 16:41:40 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/60726869?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[16-Feb-2016 16:58:02 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 17:22:11 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/60726869?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[16-Feb-2016 17:22:26 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 17:22:26 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[16-Feb-2016 17:23:47 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 18:33:49 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 18:33:49 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 20:17:30 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 20:34:22 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 20:42:20 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 21:08:03 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 21:08:03 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[16-Feb-2016 21:08:03 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[16-Feb-2016 23:40:01 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[16-Feb-2016 23:43:26 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 00:46:46 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 00:58:21 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 01:21:56 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:21:56 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:24:07 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:24:07 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:24:53 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:24:53 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:24:57 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:24:57 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:25:26 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:25:26 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:26:43 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:26:43 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:27:04 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:27:04 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:27:37 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:27:37 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:27:59 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:27:59 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:28:23 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:28:23 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:28:40 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:28:40 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:29:01 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 01:29:01 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:46:38 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 01:48:36 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 02:03:42 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/core/class.php on line 1301
+[17-Feb-2016 02:03:43 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/69828172?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:04:43 Europe/Madrid] PHP Warning:  Division by zero in /home/sczhmszf/public_html/core/class.php on line 1304
+[17-Feb-2016 02:11:00 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:14:45 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:15:33 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:15:53 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/euw1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:21:22 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:22 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:22 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:22 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:24 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:24 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:24 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:24 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:24 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:21:24 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 102
+[17-Feb-2016 02:28:51 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/api/lol/euw1/v2.5/league/by-summoner/44089876,58534077,52143660,27326114,32827510,41731457,58311877,75500150,67741551,28361528/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:28:51 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/actual_game_info.php on line 439
+[17-Feb-2016 02:29:20 Europe/Madrid] PHP Notice:  Undefined index: participants in /home/sczhmszf/public_html/actual_game_info.php on line 439
+[17-Feb-2016 02:29:20 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/actual_game_info.php on line 439
+[17-Feb-2016 02:52:13 Europe/Madrid] PHP Notice:  Undefined index: region in /home/sczhmszf/public_html/actual_game_info.php on line 258
+[17-Feb-2016 02:52:13 Europe/Madrid] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/sczhmszf/public_html/actual_game_info.php on line 258
+[17-Feb-2016 02:53:27 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 02:53:39 Europe/Madrid] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/sczhmszf/public_html/actual_game_info.php on line 259
+[17-Feb-2016 02:54:14 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/28361528?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:54:14 Europe/Madrid] PHP Fatal error:  Call to undefined function maptotxt() in /home/sczhmszf/public_html/actual_game_info.php on line 264
+[17-Feb-2016 02:54:43 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/28361528?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:54:43 Europe/Madrid] PHP Warning:  Illegal string offset 'mapId' in /home/sczhmszf/public_html/actual_game_info.php on line 264
+[17-Feb-2016 02:54:45 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/28361528?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:54:45 Europe/Madrid] PHP Warning:  Illegal string offset 'mapId' in /home/sczhmszf/public_html/actual_game_info.php on line 264
+[17-Feb-2016 02:32:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/sczhmszf/public_html/actual_game_info.php on line 281
+[17-Feb-2016 03:32:32 Europe/Madrid] PHP Notice:  Undefined variable: gameinfo in /home/sczhmszf/public_html/actual_game_info.php on line 280
+[17-Feb-2016 03:32:32 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/sczhmszf/public_html/core/class.php:1166
+Stack trace:
+#0 /home/sczhmszf/public_html/core/class.php(1166): DateTime->__construct('@')
+#1 /home/sczhmszf/public_html/actual_game_info.php(280): datetounix(NULL)
+#2 {main}
+  thrown in /home/sczhmszf/public_html/core/class.php on line 1166
+[17-Feb-2016 03:33:07 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Warning:  Illegal string offset 'mapId' in /home/sczhmszf/public_html/actual_game_info.php on line 264
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Warning:  Illegal string offset 'gameId' in /home/sczhmszf/public_html/actual_game_info.php on line 268
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Warning:  Illegal string offset 'observers' in /home/sczhmszf/public_html/actual_game_info.php on line 272
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Warning:  Illegal string offset 'encryptionKey' in /home/sczhmszf/public_html/actual_game_info.php on line 272
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Warning:  Illegal string offset 'gameId' in /home/sczhmszf/public_html/actual_game_info.php on line 273
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Warning:  Illegal string offset 'gameStartTime' in /home/sczhmszf/public_html/actual_game_info.php on line 280
+[17-Feb-2016 03:33:07 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/sczhmszf/public_html/core/class.php:1166
+Stack trace:
+#0 /home/sczhmszf/public_html/core/class.php(1166): DateTime->__construct('@')
+#1 /home/sczhmszf/public_html/actual_game_info.php(280): datetounix('N')
+#2 {main}
+  thrown in /home/sczhmszf/public_html/core/class.php on line 1166
+[17-Feb-2016 03:33:19 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Warning:  Illegal string offset 'mapId' in /home/sczhmszf/public_html/actual_game_info.php on line 264
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Warning:  Illegal string offset 'gameId' in /home/sczhmszf/public_html/actual_game_info.php on line 268
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Warning:  Illegal string offset 'observers' in /home/sczhmszf/public_html/actual_game_info.php on line 272
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Warning:  Illegal string offset 'encryptionKey' in /home/sczhmszf/public_html/actual_game_info.php on line 272
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Warning:  Illegal string offset 'gameId' in /home/sczhmszf/public_html/actual_game_info.php on line 273
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Warning:  Illegal string offset 'gameStartTime' in /home/sczhmszf/public_html/actual_game_info.php on line 280
+[17-Feb-2016 03:33:19 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/sczhmszf/public_html/core/class.php:1166
+Stack trace:
+#0 /home/sczhmszf/public_html/core/class.php(1166): DateTime->__construct('@')
+#1 /home/sczhmszf/public_html/actual_game_info.php(280): datetounix('N')
+#2 {main}
+  thrown in /home/sczhmszf/public_html/core/class.php on line 1166
+[17-Feb-2016 03:35:16 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:35:17 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:36:22 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:38:25 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 02:53:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/actual_game_info.php on line 417
+[17-Feb-2016 03:56:29 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/49663866,55508273,80520475,81305521,23323451,33249610,80160361,77130212,82657428,32228690/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:08:20 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/81305521?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:08:22 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/81305521?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:10:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/actual_game_info.php on line 332
+[17-Feb-2016 04:10:53 Europe/Madrid] PHP Notice:  Undefined variable: game_info in /home/sczhmszf/public_html/actual_game_info.php on line 342
+[17-Feb-2016 04:10:53 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/actual_game_info.php on line 342
+[17-Feb-2016 04:10:53 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 400: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner//entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:11:56 Europe/Madrid] PHP Fatal error:  Call to undefined function parsename_lookup() in /home/sczhmszf/public_html/actual_game_info.php on line 432
+[17-Feb-2016 04:19:27 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:19:42 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/43088342/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:20:03 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/43088342/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 03:22:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/actual_game_info.php on line 510
+[17-Feb-2016 04:23:00 Europe/Madrid] PHP Notice:  Undefined variable: players_100 in /home/sczhmszf/public_html/actual_game_info.php on line 377
+[17-Feb-2016 04:23:00 Europe/Madrid] PHP Notice:  Undefined variable: actualplayer in /home/sczhmszf/public_html/actual_game_info.php on line 404
+[17-Feb-2016 04:23:00 Europe/Madrid] PHP Notice:  Undefined variable: player_ids in /home/sczhmszf/public_html/actual_game_info.php on line 442
+[17-Feb-2016 04:23:00 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 400: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner//entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:23:18 Europe/Madrid] PHP Notice:  Undefined variable: players_100 in /home/sczhmszf/public_html/actual_game_info.php on line 377
+[17-Feb-2016 04:23:18 Europe/Madrid] PHP Notice:  Undefined variable: player_ids in /home/sczhmszf/public_html/actual_game_info.php on line 442
+[17-Feb-2016 04:23:19 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 400: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner//entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:24:12 Europe/Madrid] PHP Notice:  Undefined variable: player_ids in /home/sczhmszf/public_html/actual_game_info.php on line 496
+[17-Feb-2016 04:24:12 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 400: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner//entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:26:40 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/43088342/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:53:11 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/19887344?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 04:53:21 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/19887344?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 05:57:22 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/19887344?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 07:44:45 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 08:06:17 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 08:06:17 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[17-Feb-2016 08:32:00 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 08:32:00 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 08:32:00 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 11:28:33 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/60726869?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 12:40:21 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/56903356?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[17-Feb-2016 19:36:03 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 19:36:04 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[17-Feb-2016 20:08:11 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 20:08:11 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 20:08:11 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[17-Feb-2016 20:46:04 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[17-Feb-2016 20:46:04 Europe/Madrid] PHP Notice:  Undefined index: offensive in /home/sczhmszf/public_html/champ_info.php on line 764
+[17-Feb-2016 20:46:04 Europe/Madrid] PHP Notice:  Undefined index: defensive in /home/sczhmszf/public_html/champ_info.php on line 777
+[18-Feb-2016 07:27:17 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[18-Feb-2016 08:08:13 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[18-Feb-2016 08:32:15 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[18-Feb-2016 08:50:34 Europe/Madrid] PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/sczhmszf/public_html/core/region.php on line 17
+[18-Feb-2016 08:50:34 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/champ_info.php on line 706
+[18-Feb-2016 08:50:40 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/44089097?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[18-Feb-2016 07:54:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/profile.php on line 1668
+[18-Feb-2016 07:54:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/profile.php on line 1668
+[18-Feb-2016 07:54:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/sczhmszf/public_html/profile.php on line 1668
+[18-Feb-2016 09:04:04 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/EUW1/69828172?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e

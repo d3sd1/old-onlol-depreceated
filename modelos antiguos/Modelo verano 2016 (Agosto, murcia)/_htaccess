@@ -1,0 +1,18 @@
+<FilesMatch "\.(jpg|css|png|js|json)$">
+Header set Cache-Control "public, max-age=3600"
+</FilesMatch>
+RewriteEngine On
+RewriteRule ^js_disabled?$ js_disabled.php
+RewriteRule ^start?$ index.php
+RewriteRule ^forums?$ forums.php
+RewriteRule ^maintenance?$ maintenance.php
+RewriteRule ^rankings/summoners?$ rankings_summoners.php
+RewriteRule ^champions/(\w+)?$ champions.php?key=$1
+RewriteRule ^summoner/(\w+)/([^/.]+)?$ summoner.php?region=$1&&summoner=$2
+RewriteRule ^forums/new/?$ forums_create.php
+RewriteRule ^forums/(\w+)/?$ forums_cat.php?id=$1
+RewriteRule ^forums/topic/(\w+)/?$ forums_post.php?id=$1
+RewriteRule ^summoner/(\w+)/([^/.]+)/champmastery?$ summoner_champmastery.php?region=$1&&summoner=$2 [NC]
+RewriteRule ^summoner/(\w+)/([^/.]+)/leagues?$ summoner_leagues.php?region=$1&&summoner=$2 [NC]
+RewriteRule ^summoner/(\w+)/([^/.]+)/teams?$ summoner_teams.php?region=$1&&summoner=$2 [NC]
+RewriteRule ^summoner/(\w+)/([^/.]+)/champs?$ summoner_champs.php?region=$1&&summoner=$2 [NC]

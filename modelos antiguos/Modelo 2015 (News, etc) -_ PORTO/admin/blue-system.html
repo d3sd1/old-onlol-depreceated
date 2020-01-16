@@ -1,0 +1,3108 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Umega App - Blue System</title>
+    <!-- PACE-->
+    <link rel="stylesheet" type="text/css" href="plugins/PACE/themes/blue/pace-theme-flash.css">
+    <script type="text/javascript" src="plugins/PACE/pace.min.js"></script>
+    <!-- Bootstrap CSS-->
+    <link rel="stylesheet" type="text/css" href="plugins/bootstrap/dist/css/bootstrap.min.css">
+    <!-- Fonts-->
+    <link rel="stylesheet" type="text/css" href="plugins/themify-icons/themify-icons.css">
+    <link rel="stylesheet" type="text/css" href="plugins/font-awesome/css/font-awesome.min.css">
+    <!-- Malihu Scrollbar-->
+    <link rel="stylesheet" type="text/css" href="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.min.css">
+    <!-- Animo.js-->
+    <link rel="stylesheet" type="text/css" href="plugins/animo.js/animate-animo.min.css">
+    <!-- Bootstrap Progressbar-->
+    <link rel="stylesheet" type="text/css" href="plugins/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css">
+    <!-- Summernote-->
+    <link rel="stylesheet" type="text/css" href="plugins/summernote/dist/summernote.css">
+    <!-- Bootstrap DateTimePicker-->
+    <link rel="stylesheet" type="text/css" href="plugins/eonasdan-bootstrap-datetimepicker/build/css/bootstrap-datetimepicker.min.css">
+    <!-- Bootstrap Date Range Picker-->
+    <link rel="stylesheet" type="text/css" href="plugins/bootstrap-daterangepicker/daterangepicker.css">
+    <!-- jQuery Steps-->
+    <link rel="stylesheet" type="text/css" href="plugins/jquery.steps/demo/css/jquery.steps.css">
+    <!-- DataTables-->
+    <link rel="stylesheet" type="text/css" href="plugins/datatables.net-bs/css/dataTables.bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="plugins/datatables.net-select-bs/css/select.bootstrap.min.css">
+    <!-- Primary Style-->
+    <link rel="stylesheet" type="text/css" href="build/css/umega.css">
+    <!-- Skins-->
+    <link rel="stylesheet" type="text/css" href="build/css/skins.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries-->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file://--> 
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script type="text/javascript" src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <!-- Main Sidebar start-->
+    <aside class="main-sidebar pinned">
+      <div class="brand"><a href="index.html" class="logo"><i class="ti-underline"></i>
+          <h2>MEGA<span>app</span></h2></a><a href="javascript:;" role="button" class="sidebar-toggle visible-xs-block"><i class="ti-close text-white"></i></a></div>
+      <div class="profile">
+        <div id="esp-profile" data-percent="65" style="height: 130px; width: 130px; line-height: 100px; padding: 15px;" class="easy-pie-chart"><img src="build/images/users/04.jpg" alt="" class="avatar img-circle"><span class="status bg-success"></span></div>
+        <h5 class="text-white mt-15 mb-5">Matthew Gonzalez</h5>
+        <div class="text-muted">Designer</div>
+      </div>
+      <!-- Nav tabs-->
+      <ul role="tablist" class="nav nav-tabs nav-justified nav-sidebar">
+        <li role="presentation" class="active"><a href="#menu" aria-controls="menu" role="tab" data-toggle="tab"><i class="ti-menu"></i></a></li>
+        <li role="presentation"><a href="#portfolio" aria-controls="portfolio" role="tab" data-toggle="tab"><i class="ti-user"></i></a></li>
+        <li role="presentation" class="bubble"><a href="#email" aria-controls="email" role="tab" data-toggle="tab"><i class="ti-email"><span class="dot bg-danger"></span></i></a></li>
+        <li role="presentation"><a href="#setting" aria-controls="setting" role="tab" data-toggle="tab"><i class="ti-server"></i></a></li>
+      </ul>
+      <!-- Tab panes-->
+      <div class="tab-content nav-sidebar-content">
+        <div id="menu" role="tabpanel" class="tab-pane fade in active">
+          <ul class="list-unstyled navigation mb-0">
+            <li class="header">Main</li>
+            <li><a href="index.html" class="bubble"><i class="ti-home"></i> Dashboard<span class="badge bg-danger">3</span></a></li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse1" aria-expanded="true" aria-controls="collapse1" class="active"><i class="ti-paint-bucket"></i> Color system</a>
+              <ul id="collapse1" class="list-unstyled collapse in">
+                <li><a href="green-system.html">Green</a></li>
+                <li><a href="blue-system.html" class="active">Blue</a></li>
+                <li><a href="red-system.html">Red</a></li>
+                <li><a href="yellow-system.html">Yellow</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse2" aria-expanded="false" aria-controls="collapse2" class="collapsed"><i class="ti-palette"></i> Skins</a>
+              <ul id="collapse2" class="list-unstyled collapse">
+                <li><a href="green-dashboard.html">Green</a></li>
+                <li><a href="blue-dashboard.html">Blue</a></li>
+                <li><a href="red-dashboard.html">Red</a></li>
+                <li><a href="yellow-dashboard.html">Yellow</a></li>
+              </ul>
+            </li>
+            <li class="header">Components</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse3" aria-expanded="false" aria-controls="collapse3" class="collapsed"><i class="ti-receipt"></i> Basic</a>
+              <ul id="collapse3" class="list-unstyled collapse">
+                <li><a href="buttons.html">Buttons</a></li>
+                <li><a href="carousels.html">Carousels</a></li>
+                <li><a href="containers.html">Containers</a></li>
+                <li><a href="dialogs.html">Dialogs</a></li>
+                <li><a href="basic-inputs.html">Inputs</a></li>
+                <li><a href="navigations.html">Navigations</a></li>
+                <li><a href="progress-bars.html">Progress bars</a></li>
+                <li><a href="typography.html">Typography</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse4" aria-expanded="false" aria-controls="collapse4" class="collapsed"><i class="ti-ruler-pencil"></i> Editors</a>
+              <ul id="collapse4" class="list-unstyled collapse">
+                <li><a href="summernote.html">Summernote</a></li>
+                <li><a href="bootstrap-markdown.html">Bootstrap markdown</a></li>
+                <li><a href="code-prettify.html">Code prettify</a></li>
+                <li><a href="ckeditor.html">CKEditor</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse5" aria-expanded="false" aria-controls="collapse5" class="collapsed"><i class="ti-location-arrow"></i> Pickers</a>
+              <ul id="collapse5" class="list-unstyled collapse">
+                <li><a href="color-picker.html">Color picker</a></li>
+                <li><a href="datetime-picker.html">Datetime picker</a></li>
+                <li><a href="clock-picker.html">Clock picker</a></li>
+                <li><a href="date-range-picker.html">Date range picker</a></li>
+                <li><a href="multi-select.html">Multi select</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse6" aria-expanded="false" aria-controls="collapse6" class="collapsed"><i class="ti-layers-alt"></i> Forms</a>
+              <ul id="collapse6" class="list-unstyled collapse">
+                <li><a href="form-layouts.html">Layouts</a></li>
+                <li><a href="jquery-validation.html">Validation</a></li>
+                <li><a href="jquery-steps.html">Wizard</a></li>
+                <li><a href="other-plugins.html">Other plugins</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse7" aria-expanded="false" aria-controls="collapse7" class="collapsed"><i class="ti-face-smile"></i> Icons</a>
+              <ul id="collapse7" class="list-unstyled collapse">
+                <li><a href="glyphicons.html">Glyphicons</a></li>
+                <li><a href="font-awesome.html">Font awesome</a></li>
+                <li><a href="material-design.html">Material design</a></li>
+                <li><a href="themify.html">Themify</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse8" aria-expanded="false" aria-controls="collapse8" class="collapsed"><i class="ti-layout-grid2"></i> Tables</a>
+              <ul id="collapse8" class="list-unstyled collapse">
+                <li><a href="basic-tables.html">Basic tables</a></li>
+                <li><a href="data-tables.html">Data tables</a></li>
+                <li><a href="pricing-tables.html">Pricing tables</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse9" aria-expanded="false" aria-controls="collapse9" class="collapsed"><i class="ti-control-forward"></i> Animations</a>
+              <ul id="collapse9" class="list-unstyled collapse">
+                <li><a href="basic-animations.html">Basic</a></li>
+                <li><a href="loading-animations.html">Loading</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse10" aria-expanded="false" aria-controls="collapse10" class="collapsed"><i class="ti-upload"></i> File uploads</a>
+              <ul id="collapse10" class="list-unstyled collapse">
+                <li><a href="dropzone-js.html">Dropzone</a></li>
+                <li><a href="bootstrap-file-input.html">Bootstrap file input</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse11" aria-expanded="false" aria-controls="collapse11" class="collapsed"><i class="ti-info-alt"></i> Indicators</a>
+              <ul id="collapse11" class="list-unstyled collapse">
+                <li><a href="toastr.html">Toastr</a></li>
+                <li><a href="sweet-alert.html">Sweet alert</a></li>
+              </ul>
+            </li>
+            <li class="header">Data visualization</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse12" aria-expanded="false" aria-controls="collapse12" class="collapsed"><i class="ti-bar-chart"></i> Charts</a>
+              <ul id="collapse12" class="list-unstyled collapse">
+                <li><a href="flot-charts.html">Flot charts</a></li>
+                <li><a href="morris-charts.html">Morris charts</a></li>
+                <li><a href="chart-js.html">Chart.js</a></li>
+                <li><a href="other-charts.html">Other charts</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse13" aria-expanded="false" aria-controls="collapse13" class="collapsed"><i class="ti-location-pin"></i> Maps</a>
+              <ul id="collapse13" class="list-unstyled collapse">
+                <li><a href="vector-maps.html">Vector maps</a></li>
+                <li><a href="google-maps.html">Google maps</a></li>
+              </ul>
+            </li>
+            <li class="header">Page kits</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse14" aria-expanded="false" aria-controls="collapse14" class="collapsed"><i class="ti-alert"></i> Error pages</a>
+              <ul id="collapse14" class="list-unstyled collapse">
+                <li><a href="400.html">400 Bad request</a></li>
+                <li><a href="401.html">401 Unauthorized</a></li>
+                <li><a href="403.html">403 Forbidden</a></li>
+                <li><a href="404.html">404 Not found</a></li>
+                <li><a href="500.html">500 Internal server error</a></li>
+                <li><a href="503.html">503 Service unavailable</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse15" aria-expanded="false" aria-controls="collapse15" class="collapsed"><i class="ti-user"></i> User pages</a>
+              <ul id="collapse15" class="list-unstyled collapse">
+                <li><a href="login.html">Login</a></li>
+                <li><a href="register.html">Registration</a></li>
+                <li><a href="forgot.html">Forgot password</a></li>
+                <li><a href="lock-screen.html">Lock screen</a></li>
+                <li><a href="profile.html">Profile</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse16" aria-expanded="false" aria-controls="collapse16" class="collapsed"><i class="ti-panel"></i> Apps</a>
+              <ul id="collapse16" class="list-unstyled collapse">
+                <li><a href="mailbox.html">Mailbox</a></li>
+                <li><a href="calendar.html">Calendar</a></li>
+                <li><a href="image-cropper.html">Image cropper</a></li>
+              </ul>
+            </li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse17" aria-expanded="false" aria-controls="collapse17" class="collapsed"><i class="ti-blackboard"></i> Extra pages</a>
+              <ul id="collapse17" class="list-unstyled collapse">
+                <li><a href="invoice.html">Invoice</a></li>
+                <li><a href="search-results.html">Search results</a></li>
+                <li><a href="blank-template.html">Blank template</a></li>
+              </ul>
+            </li>
+            <li class="header">Help</li>
+            <li><a href="documentation.html"><i class="ti-help-alt"></i> Documentation</a></li>
+            <li class="header">Menu Levels</li>
+            <li class="panel"><a role="button" data-toggle="collapse" data-parent=".navigation" href="#collapse18" aria-expanded="false" aria-controls="collapse18" class="collapsed"><i class="ti-folder"></i> Menu levels</a>
+              <ul id="collapse18" class="list-unstyled collapse">
+                <li><a href="#">Menu level 2.1</a></li>
+                <li class="panel"><a role="button" data-toggle="collapse" data-parent="#collapse18" href="#collapse21" aria-expanded="false" aria-controls="collapse21" class="collapsed">Menu level 2.2</a>
+                  <ul id="collapse21" class="list-unstyled collapse">
+                    <li><a href="#">Menu level 3.1</a></li>
+                    <li class="panel"><a role="button" data-toggle="collapse" data-parent="#collapse21" href="#collapse31" aria-expanded="false" aria-controls="collapse31" class="collapsed">Menu level 3.2</a>
+                      <ul id="collapse31" class="list-unstyled collapse">
+                        <li><a href="#">Menu level 4.1</a></li>
+                        <li class="panel"><a role="button" data-toggle="collapse" data-parent="#collapse31" href="#collapse41" aria-expanded="false" aria-controls="collapse41" class="collapsed">Menu level 4.2</a>
+                          <ul id="collapse41" class="list-unstyled collapse">
+                            <li><a href="#">Menu level 5.1</a></li>
+                            <li><a href="#">Menu level 5.2</a></li>
+                          </ul>
+                        </li>
+                      </ul>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <div class="header">Server Status</div>
+          <ul class="list-unstyled pl-15 pr-15">
+            <li class="mb-20">
+              <div class="block clearfix mb-10"><span class="pull-left fs-12 text-muted">CPU Used</span><span class="pull-right label label-outline label-warning">65%</span></div>
+              <div class="progress progress-xs mb-0">
+                <div role="progressbar" data-transitiongoal="65" class="progress-bar progress-bar-warning"></div>
+              </div>
+            </li>
+            <li class="mb-20">
+              <div class="block clearfix mb-10"><span class="pull-left fs-12 text-muted">Bandwidth</span><span class="pull-right label label-outline label-danger">80%</span></div>
+              <div class="progress progress-xs mb-0">
+                <div role="progressbar" data-transitiongoal="80" class="progress-bar progress-bar-danger"></div>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div id="portfolio" role="tabpanel" class="tab-pane fade">
+          <div class="header">Rating</div>
+          <div class="rating clearfix">
+            <div class="pull-left score bg-black fs-24 fw-600 text-center">4.5</div>
+            <div class="pull-left">
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="100" class="progress-bar five-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="80" class="progress-bar four-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="10" class="progress-bar three-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="25" class="progress-bar two-star"></div>
+              </div>
+              <div class="progress">
+                <div role="progressbar" data-transitiongoal="5" class="progress-bar one-star"></div>
+              </div>
+            </div>
+          </div>
+          <p class="text-center fs-12 mt-5 mb-0">average based on 1,056 ratings</p>
+          <div class="header">Followers</div>
+          <div class="followers"><img src="build/images/users/02.jpg" alt="" class="img-circle"><img src="build/images/users/03.jpg" alt="" class="img-circle"><img src="build/images/users/10.jpg" alt="" class="img-circle"><a href="#" class="more img-circle text-center fs-24 fw-600 text-info">+</a></div>
+          <p class="text-center fs-12 mt-5 mb-0">2,590 followers and 8,320 sales</p>
+          <div class="header">Visitors</div>
+          <div id="sp-visitors"></div>
+          <p class="text-center fs-12 mt-5 mb-0">3,320 visitors in last 10 days</p>
+          <div class="header">Revenue</div>
+          <div id="sp-revenue"></div>
+          <p class="text-center fs-12 mt-5 mb-0">8.59k revenue estimate in last 10 days</p>
+          <div class="header">Your New Blog Posts</div>
+          <ul class="posts media-list">
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/01.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">The first chapter</h6></a>
+                <time datetime="2015-09-14T14:28:26+07:00" class="fs-11">September 14, 2015</time>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/02.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">A simple image post</h6></a>
+                <time datetime="2015-10-10T20:27:48+07:00" class="fs-11">October 10, 2015</time>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/03.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">The sweet life</h6></a>
+                <time datetime="2015-11-10T20:27:48+07:00" class="fs-11">November 10, 2015</time>
+              </div>
+            </li>
+            <li class="media">
+              <div class="media-left"><a href="#" class="inline-block"><img src="build/images/posts/04.jpg" alt="" class="media-object mo-lg"></a></div>
+              <div class="media-body media-middle"><a href="#">
+                  <h6 class="media-heading text-muted">Enjoy the moment</h6></a>
+                <time datetime="2015-12-10T20:27:48+07:00" class="fs-11">December 10, 2015</time>
+              </div>
+            </li>
+          </ul>
+        </div>
+        <div id="email" role="tabpanel" class="tab-pane fade">
+          <button type="button" data-toggle="modal" data-target=".compose-mail-modal" class="btn btn-raised btn-block btn-danger mt-10"><i class="ti-pencil-alt"></i> Compose Mail</button>
+          <ul class="list-unstyled navigation mb-0">
+            <li class="header">Email</li>
+            <li><a href="mailbox.html" class="bubble"><i class="ti-archive"></i> Inbox<span class="badge bg-danger">5</span></a></li>
+            <li><a href="mailbox.html"><i class="ti-location-arrow"></i> Sent</a></li>
+            <li><a href="mailbox.html"><i class="ti-notepad"></i> Draft</a></li>
+            <li><a href="mailbox.html"><i class="ti-trash"></i> Trash</a></li>
+            <li><a href="mailbox.html"><i class="ti-flag-alt"></i> Important</a></li>
+            <li><a href="mailbox.html"><i class="ti-star"></i> Starred</a></li>
+            <li class="header">Folders</li>
+            <li><a href="#"><i class="ti-folder"></i> Newsletter</a></li>
+            <li><a href="#"><i class="ti-folder"></i> Friend</a></li>
+            <li><a href="#"><i class="ti-folder"></i> Company</a></li>
+            <li><a href="#"><i class="ti-folder"></i> Downloaded</a></li>
+          </ul>
+        </div>
+        <div id="setting" role="tabpanel" class="tab-pane fade">
+          <div class="header">General Settings</div>
+          <form class="form-horizontal">
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Maintenance Mode</h6>
+              <div class="switch pull-right">
+                <input id="setting-1" type="checkbox" checked="">
+                <label for="setting-1" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Location Services</h6>
+              <div class="switch pull-right">
+                <input id="setting-2" type="checkbox" checked="">
+                <label for="setting-2" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Display Errors</h6>
+              <div class="switch pull-right">
+                <input id="setting-3" type="checkbox" checked="">
+                <label for="setting-3" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Use SEO URLs</h6>
+              <div class="switch pull-right">
+                <input id="setting-4" type="checkbox" checked="">
+                <label for="setting-4" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+            <div class="clearfix">
+              <h6 class="pull-left fs-13">Enable History</h6>
+              <div class="switch pull-right">
+                <input id="setting-5" type="checkbox" checked="">
+                <label for="setting-5" class="switch-success"></label>
+              </div>
+            </div>
+            <p class="fs-12">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</p>
+          </form>
+        </div>
+      </div>
+    </aside>
+    <!-- Main Sidebar end-->
+    <!-- Header start-->
+    <header>
+      <div class="search-bar closed">
+        <form>
+          <div class="input-group input-group-lg">
+            <input type="text" placeholder="Search for..." class="form-control"><span class="input-group-btn">
+              <button type="button" class="btn btn-default search-bar-toggle"><i class="ti-close"></i></button></span>
+          </div>
+        </form>
+      </div>
+      <div class="brand pull-left"><a href="index.html" class="logo"><i class="ti-underline"></i>
+          <h2>MEGA<span>app</span></h2></a></div><a href="javascript:;" role="button" class="sidebar-toggle pull-left header-icon"><i class="ti-menu text-muted"></i></a>
+      <form class="mt-15 mb-15 pull-left hidden-xs">
+        <div class="form-group has-feedback mb-0">
+          <input type="text" aria-describedby="inputSearchFor" placeholder="Search for..." style="width: 200px" class="form-control rounded"><span aria-hidden="true" class="ti-search form-control-feedback"></span><span id="inputSearchFor" class="sr-only">(default)</span>
+        </div>
+      </form>
+      <ul class="newsticker list-unstyled ml-15 mb-0 pull-left visible-lg">
+        <li class="fw-500">You <span class="text-danger">recommended</span> Karen Ortega.</li>
+        <li class="fw-500">You <span class="text-info">followed</span> Olivia Williamson.</li>
+        <li class="fw-500">New product <span class="text-success">Microsoft Lumia 950XL</span></li>
+        <li class="fw-500">New order <span class="text-success">#021930217965</span></li>
+      </ul>
+      <ul class="notification-bar list-inline pull-right">
+        <li class="visible-xs"><a href="javascript:;" role="button" class="header-icon search-bar-toggle"><i class="ti-search text-muted"></i></a></li>
+        <li class="visible-lg"><a href="javascript:;" role="button" class="header-icon fullscreen-toggle"><i class="ti-fullscreen text-muted"></i></a></li>
+        <li class="dropdown"><a id="dropdownMenu1" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle bubble header-icon"><i class="ti-save text-muted"></i><span class="badge bg-danger">3</span></a>
+          <div aria-labelledby="dropdownMenu1" class="dropdown-menu dropdown-menu-right dm-medium fs-12 animated fadeInDown">
+            <h5 class="dropdown-header">You have 3 file downloads</h5>
+            <ul data-mcs-theme="minimal-dark" class="media-list mCustomScrollbar">
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left"><i class="ti-music-alt media-object mo-sm img-circle bg-info text-center"></i></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Music.mp3</h6>
+                    <div class="progress progress-xs mb-5">
+                      <div role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;" class="progress-bar progress-bar-info"><span class="sr-only">60% Complete</span></div>
+                    </div>
+                    <p class="text-muted mb-0">1.3 of 4MB - 685KB/sec - 4 sec</p>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left"><i class="ti-video-clapper media-object mo-sm img-circle bg-danger text-center"></i></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Video.mp4</h6>
+                    <div class="progress progress-xs mb-5">
+                      <div role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%;" class="progress-bar progress-bar-success"><span class="sr-only">100% Complete</span></div>
+                    </div>
+                    <p class="text-muted mb-0">Completed - 5 minutes ago</p>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left"><i class="ti-zip media-object mo-sm img-circle bg-warning text-center"></i></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Copy.zip</h6>
+                    <div class="progress progress-xs mb-5">
+                      <div role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100" style="width: 45%;" class="progress-bar"><span class="sr-only">45% Complete</span></div>
+                    </div>
+                    <p class="text-muted mb-0">650 of 1451MB - 721KB/sec - 20 min</p>
+                  </div></a></li>
+            </ul>
+            <div class="dropdown-footer text-center p-10"><a href="javascript:;" class="fw-500 text-muted">See all file downloads</a></div>
+          </div>
+        </li>
+        <li class="dropdown"><a id="dropdownMenu2" href="#" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle bubble header-icon"><i class="ti-world text-muted"></i><span class="badge bg-danger">6</span></a>
+          <div aria-labelledby="dropdownMenu2" class="dropdown-menu dropdown-menu-right dm-medium fs-12 animated fadeInDown">
+            <h5 class="dropdown-header">You have 6 notifications</h5>
+            <ul data-mcs-theme="minimal-dark" class="media-list mCustomScrollbar">
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/17.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">William Carlson</h6>
+                    <p class="text-muted mb-0">Commented on your post</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:27:48+07:00" class="fs-11">5 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/19.jpg" alt="" class="media-object img-circle"><span class="status bg-danger"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Barbara Ortega</h6>
+                    <p class="text-muted mb-0">Sent you a new email</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:42:40+07:00" class="fs-11">8 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/02.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Mark Barnett</h6>
+                    <p class="text-muted mb-0">Sent you a new message</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:50:48+07:00" class="fs-11">9 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/11.jpg" alt="" class="media-object img-circle"><span class="status bg-danger"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Alexander Gilbert</h6>
+                    <p class="text-muted mb-0">Sent you a new email</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:42:40+07:00" class="fs-11">15 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/12.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Amanda Collins</h6>
+                    <p class="text-muted mb-0">You have 8 unread messages</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:35:35+07:00" class="fs-11">22 mins</time>
+                  </div></a></li>
+              <li class="media"><a href="javascript:;">
+                  <div class="media-left avatar"><img src="build/images/users/13.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+                  <div class="media-body">
+                    <h6 class="media-heading">Christian Lane</h6>
+                    <p class="text-muted mb-0">Commented on your post</p>
+                  </div>
+                  <div class="media-right text-nowrap">
+                    <time datetime="2015-12-10T20:27:48+07:00" class="fs-11">30 mins</time>
+                  </div></a></li>
+            </ul>
+            <div class="dropdown-footer text-center p-10"><a href="javascript:;" class="fw-500 text-muted">See all notifications</a></div>
+          </div>
+        </li>
+        <li><a href="javascript:;" role="button" class="right-sidebar-toggle bubble header-icon"><i class="ti-comment-alt text-muted"></i><span class="dot bg-danger"></span></a></li>
+        <li><a href="login.html" role="button" class="header-icon"><i class="ti-power-off text-muted"></i></a></li>
+      </ul>
+    </header>
+    <!-- Header end-->
+    <!-- Work Here start-->
+    <section class="page-container">
+      <div class="page-header clearfix">
+        <div class="pull-left">
+          <h4 class="mt-0 mb-5">Green System</h4>
+          <ol class="breadcrumb mb-0">
+            <li><a href="#">Umega</a></li>
+            <li><a href="#">Color System</a></li>
+            <li class="active">Green</li>
+          </ol>
+        </div>
+        <div class="pull-right">
+          <div class="btn-group">
+            <button type="button" class="btn btn-default btn-outline"><img src="build/images/flags/us.jpg" alt="" class="flag-icon">English</button>
+            <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn btn-default btn-outline dropdown-toggle"><span class="caret"></span><span class="sr-only">Toggle Dropdown</span></button>
+            <ul class="dropdown-menu dropdown-menu-right animated fadeInDown">
+              <li><a href="#"><img src="build/images/flags/de.jpg" class="flag-icon">German</a></li>
+              <li><a href="#"><img src="build/images/flags/fr.jpg" class="flag-icon">French</a></li>
+              <li><a href="#"><img src="build/images/flags/es.jpg" class="flag-icon">Spanish</a></li>
+              <li><a href="#"><img src="build/images/flags/it.jpg" class="flag-icon">Italian</a></li>
+              <li><a href="#"><img src="build/images/flags/jp.jpg" class="flag-icon">Japanese</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="page-content container-fluid">
+        <h3 class="mt-0">Containers</h3>
+        <div class="row">
+          <div class="col-md-4">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Linked Items</h3>
+              </div>
+              <div class="widget-body">
+                <div class="list-group"><a href="#" class="list-group-item active">Cras justo odio</a><a href="#" class="list-group-item">Dapibus ac facilisis in</a><a href="#" class="list-group-item">Morbi leo risus</a><a href="#" class="list-group-item">Porta ac consectetur ac</a><a href="#" class="list-group-item">Vestibulum at eros</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-8">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Custom Content</h3>
+              </div>
+              <div class="widget-body">
+                <div class="list-group"><a href="#" class="list-group-item active">
+                    <h4 class="list-group-item-heading">List group item heading</h4>
+                    <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p></a><a href="#" class="list-group-item">
+                    <h4 class="list-group-item-heading">List group item heading</h4>
+                    <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p></a><a href="#" class="list-group-item">
+                    <h4 class="list-group-item-heading">List group item heading</h4>
+                    <p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus. Maecenas sed diam eget risus varius blandit.</p></a></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h3>Navigations</h3>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Tabs</h3>
+              </div>
+              <div class="widget-body">
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-tabs mb-15">
+                    <li role="presentation" class="active"><a id="home-tab" href="#home" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab" href="#profile" role="tab" data-toggle="tab" aria-controls="profile" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop1" href="#" data-toggle="dropdown" aria-controls="myTabDrop1-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop1-contents" role="menu" aria-labelledby="myTabDrop1" class="dropdown-menu animated fadeInDown">
+                        <li><a id="dropdown1-tab" href="#dropdown1" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown1" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown2-tab" href="#dropdown2" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown2" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home" role="tabpanel" aria-labelledby="home-tab" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile" role="tabpanel" aria-labelledby="profile-tab" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown1" role="tabpanel" aria-labelledby="dropdown1-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown2" role="tabpanel" aria-labelledby="dropdown2-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Pills</h3>
+              </div>
+              <div class="widget-body">
+                <div role="tabpanel">
+                  <ul role="tablist" class="nav nav-pills mb-15">
+                    <li role="presentation" class="active"><a id="home-tab2" href="#home2" role="tab" data-toggle="tab" aria-controls="home2" aria-expanded="true">Home</a></li>
+                    <li role="presentation"><a id="profile-tab2" href="#profile2" role="tab" data-toggle="tab" aria-controls="profile2" aria-expanded="false">Profile</a></li>
+                    <li role="presentation" class="dropdown"><a id="myTabDrop2" href="#" data-toggle="dropdown" aria-controls="myTabDrop2-contents" aria-expanded="false" class="dropdown-toggle">Dropdown <span class="caret"></span></a>
+                      <ul id="myTabDrop2-contents" role="menu" aria-labelledby="myTabDrop2" class="dropdown-menu">
+                        <li><a id="dropdown3-tab" href="#dropdown3" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown3" aria-expanded="false">@fat</a></li>
+                        <li><a id="dropdown4-tab" href="#dropdown4" tabindex="-1" role="tab" data-toggle="tab" aria-controls="dropdown4" aria-expanded="false">@mdo</a></li>
+                      </ul>
+                    </li>
+                  </ul>
+                  <div class="tab-content">
+                    <div id="home2" role="tabpanel" aria-labelledby="home-tab2" class="tab-pane fade active in">
+                      <p>Raw denim you probably haven't heard of them jean shorts Austin. Nesciunt tofu stumptown aliqua, retro synth master cleanse. Mustache cliche tempor, williamsburg carles vegan helvetica.</p>
+                    </div>
+                    <div id="profile2" role="tabpanel" aria-labelledby="profile-tab2" class="tab-pane fade">
+                      <p>Food truck fixie locavore, accusamus mcsweeney's marfa nulla single-origin coffee squid. Exercitation +1 labore velit, blog sartorial PBR leggings next level wes anderson artisan four loko farm-to-table craft beer twee.</p>
+                    </div>
+                    <div id="dropdown3" role="tabpanel" aria-labelledby="dropdown3-tab" class="tab-pane fade">
+                      <p>Etsy mixtape wayfarers, ethical wes anderson tofu before they sold out mcsweeney's organic lomo retro fanny pack lo-fi farm-to-table readymade. Messenger bag gentrify pitchfork tattooed craft beer.</p>
+                    </div>
+                    <div id="dropdown4" role="tabpanel" aria-labelledby="dropdown4-tab" class="tab-pane fade">
+                      <p>Trust fund seitan letterpress, keytar raw denim keffiyeh etsy art party before they sold out master cleanse gluten-free squid scenester freegan cosby sweater. Fanny pack portland seitan DIY.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Pagination</h3>
+              </div>
+              <div class="widget-body">
+                <nav>
+                  <ul class="pagination">
+                    <li class="disabled"><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
+                    <li class="active"><a href="#">1 <span class="sr-only">(current)</span></a></li>
+                    <li><a href="#">2</a></li>
+                    <li><a href="#">3</a></li>
+                    <li><a href="#">4</a></li>
+                    <li><a href="#">5</a></li>
+                    <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+                  </ul>
+                </nav>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="widget">
+              <div class="widget-heading">
+                <h3 class="widget-title">Breadcrumbs</h3>
+              </div>
+              <div class="widget-body">
+                <ol class="breadcrumb">
+                  <li><a href="#"><i class="ti-home mr-5"></i> Home</a></li>
+                  <li><a href="#">Library</a></li>
+                  <li class="active">Data</li>
+                </ol>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h3>Pickers</h3>
+        <div class="widget">
+          <div class="widget-heading">
+            <h3 class="widget-title">Datetime Picker</h3>
+          </div>
+          <div class="widget-body">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Minimum setup</label>
+                  <div id="minimum-dtpicker" class="input-group date">
+                    <input type="text" class="form-control"><span class="input-group-addon"><span class="ti-calendar"></span></span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Custom formats</label>
+                  <div id="custom-dtpicker" class="input-group date">
+                    <input type="text" class="form-control"><span class="input-group-addon"><span class="ti-timer"></span></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>View mode</label>
+                  <div id="view-mode-dtpicker" class="input-group date">
+                    <input type="text" class="form-control"><span class="input-group-addon"><span class="ti-calendar"></span></span>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Min view mode</label>
+                  <div id="min-view-mode-dtpicker" class="input-group date">
+                    <input type="text" class="form-control"><span class="input-group-addon"><span class="ti-calendar"></span></span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="widget">
+          <div class="widget-heading">
+            <h3 class="widget-title">Date Range Picker</h3>
+          </div>
+          <div class="widget-body">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Date range picker</label>
+                  <input id="date-range-picker" type="text" value="01/01/2015 - 02/15/2015" class="form-control">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Date and time</label>
+                  <input id="date-time-picker" type="text" value="01/01/2015 1:30 PM - 01/01/2015 2:00 PM" class="form-control">
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Single date picker</label>
+                  <input id="single-date-picker" type="text" value="01/01/2015 - 02/15/2015" class="form-control">
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="form-group">
+                  <label>Predefined ranges</label>
+                  <div class="btn-toolbar">
+                    <button id="predefined-ranges-picker" type="button" class="btn btn-raised btn-primary"><i class="ti-calendar"> </i><span></span></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <h3>Form Wizard</h3>
+        <div class="widget">
+          <div class="widget-heading">
+            <h3 class="widget-title">Horizontal Steps</h3>
+          </div>
+          <div class="widget-body">
+            <form id="form-horizontal" class="form-horizontal">
+              <h3>Billing Infomation</h3>
+              <fieldset>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFirstNameBilling" class="col-sm-3 col-md-4 control-label">First Name</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtFirstNameBilling" name="txtFirstNameBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtLastNameBilling" class="col-sm-3 col-md-4 control-label">Last Name</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtLastNameBilling" name="txtLastNameBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCompanyBilling" class="col-sm-3 col-md-4 control-label">Company</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtCompanyBilling" name="txtCompanyBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtEmailAddressBilling" class="col-sm-3 col-md-4 control-label">Email Address</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtEmailAddressBilling" name="txtEmailAddressBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress1Billing" class="col-sm-3 col-md-4 control-label">Address 1</label>
+                      <div class="col-sm-9 col-md-8">
+                        <textarea id="txtAddress1Billing" name="txtAddress1Billing" class="form-control"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress2Billing" class="col-sm-3 col-md-4 control-label">Address 2</label>
+                      <div class="col-sm-9 col-md-8">
+                        <textarea id="txtAddress2Billing" name="txtAddress2Billing" class="form-control"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCityBilling" class="col-sm-3 col-md-4 control-label">City</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtCityBilling" name="txtCityBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtStateProvinceBilling" class="col-sm-3 col-md-4 control-label">State/Province</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtStateProvinceBilling" name="txtStateProvinceBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtZipPostalBilling" class="col-sm-3 col-md-4 control-label">Zip/Postal Code</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtZipPostalBilling" name="txtZipPostalBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="ddlCountryBilling" class="col-sm-3 col-md-4 control-label">Country</label>
+                      <div class="col-sm-9 col-md-8">
+                        <select id="ddlCountryBilling" name="ddlCountryBilling" class="form-control">
+                          <option value="">--Please Select--</option>
+                          <option value="AF">Afghanistan</option>
+                          <option value="AX">Åland Islands</option>
+                          <option value="AL">Albania</option>
+                          <option value="DZ">Algeria</option>
+                          <option value="AS">American Samoa</option>
+                          <option value="AD">Andorra</option>
+                          <option value="AO">Angola</option>
+                          <option value="AI">Anguilla</option>
+                          <option value="AQ">Antarctica</option>
+                          <option value="AG">Antigua and Barbuda</option>
+                          <option value="AR">Argentina</option>
+                          <option value="AM">Armenia</option>
+                          <option value="AW">Aruba</option>
+                          <option value="AU">Australia</option>
+                          <option value="AT">Austria</option>
+                          <option value="AZ">Azerbaijan</option>
+                          <option value="BS">Bahamas</option>
+                          <option value="BH">Bahrain</option>
+                          <option value="BD">Bangladesh</option>
+                          <option value="BB">Barbados</option>
+                          <option value="BY">Belarus</option>
+                          <option value="BE">Belgium</option>
+                          <option value="BZ">Belize</option>
+                          <option value="BJ">Benin</option>
+                          <option value="BM">Bermuda</option>
+                          <option value="BT">Bhutan</option>
+                          <option value="BO">Bolivia</option>
+                          <option value="BA">Bosnia and Herzegovina</option>
+                          <option value="BW">Botswana</option>
+                          <option value="BV">Bouvet Island</option>
+                          <option value="BR">Brazil</option>
+                          <option value="IO">British Indian Ocean Territory</option>
+                          <option value="VG">British Virgin Islands</option>
+                          <option value="BN">Brunei</option>
+                          <option value="BG">Bulgaria</option>
+                          <option value="BF">Burkina Faso</option>
+                          <option value="BI">Burundi</option>
+                          <option value="KH">Cambodia</option>
+                          <option value="CM">Cameroon</option>
+                          <option value="CA">Canada</option>
+                          <option value="CV">Cape Verde</option>
+                          <option value="KY">Cayman Islands</option>
+                          <option value="CF">Central African Republic</option>
+                          <option value="TD">Chad</option>
+                          <option value="CL">Chile</option>
+                          <option value="CN">China</option>
+                          <option value="CX">Christmas Island</option>
+                          <option value="CC">Cocos [Keeling] Islands</option>
+                          <option value="CO">Colombia</option>
+                          <option value="KM">Comoros</option>
+                          <option value="CG">Congo - Brazzaville</option>
+                          <option value="CD">Congo - Kinshasa</option>
+                          <option value="CK">Cook Islands</option>
+                          <option value="CR">Costa Rica</option>
+                          <option value="CI">Côte d’Ivoire</option>
+                          <option value="HR">Croatia</option>
+                          <option value="CU">Cuba</option>
+                          <option value="CY">Cyprus</option>
+                          <option value="CZ">Czech Republic</option>
+                          <option value="DK">Denmark</option>
+                          <option value="DJ">Djibouti</option>
+                          <option value="DM">Dominica</option>
+                          <option value="DO">Dominican Republic</option>
+                          <option value="EC">Ecuador</option>
+                          <option value="EG">Egypt</option>
+                          <option value="SV">El Salvador</option>
+                          <option value="GQ">Equatorial Guinea</option>
+                          <option value="ER">Eritrea</option>
+                          <option value="EE">Estonia</option>
+                          <option value="ET">Ethiopia</option>
+                          <option value="FK">Falkland Islands</option>
+                          <option value="FO">Faroe Islands</option>
+                          <option value="FJ">Fiji</option>
+                          <option value="FI">Finland</option>
+                          <option value="FR">France</option>
+                          <option value="GF">French Guiana</option>
+                          <option value="PF">French Polynesia</option>
+                          <option value="TF">French Southern Territories</option>
+                          <option value="GA">Gabon</option>
+                          <option value="GM">Gambia</option>
+                          <option value="GE">Georgia</option>
+                          <option value="DE">Germany</option>
+                          <option value="GH">Ghana</option>
+                          <option value="GI">Gibraltar</option>
+                          <option value="GR">Greece</option>
+                          <option value="GL">Greenland</option>
+                          <option value="GD">Grenada</option>
+                          <option value="GP">Guadeloupe</option>
+                          <option value="GU">Guam</option>
+                          <option value="GT">Guatemala</option>
+                          <option value="GG">Guernsey</option>
+                          <option value="GN">Guinea</option>
+                          <option value="GW">Guinea-Bissau</option>
+                          <option value="GY">Guyana</option>
+                          <option value="HT">Haiti</option>
+                          <option value="HM">Heard Island and McDonald Islands</option>
+                          <option value="HN">Honduras</option>
+                          <option value="HK">Hong Kong SAR China</option>
+                          <option value="HU">Hungary</option>
+                          <option value="IS">Iceland</option>
+                          <option value="IN">India</option>
+                          <option value="ID">Indonesia</option>
+                          <option value="IR">Iran</option>
+                          <option value="IQ">Iraq</option>
+                          <option value="IE">Ireland</option>
+                          <option value="IM">Isle of Man</option>
+                          <option value="IL">Israel</option>
+                          <option value="IT">Italy</option>
+                          <option value="JM">Jamaica</option>
+                          <option value="JP">Japan</option>
+                          <option value="JE">Jersey</option>
+                          <option value="JO">Jordan</option>
+                          <option value="KZ">Kazakhstan</option>
+                          <option value="KE">Kenya</option>
+                          <option value="KI">Kiribati</option>
+                          <option value="KW">Kuwait</option>
+                          <option value="KG">Kyrgyzstan</option>
+                          <option value="LA">Laos</option>
+                          <option value="LV">Latvia</option>
+                          <option value="LB">Lebanon</option>
+                          <option value="LS">Lesotho</option>
+                          <option value="LR">Liberia</option>
+                          <option value="LY">Libya</option>
+                          <option value="LI">Liechtenstein</option>
+                          <option value="LT">Lithuania</option>
+                          <option value="LU">Luxembourg</option>
+                          <option value="MO">Macau SAR China</option>
+                          <option value="MK">Macedonia</option>
+                          <option value="MG">Madagascar</option>
+                          <option value="MW">Malawi</option>
+                          <option value="MY">Malaysia</option>
+                          <option value="MV">Maldives</option>
+                          <option value="ML">Mali</option>
+                          <option value="MT">Malta</option>
+                          <option value="MH">Marshall Islands</option>
+                          <option value="MQ">Martinique</option>
+                          <option value="MR">Mauritania</option>
+                          <option value="MU">Mauritius</option>
+                          <option value="YT">Mayotte</option>
+                          <option value="MX">Mexico</option>
+                          <option value="FM">Micronesia</option>
+                          <option value="MD">Moldova</option>
+                          <option value="MC">Monaco</option>
+                          <option value="MN">Mongolia</option>
+                          <option value="ME">Montenegro</option>
+                          <option value="MS">Montserrat</option>
+                          <option value="MA">Morocco</option>
+                          <option value="MZ">Mozambique</option>
+                          <option value="MM">Myanmar [Burma]</option>
+                          <option value="NA">Namibia</option>
+                          <option value="NR">Nauru</option>
+                          <option value="NP">Nepal</option>
+                          <option value="NL">Netherlands</option>
+                          <option value="AN">Netherlands Antilles</option>
+                          <option value="NC">New Caledonia</option>
+                          <option value="NZ">New Zealand</option>
+                          <option value="NI">Nicaragua</option>
+                          <option value="NE">Niger</option>
+                          <option value="NG">Nigeria</option>
+                          <option value="NU">Niue</option>
+                          <option value="NF">Norfolk Island</option>
+                          <option value="MP">Northern Mariana Islands</option>
+                          <option value="KP">North Korea</option>
+                          <option value="NO">Norway</option>
+                          <option value="OM">Oman</option>
+                          <option value="PK">Pakistan</option>
+                          <option value="PW">Palau</option>
+                          <option value="PS">Palestinian Territories</option>
+                          <option value="PA">Panama</option>
+                          <option value="PG">Papua New Guinea</option>
+                          <option value="PY">Paraguay</option>
+                          <option value="PE">Peru</option>
+                          <option value="PH">Philippines</option>
+                          <option value="PN">Pitcairn Islands</option>
+                          <option value="PL">Poland</option>
+                          <option value="PT">Portugal</option>
+                          <option value="PR">Puerto Rico</option>
+                          <option value="QA">Qatar</option>
+                          <option value="RE">Réunion</option>
+                          <option value="RO">Romania</option>
+                          <option value="RU">Russia</option>
+                          <option value="RW">Rwanda</option>
+                          <option value="BL">Saint Barthélemy</option>
+                          <option value="SH">Saint Helena</option>
+                          <option value="KN">Saint Kitts and Nevis</option>
+                          <option value="LC">Saint Lucia</option>
+                          <option value="MF">Saint Martin</option>
+                          <option value="PM">Saint Pierre and Miquelon</option>
+                          <option value="VC">Saint Vincent and the Grenadines</option>
+                          <option value="WS">Samoa</option>
+                          <option value="SM">San Marino</option>
+                          <option value="ST">São Tomé and Príncipe</option>
+                          <option value="SA">Saudi Arabia</option>
+                          <option value="SN">Senegal</option>
+                          <option value="RS">Serbia</option>
+                          <option value="SC">Seychelles</option>
+                          <option value="SL">Sierra Leone</option>
+                          <option value="SG">Singapore</option>
+                          <option value="SK">Slovakia</option>
+                          <option value="SI">Slovenia</option>
+                          <option value="SB">Solomon Islands</option>
+                          <option value="SO">Somalia</option>
+                          <option value="ZA">South Africa</option>
+                          <option value="GS">South Georgia and the South Sandwich Islands</option>
+                          <option value="KR">South Korea</option>
+                          <option value="ES">Spain</option>
+                          <option value="LK">Sri Lanka</option>
+                          <option value="SD">Sudan</option>
+                          <option value="SR">Suriname</option>
+                          <option value="SJ">Svalbard and Jan Mayen</option>
+                          <option value="SZ">Swaziland</option>
+                          <option value="SE">Sweden</option>
+                          <option value="CH">Switzerland</option>
+                          <option value="SY">Syria</option>
+                          <option value="TW">Taiwan</option>
+                          <option value="TJ">Tajikistan</option>
+                          <option value="TZ">Tanzania</option>
+                          <option value="TH">Thailand</option>
+                          <option value="TL">Timor-Leste</option>
+                          <option value="TG">Togo</option>
+                          <option value="TK">Tokelau</option>
+                          <option value="TO">Tonga</option>
+                          <option value="TT">Trinidad and Tobago</option>
+                          <option value="TN">Tunisia</option>
+                          <option value="TR">Turkey</option>
+                          <option value="TM">Turkmenistan</option>
+                          <option value="TC">Turks and Caicos Islands</option>
+                          <option value="TV">Tuvalu</option>
+                          <option value="UG">Uganda</option>
+                          <option value="UA">Ukraine</option>
+                          <option value="AE">United Arab Emirates</option>
+                          <option value="GB">United Kingdom</option>
+                          <option value="US">United States</option>
+                          <option value="UY">Uruguay</option>
+                          <option value="UM">U.S. Minor Outlying Islands</option>
+                          <option value="VI">U.S. Virgin Islands</option>
+                          <option value="UZ">Uzbekistan</option>
+                          <option value="VU">Vanuatu</option>
+                          <option value="VA">Vatican City</option>
+                          <option value="VE">Venezuela</option>
+                          <option value="VN">Vietnam</option>
+                          <option value="WF">Wallis and Futuna</option>
+                          <option value="EH">Western Sahara</option>
+                          <option value="YE">Yemen</option>
+                          <option value="ZM">Zambia</option>
+                          <option value="ZW">Zimbabwe</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtTelephoneBilling" class="col-sm-3 col-md-4 control-label">Telephone</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtTelephoneBilling" name="txtTelephoneBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFaxBilling" class="col-sm-3 col-md-4 control-label">Fax</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtFaxBilling" name="txtFaxBilling" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+              <h3>Shipping Information</h3>
+              <fieldset>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFirstNameShipping" class="col-sm-3 col-md-4 control-label">First Name</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtFirstNameShipping" name="txtFirstNameShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtLastNameShipping" class="col-sm-3 col-md-4 control-label">Last Name</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtLastNameShipping" name="txtLastNameShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCompanyShipping" class="col-sm-3 col-md-4 control-label">Company</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtCompanyShipping" name="txtCompanyShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtEmailAddressShipping" class="col-sm-3 col-md-4 control-label">Email Address</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtEmailAddressShipping" name="txtEmailAddressShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress1Shipping" class="col-sm-3 col-md-4 control-label">Address 1</label>
+                      <div class="col-sm-9 col-md-8">
+                        <textarea id="txtAddress1Shipping" name="txtAddress1Shipping" class="form-control"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress2Shipping" class="col-sm-3 col-md-4 control-label">Address 2</label>
+                      <div class="col-sm-9 col-md-8">
+                        <textarea id="txtAddress2Shipping" name="txtAddress2Shipping" class="form-control"></textarea>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCityShipping" class="col-sm-3 col-md-4 control-label">City</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtCityShipping" name="txtCityShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtStateProvinceShipping" class="col-sm-3 col-md-4 control-label">State/Province</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtStateProvinceShipping" name="txtStateProvinceShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtZipPostalShipping" class="col-sm-3 col-md-4 control-label">Zip/Postal Code</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtZipPostalShipping" name="txtZipPostalShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="ddlCountryShipping" class="col-sm-3 col-md-4 control-label">Country</label>
+                      <div class="col-sm-9 col-md-8">
+                        <select id="ddlCountryShipping" name="ddlCountryShipping" class="form-control">
+                          <option value="">--Please Select--</option>
+                          <option value="AF">Afghanistan</option>
+                          <option value="AX">Åland Islands</option>
+                          <option value="AL">Albania</option>
+                          <option value="DZ">Algeria</option>
+                          <option value="AS">American Samoa</option>
+                          <option value="AD">Andorra</option>
+                          <option value="AO">Angola</option>
+                          <option value="AI">Anguilla</option>
+                          <option value="AQ">Antarctica</option>
+                          <option value="AG">Antigua and Barbuda</option>
+                          <option value="AR">Argentina</option>
+                          <option value="AM">Armenia</option>
+                          <option value="AW">Aruba</option>
+                          <option value="AU">Australia</option>
+                          <option value="AT">Austria</option>
+                          <option value="AZ">Azerbaijan</option>
+                          <option value="BS">Bahamas</option>
+                          <option value="BH">Bahrain</option>
+                          <option value="BD">Bangladesh</option>
+                          <option value="BB">Barbados</option>
+                          <option value="BY">Belarus</option>
+                          <option value="BE">Belgium</option>
+                          <option value="BZ">Belize</option>
+                          <option value="BJ">Benin</option>
+                          <option value="BM">Bermuda</option>
+                          <option value="BT">Bhutan</option>
+                          <option value="BO">Bolivia</option>
+                          <option value="BA">Bosnia and Herzegovina</option>
+                          <option value="BW">Botswana</option>
+                          <option value="BV">Bouvet Island</option>
+                          <option value="BR">Brazil</option>
+                          <option value="IO">British Indian Ocean Territory</option>
+                          <option value="VG">British Virgin Islands</option>
+                          <option value="BN">Brunei</option>
+                          <option value="BG">Bulgaria</option>
+                          <option value="BF">Burkina Faso</option>
+                          <option value="BI">Burundi</option>
+                          <option value="KH">Cambodia</option>
+                          <option value="CM">Cameroon</option>
+                          <option value="CA">Canada</option>
+                          <option value="CV">Cape Verde</option>
+                          <option value="KY">Cayman Islands</option>
+                          <option value="CF">Central African Republic</option>
+                          <option value="TD">Chad</option>
+                          <option value="CL">Chile</option>
+                          <option value="CN">China</option>
+                          <option value="CX">Christmas Island</option>
+                          <option value="CC">Cocos [Keeling] Islands</option>
+                          <option value="CO">Colombia</option>
+                          <option value="KM">Comoros</option>
+                          <option value="CG">Congo - Brazzaville</option>
+                          <option value="CD">Congo - Kinshasa</option>
+                          <option value="CK">Cook Islands</option>
+                          <option value="CR">Costa Rica</option>
+                          <option value="CI">Côte d’Ivoire</option>
+                          <option value="HR">Croatia</option>
+                          <option value="CU">Cuba</option>
+                          <option value="CY">Cyprus</option>
+                          <option value="CZ">Czech Republic</option>
+                          <option value="DK">Denmark</option>
+                          <option value="DJ">Djibouti</option>
+                          <option value="DM">Dominica</option>
+                          <option value="DO">Dominican Republic</option>
+                          <option value="EC">Ecuador</option>
+                          <option value="EG">Egypt</option>
+                          <option value="SV">El Salvador</option>
+                          <option value="GQ">Equatorial Guinea</option>
+                          <option value="ER">Eritrea</option>
+                          <option value="EE">Estonia</option>
+                          <option value="ET">Ethiopia</option>
+                          <option value="FK">Falkland Islands</option>
+                          <option value="FO">Faroe Islands</option>
+                          <option value="FJ">Fiji</option>
+                          <option value="FI">Finland</option>
+                          <option value="FR">France</option>
+                          <option value="GF">French Guiana</option>
+                          <option value="PF">French Polynesia</option>
+                          <option value="TF">French Southern Territories</option>
+                          <option value="GA">Gabon</option>
+                          <option value="GM">Gambia</option>
+                          <option value="GE">Georgia</option>
+                          <option value="DE">Germany</option>
+                          <option value="GH">Ghana</option>
+                          <option value="GI">Gibraltar</option>
+                          <option value="GR">Greece</option>
+                          <option value="GL">Greenland</option>
+                          <option value="GD">Grenada</option>
+                          <option value="GP">Guadeloupe</option>
+                          <option value="GU">Guam</option>
+                          <option value="GT">Guatemala</option>
+                          <option value="GG">Guernsey</option>
+                          <option value="GN">Guinea</option>
+                          <option value="GW">Guinea-Bissau</option>
+                          <option value="GY">Guyana</option>
+                          <option value="HT">Haiti</option>
+                          <option value="HM">Heard Island and McDonald Islands</option>
+                          <option value="HN">Honduras</option>
+                          <option value="HK">Hong Kong SAR China</option>
+                          <option value="HU">Hungary</option>
+                          <option value="IS">Iceland</option>
+                          <option value="IN">India</option>
+                          <option value="ID">Indonesia</option>
+                          <option value="IR">Iran</option>
+                          <option value="IQ">Iraq</option>
+                          <option value="IE">Ireland</option>
+                          <option value="IM">Isle of Man</option>
+                          <option value="IL">Israel</option>
+                          <option value="IT">Italy</option>
+                          <option value="JM">Jamaica</option>
+                          <option value="JP">Japan</option>
+                          <option value="JE">Jersey</option>
+                          <option value="JO">Jordan</option>
+                          <option value="KZ">Kazakhstan</option>
+                          <option value="KE">Kenya</option>
+                          <option value="KI">Kiribati</option>
+                          <option value="KW">Kuwait</option>
+                          <option value="KG">Kyrgyzstan</option>
+                          <option value="LA">Laos</option>
+                          <option value="LV">Latvia</option>
+                          <option value="LB">Lebanon</option>
+                          <option value="LS">Lesotho</option>
+                          <option value="LR">Liberia</option>
+                          <option value="LY">Libya</option>
+                          <option value="LI">Liechtenstein</option>
+                          <option value="LT">Lithuania</option>
+                          <option value="LU">Luxembourg</option>
+                          <option value="MO">Macau SAR China</option>
+                          <option value="MK">Macedonia</option>
+                          <option value="MG">Madagascar</option>
+                          <option value="MW">Malawi</option>
+                          <option value="MY">Malaysia</option>
+                          <option value="MV">Maldives</option>
+                          <option value="ML">Mali</option>
+                          <option value="MT">Malta</option>
+                          <option value="MH">Marshall Islands</option>
+                          <option value="MQ">Martinique</option>
+                          <option value="MR">Mauritania</option>
+                          <option value="MU">Mauritius</option>
+                          <option value="YT">Mayotte</option>
+                          <option value="MX">Mexico</option>
+                          <option value="FM">Micronesia</option>
+                          <option value="MD">Moldova</option>
+                          <option value="MC">Monaco</option>
+                          <option value="MN">Mongolia</option>
+                          <option value="ME">Montenegro</option>
+                          <option value="MS">Montserrat</option>
+                          <option value="MA">Morocco</option>
+                          <option value="MZ">Mozambique</option>
+                          <option value="MM">Myanmar [Burma]</option>
+                          <option value="NA">Namibia</option>
+                          <option value="NR">Nauru</option>
+                          <option value="NP">Nepal</option>
+                          <option value="NL">Netherlands</option>
+                          <option value="AN">Netherlands Antilles</option>
+                          <option value="NC">New Caledonia</option>
+                          <option value="NZ">New Zealand</option>
+                          <option value="NI">Nicaragua</option>
+                          <option value="NE">Niger</option>
+                          <option value="NG">Nigeria</option>
+                          <option value="NU">Niue</option>
+                          <option value="NF">Norfolk Island</option>
+                          <option value="MP">Northern Mariana Islands</option>
+                          <option value="KP">North Korea</option>
+                          <option value="NO">Norway</option>
+                          <option value="OM">Oman</option>
+                          <option value="PK">Pakistan</option>
+                          <option value="PW">Palau</option>
+                          <option value="PS">Palestinian Territories</option>
+                          <option value="PA">Panama</option>
+                          <option value="PG">Papua New Guinea</option>
+                          <option value="PY">Paraguay</option>
+                          <option value="PE">Peru</option>
+                          <option value="PH">Philippines</option>
+                          <option value="PN">Pitcairn Islands</option>
+                          <option value="PL">Poland</option>
+                          <option value="PT">Portugal</option>
+                          <option value="PR">Puerto Rico</option>
+                          <option value="QA">Qatar</option>
+                          <option value="RE">Réunion</option>
+                          <option value="RO">Romania</option>
+                          <option value="RU">Russia</option>
+                          <option value="RW">Rwanda</option>
+                          <option value="BL">Saint Barthélemy</option>
+                          <option value="SH">Saint Helena</option>
+                          <option value="KN">Saint Kitts and Nevis</option>
+                          <option value="LC">Saint Lucia</option>
+                          <option value="MF">Saint Martin</option>
+                          <option value="PM">Saint Pierre and Miquelon</option>
+                          <option value="VC">Saint Vincent and the Grenadines</option>
+                          <option value="WS">Samoa</option>
+                          <option value="SM">San Marino</option>
+                          <option value="ST">São Tomé and Príncipe</option>
+                          <option value="SA">Saudi Arabia</option>
+                          <option value="SN">Senegal</option>
+                          <option value="RS">Serbia</option>
+                          <option value="SC">Seychelles</option>
+                          <option value="SL">Sierra Leone</option>
+                          <option value="SG">Singapore</option>
+                          <option value="SK">Slovakia</option>
+                          <option value="SI">Slovenia</option>
+                          <option value="SB">Solomon Islands</option>
+                          <option value="SO">Somalia</option>
+                          <option value="ZA">South Africa</option>
+                          <option value="GS">South Georgia and the South Sandwich Islands</option>
+                          <option value="KR">South Korea</option>
+                          <option value="ES">Spain</option>
+                          <option value="LK">Sri Lanka</option>
+                          <option value="SD">Sudan</option>
+                          <option value="SR">Suriname</option>
+                          <option value="SJ">Svalbard and Jan Mayen</option>
+                          <option value="SZ">Swaziland</option>
+                          <option value="SE">Sweden</option>
+                          <option value="CH">Switzerland</option>
+                          <option value="SY">Syria</option>
+                          <option value="TW">Taiwan</option>
+                          <option value="TJ">Tajikistan</option>
+                          <option value="TZ">Tanzania</option>
+                          <option value="TH">Thailand</option>
+                          <option value="TL">Timor-Leste</option>
+                          <option value="TG">Togo</option>
+                          <option value="TK">Tokelau</option>
+                          <option value="TO">Tonga</option>
+                          <option value="TT">Trinidad and Tobago</option>
+                          <option value="TN">Tunisia</option>
+                          <option value="TR">Turkey</option>
+                          <option value="TM">Turkmenistan</option>
+                          <option value="TC">Turks and Caicos Islands</option>
+                          <option value="TV">Tuvalu</option>
+                          <option value="UG">Uganda</option>
+                          <option value="UA">Ukraine</option>
+                          <option value="AE">United Arab Emirates</option>
+                          <option value="GB">United Kingdom</option>
+                          <option value="US">United States</option>
+                          <option value="UY">Uruguay</option>
+                          <option value="UM">U.S. Minor Outlying Islands</option>
+                          <option value="VI">U.S. Virgin Islands</option>
+                          <option value="UZ">Uzbekistan</option>
+                          <option value="VU">Vanuatu</option>
+                          <option value="VA">Vatican City</option>
+                          <option value="VE">Venezuela</option>
+                          <option value="VN">Vietnam</option>
+                          <option value="WF">Wallis and Futuna</option>
+                          <option value="EH">Western Sahara</option>
+                          <option value="YE">Yemen</option>
+                          <option value="ZM">Zambia</option>
+                          <option value="ZW">Zimbabwe</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtTelephoneShipping" class="col-sm-3 col-md-4 control-label">Telephone</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtTelephoneShipping" name="txtTelephoneShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFaxShipping" class="col-sm-3 col-md-4 control-label">Fax</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtFaxShipping" name="txtFaxShipping" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+              <h3>Payment Information</h3>
+              <fieldset>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtNameCard" class="col-sm-3 col-md-4 control-label">Name on Card</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtNameCard" name="txtNameCard" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="ddlCreditCardType" class="col-sm-3 col-md-4 control-label">Credit Card Type</label>
+                      <div class="col-sm-9 col-md-8">
+                        <select id="ddlCreditCardType" name="ddlCreditCardType" class="form-control">
+                          <option value="">--Please Select--</option>
+                          <option value="AE">American Express</option>
+                          <option value="VI">Visa</option>
+                          <option value="MC">MasterCard</option>
+                          <option value="DI">Discover</option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCreditCardNumber" class="col-sm-3 col-md-4 control-label">Credit Card Number</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtCreditCardNumber" name="txtCreditCardNumber" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCardVerificationNumber" class="col-sm-3 col-md-4 control-label">Card Verification Number</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtCardVerificationNumber" name="txtCardVerificationNumber" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtExpirationDate" class="col-sm-3 col-md-4 control-label">Expiration Date</label>
+                      <div class="col-sm-9 col-md-8">
+                        <input id="txtExpirationDate" name="txtExpirationDate" type="text" class="form-control">
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+              <h3>Order Review</h3>
+              <fieldset>
+                <table class="table table-bordered">
+                  <thead>
+                    <tr>
+                      <th style="width:10%">#</th>
+                      <th style="width:40%">Product Name</th>
+                      <th style="width:15%">Price</th>
+                      <th style="width:15%">Qty</th>
+                      <th style="width:20%">Subtotal</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>Samsung Galaxy S7 Edge</td>
+                      <td class="text-right">$899.00</td>
+                      <td class="text-right">1</td>
+                      <td class="text-right">$899.00</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>Apple Iphone 6S Pus</td>
+                      <td class="text-right">$999.00</td>
+                      <td class="text-right">1</td>
+                      <td class="text-right">$999.00</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Sony Xperia X Performance</td>
+                      <td class="text-right">$799.00</td>
+                      <td class="text-right">1</td>
+                      <td class="text-right">$799.00</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" class="text-right">Subtotal</td>
+                      <td class="text-right">$2597.00</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" class="text-right">Shipping & Handling</td>
+                      <td class="text-right">$10.00</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" class="text-right">Grand Total</td>
+                      <td class="text-right">$2607.00</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+        <div class="widget">
+          <div class="widget-heading">
+            <h3 class="widget-title">Vertical Steps</h3>
+          </div>
+          <div class="widget-body">
+            <form id="form-vertical">
+              <h3>Billing Infomation</h3>
+              <fieldset>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFirstNameBillingVer">First Name</label>
+                      <input id="txtFirstNameBillingVer" name="txtFirstNameBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtLastNameBillingVer">Last Name</label>
+                      <input id="txtLastNameBillingVer" name="txtLastNameBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCompanyBillingVer">Company</label>
+                      <input id="txtCompanyBillingVer" name="txtCompanyBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtEmailAddressBillingVer">Email Address</label>
+                      <input id="txtEmailAddressBillingVer" name="txtEmailAddressBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress1BillingVer">Address 1</label>
+                      <textarea id="txtAddress1BillingVer" name="txtAddress1BillingVer" class="form-control"></textarea>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress2BillingVer">Address 2</label>
+                      <textarea id="txtAddress2BillingVer" name="txtAddress2BillingVer" class="form-control"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCityBillingVer">City</label>
+                      <input id="txtCityBillingVer" name="txtCityBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtStateProvinceBillingVer">State/Province</label>
+                      <input id="txtStateProvinceBillingVer" name="txtStateProvinceBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtZipPostalBillingVer">Zip/Postal Code</label>
+                      <input id="txtZipPostalBillingVer" name="txtZipPostalBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="ddlCountryBillingVer">Country</label>
+                      <select id="ddlCountryBillingVer" name="ddlCountryBillingVer" class="form-control">
+                        <option value="">--Please Select</option>
+                        <option value="AF">Afghanistan</option>
+                        <option value="AX">Åland Islands</option>
+                        <option value="AL">Albania</option>
+                        <option value="DZ">Algeria</option>
+                        <option value="AS">American Samoa</option>
+                        <option value="AD">Andorra</option>
+                        <option value="AO">Angola</option>
+                        <option value="AI">Anguilla</option>
+                        <option value="AQ">Antarctica</option>
+                        <option value="AG">Antigua and Barbuda</option>
+                        <option value="AR">Argentina</option>
+                        <option value="AM">Armenia</option>
+                        <option value="AW">Aruba</option>
+                        <option value="AU">Australia</option>
+                        <option value="AT">Austria</option>
+                        <option value="AZ">Azerbaijan</option>
+                        <option value="BS">Bahamas</option>
+                        <option value="BH">Bahrain</option>
+                        <option value="BD">Bangladesh</option>
+                        <option value="BB">Barbados</option>
+                        <option value="BY">Belarus</option>
+                        <option value="BE">Belgium</option>
+                        <option value="BZ">Belize</option>
+                        <option value="BJ">Benin</option>
+                        <option value="BM">Bermuda</option>
+                        <option value="BT">Bhutan</option>
+                        <option value="BO">Bolivia</option>
+                        <option value="BA">Bosnia and Herzegovina</option>
+                        <option value="BW">Botswana</option>
+                        <option value="BV">Bouvet Island</option>
+                        <option value="BR">Brazil</option>
+                        <option value="IO">British Indian Ocean Territory</option>
+                        <option value="VG">British Virgin Islands</option>
+                        <option value="BN">Brunei</option>
+                        <option value="BG">Bulgaria</option>
+                        <option value="BF">Burkina Faso</option>
+                        <option value="BI">Burundi</option>
+                        <option value="KH">Cambodia</option>
+                        <option value="CM">Cameroon</option>
+                        <option value="CA">Canada</option>
+                        <option value="CV">Cape Verde</option>
+                        <option value="KY">Cayman Islands</option>
+                        <option value="CF">Central African Republic</option>
+                        <option value="TD">Chad</option>
+                        <option value="CL">Chile</option>
+                        <option value="CN">China</option>
+                        <option value="CX">Christmas Island</option>
+                        <option value="CC">Cocos [Keeling] Islands</option>
+                        <option value="CO">Colombia</option>
+                        <option value="KM">Comoros</option>
+                        <option value="CG">Congo - Brazzaville</option>
+                        <option value="CD">Congo - Kinshasa</option>
+                        <option value="CK">Cook Islands</option>
+                        <option value="CR">Costa Rica</option>
+                        <option value="CI">Côte d’Ivoire</option>
+                        <option value="HR">Croatia</option>
+                        <option value="CU">Cuba</option>
+                        <option value="CY">Cyprus</option>
+                        <option value="CZ">Czech Republic</option>
+                        <option value="DK">Denmark</option>
+                        <option value="DJ">Djibouti</option>
+                        <option value="DM">Dominica</option>
+                        <option value="DO">Dominican Republic</option>
+                        <option value="EC">Ecuador</option>
+                        <option value="EG">Egypt</option>
+                        <option value="SV">El Salvador</option>
+                        <option value="GQ">Equatorial Guinea</option>
+                        <option value="ER">Eritrea</option>
+                        <option value="EE">Estonia</option>
+                        <option value="ET">Ethiopia</option>
+                        <option value="FK">Falkland Islands</option>
+                        <option value="FO">Faroe Islands</option>
+                        <option value="FJ">Fiji</option>
+                        <option value="FI">Finland</option>
+                        <option value="FR">France</option>
+                        <option value="GF">French Guiana</option>
+                        <option value="PF">French Polynesia</option>
+                        <option value="TF">French Southern Territories</option>
+                        <option value="GA">Gabon</option>
+                        <option value="GM">Gambia</option>
+                        <option value="GE">Georgia</option>
+                        <option value="DE">Germany</option>
+                        <option value="GH">Ghana</option>
+                        <option value="GI">Gibraltar</option>
+                        <option value="GR">Greece</option>
+                        <option value="GL">Greenland</option>
+                        <option value="GD">Grenada</option>
+                        <option value="GP">Guadeloupe</option>
+                        <option value="GU">Guam</option>
+                        <option value="GT">Guatemala</option>
+                        <option value="GG">Guernsey</option>
+                        <option value="GN">Guinea</option>
+                        <option value="GW">Guinea-Bissau</option>
+                        <option value="GY">Guyana</option>
+                        <option value="HT">Haiti</option>
+                        <option value="HM">Heard Island and McDonald Islands</option>
+                        <option value="HN">Honduras</option>
+                        <option value="HK">Hong Kong SAR China</option>
+                        <option value="HU">Hungary</option>
+                        <option value="IS">Iceland</option>
+                        <option value="IN">India</option>
+                        <option value="ID">Indonesia</option>
+                        <option value="IR">Iran</option>
+                        <option value="IQ">Iraq</option>
+                        <option value="IE">Ireland</option>
+                        <option value="IM">Isle of Man</option>
+                        <option value="IL">Israel</option>
+                        <option value="IT">Italy</option>
+                        <option value="JM">Jamaica</option>
+                        <option value="JP">Japan</option>
+                        <option value="JE">Jersey</option>
+                        <option value="JO">Jordan</option>
+                        <option value="KZ">Kazakhstan</option>
+                        <option value="KE">Kenya</option>
+                        <option value="KI">Kiribati</option>
+                        <option value="KW">Kuwait</option>
+                        <option value="KG">Kyrgyzstan</option>
+                        <option value="LA">Laos</option>
+                        <option value="LV">Latvia</option>
+                        <option value="LB">Lebanon</option>
+                        <option value="LS">Lesotho</option>
+                        <option value="LR">Liberia</option>
+                        <option value="LY">Libya</option>
+                        <option value="LI">Liechtenstein</option>
+                        <option value="LT">Lithuania</option>
+                        <option value="LU">Luxembourg</option>
+                        <option value="MO">Macau SAR China</option>
+                        <option value="MK">Macedonia</option>
+                        <option value="MG">Madagascar</option>
+                        <option value="MW">Malawi</option>
+                        <option value="MY">Malaysia</option>
+                        <option value="MV">Maldives</option>
+                        <option value="ML">Mali</option>
+                        <option value="MT">Malta</option>
+                        <option value="MH">Marshall Islands</option>
+                        <option value="MQ">Martinique</option>
+                        <option value="MR">Mauritania</option>
+                        <option value="MU">Mauritius</option>
+                        <option value="YT">Mayotte</option>
+                        <option value="MX">Mexico</option>
+                        <option value="FM">Micronesia</option>
+                        <option value="MD">Moldova</option>
+                        <option value="MC">Monaco</option>
+                        <option value="MN">Mongolia</option>
+                        <option value="ME">Montenegro</option>
+                        <option value="MS">Montserrat</option>
+                        <option value="MA">Morocco</option>
+                        <option value="MZ">Mozambique</option>
+                        <option value="MM">Myanmar [Burma]</option>
+                        <option value="NA">Namibia</option>
+                        <option value="NR">Nauru</option>
+                        <option value="NP">Nepal</option>
+                        <option value="NL">Netherlands</option>
+                        <option value="AN">Netherlands Antilles</option>
+                        <option value="NC">New Caledonia</option>
+                        <option value="NZ">New Zealand</option>
+                        <option value="NI">Nicaragua</option>
+                        <option value="NE">Niger</option>
+                        <option value="NG">Nigeria</option>
+                        <option value="NU">Niue</option>
+                        <option value="NF">Norfolk Island</option>
+                        <option value="MP">Northern Mariana Islands</option>
+                        <option value="KP">North Korea</option>
+                        <option value="NO">Norway</option>
+                        <option value="OM">Oman</option>
+                        <option value="PK">Pakistan</option>
+                        <option value="PW">Palau</option>
+                        <option value="PS">Palestinian Territories</option>
+                        <option value="PA">Panama</option>
+                        <option value="PG">Papua New Guinea</option>
+                        <option value="PY">Paraguay</option>
+                        <option value="PE">Peru</option>
+                        <option value="PH">Philippines</option>
+                        <option value="PN">Pitcairn Islands</option>
+                        <option value="PL">Poland</option>
+                        <option value="PT">Portugal</option>
+                        <option value="PR">Puerto Rico</option>
+                        <option value="QA">Qatar</option>
+                        <option value="RE">Réunion</option>
+                        <option value="RO">Romania</option>
+                        <option value="RU">Russia</option>
+                        <option value="RW">Rwanda</option>
+                        <option value="BL">Saint Barthélemy</option>
+                        <option value="SH">Saint Helena</option>
+                        <option value="KN">Saint Kitts and Nevis</option>
+                        <option value="LC">Saint Lucia</option>
+                        <option value="MF">Saint Martin</option>
+                        <option value="PM">Saint Pierre and Miquelon</option>
+                        <option value="VC">Saint Vincent and the Grenadines</option>
+                        <option value="WS">Samoa</option>
+                        <option value="SM">San Marino</option>
+                        <option value="ST">São Tomé and Príncipe</option>
+                        <option value="SA">Saudi Arabia</option>
+                        <option value="SN">Senegal</option>
+                        <option value="RS">Serbia</option>
+                        <option value="SC">Seychelles</option>
+                        <option value="SL">Sierra Leone</option>
+                        <option value="SG">Singapore</option>
+                        <option value="SK">Slovakia</option>
+                        <option value="SI">Slovenia</option>
+                        <option value="SB">Solomon Islands</option>
+                        <option value="SO">Somalia</option>
+                        <option value="ZA">South Africa</option>
+                        <option value="GS">South Georgia and the South Sandwich Islands</option>
+                        <option value="KR">South Korea</option>
+                        <option value="ES">Spain</option>
+                        <option value="LK">Sri Lanka</option>
+                        <option value="SD">Sudan</option>
+                        <option value="SR">Suriname</option>
+                        <option value="SJ">Svalbard and Jan Mayen</option>
+                        <option value="SZ">Swaziland</option>
+                        <option value="SE">Sweden</option>
+                        <option value="CH">Switzerland</option>
+                        <option value="SY">Syria</option>
+                        <option value="TW">Taiwan</option>
+                        <option value="TJ">Tajikistan</option>
+                        <option value="TZ">Tanzania</option>
+                        <option value="TH">Thailand</option>
+                        <option value="TL">Timor-Leste</option>
+                        <option value="TG">Togo</option>
+                        <option value="TK">Tokelau</option>
+                        <option value="TO">Tonga</option>
+                        <option value="TT">Trinidad and Tobago</option>
+                        <option value="TN">Tunisia</option>
+                        <option value="TR">Turkey</option>
+                        <option value="TM">Turkmenistan</option>
+                        <option value="TC">Turks and Caicos Islands</option>
+                        <option value="TV">Tuvalu</option>
+                        <option value="UG">Uganda</option>
+                        <option value="UA">Ukraine</option>
+                        <option value="AE">United Arab Emirates</option>
+                        <option value="GB">United Kingdom</option>
+                        <option value="US">United States</option>
+                        <option value="UY">Uruguay</option>
+                        <option value="UM">U.S. Minor Outlying Islands</option>
+                        <option value="VI">U.S. Virgin Islands</option>
+                        <option value="UZ">Uzbekistan</option>
+                        <option value="VU">Vanuatu</option>
+                        <option value="VA">Vatican City</option>
+                        <option value="VE">Venezuela</option>
+                        <option value="VN">Vietnam</option>
+                        <option value="WF">Wallis and Futuna</option>
+                        <option value="EH">Western Sahara</option>
+                        <option value="YE">Yemen</option>
+                        <option value="ZM">Zambia</option>
+                        <option value="ZW">Zimbabwe</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtTelephoneBillingVer">Telephone</label>
+                      <input id="txtTelephoneBillingVer" name="txtTelephoneBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFaxBillingVer">Fax</label>
+                      <input id="txtFaxBillingVer" name="txtFaxBillingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+              <h3>Shipping Information</h3>
+              <fieldset>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFirstNameShippingVer">First Name</label>
+                      <input id="txtFirstNameShippingVer" name="txtFirstNameShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtLastNameShippingVer">Last Name</label>
+                      <input id="txtLastNameShippingVer" name="txtLastNameShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCompanyShippingVer">Company</label>
+                      <input id="txtCompanyShippingVer" name="txtCompanyShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtEmailAddressShippingVer">Email Address</label>
+                      <input id="txtEmailAddressShippingVer" name="txtEmailAddressShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress1ShippingVer">Address 1</label>
+                      <textarea id="txtAddress1ShippingVer" name="txtAddress1ShippingVer" class="form-control"></textarea>
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtAddress2ShippingVer">Address 2</label>
+                      <textarea id="txtAddress2ShippingVer" name="txtAddress2ShippingVer" class="form-control"></textarea>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCityShippingVer">City</label>
+                      <input id="txtCityShippingVer" name="txtCityShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtStateProvinceShippingVer">State/Province</label>
+                      <input id="txtStateProvinceShippingVer" name="txtStateProvinceShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtZipPostalShippingVer">Zip/Postal Code</label>
+                      <input id="txtZipPostalShippingVer" name="txtZipPostalShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="ddlCountryShippingVer">Country</label>
+                      <select id="ddlCountryShippingVer" name="ddlCountryShippingVer" class="form-control">
+                        <option value="">--Please Select--</option>
+                        <option value="AF">Afghanistan</option>
+                        <option value="AX">Åland Islands</option>
+                        <option value="AL">Albania</option>
+                        <option value="DZ">Algeria</option>
+                        <option value="AS">American Samoa</option>
+                        <option value="AD">Andorra</option>
+                        <option value="AO">Angola</option>
+                        <option value="AI">Anguilla</option>
+                        <option value="AQ">Antarctica</option>
+                        <option value="AG">Antigua and Barbuda</option>
+                        <option value="AR">Argentina</option>
+                        <option value="AM">Armenia</option>
+                        <option value="AW">Aruba</option>
+                        <option value="AU">Australia</option>
+                        <option value="AT">Austria</option>
+                        <option value="AZ">Azerbaijan</option>
+                        <option value="BS">Bahamas</option>
+                        <option value="BH">Bahrain</option>
+                        <option value="BD">Bangladesh</option>
+                        <option value="BB">Barbados</option>
+                        <option value="BY">Belarus</option>
+                        <option value="BE">Belgium</option>
+                        <option value="BZ">Belize</option>
+                        <option value="BJ">Benin</option>
+                        <option value="BM">Bermuda</option>
+                        <option value="BT">Bhutan</option>
+                        <option value="BO">Bolivia</option>
+                        <option value="BA">Bosnia and Herzegovina</option>
+                        <option value="BW">Botswana</option>
+                        <option value="BV">Bouvet Island</option>
+                        <option value="BR">Brazil</option>
+                        <option value="IO">British Indian Ocean Territory</option>
+                        <option value="VG">British Virgin Islands</option>
+                        <option value="BN">Brunei</option>
+                        <option value="BG">Bulgaria</option>
+                        <option value="BF">Burkina Faso</option>
+                        <option value="BI">Burundi</option>
+                        <option value="KH">Cambodia</option>
+                        <option value="CM">Cameroon</option>
+                        <option value="CA">Canada</option>
+                        <option value="CV">Cape Verde</option>
+                        <option value="KY">Cayman Islands</option>
+                        <option value="CF">Central African Republic</option>
+                        <option value="TD">Chad</option>
+                        <option value="CL">Chile</option>
+                        <option value="CN">China</option>
+                        <option value="CX">Christmas Island</option>
+                        <option value="CC">Cocos [Keeling] Islands</option>
+                        <option value="CO">Colombia</option>
+                        <option value="KM">Comoros</option>
+                        <option value="CG">Congo - Brazzaville</option>
+                        <option value="CD">Congo - Kinshasa</option>
+                        <option value="CK">Cook Islands</option>
+                        <option value="CR">Costa Rica</option>
+                        <option value="CI">Côte d’Ivoire</option>
+                        <option value="HR">Croatia</option>
+                        <option value="CU">Cuba</option>
+                        <option value="CY">Cyprus</option>
+                        <option value="CZ">Czech Republic</option>
+                        <option value="DK">Denmark</option>
+                        <option value="DJ">Djibouti</option>
+                        <option value="DM">Dominica</option>
+                        <option value="DO">Dominican Republic</option>
+                        <option value="EC">Ecuador</option>
+                        <option value="EG">Egypt</option>
+                        <option value="SV">El Salvador</option>
+                        <option value="GQ">Equatorial Guinea</option>
+                        <option value="ER">Eritrea</option>
+                        <option value="EE">Estonia</option>
+                        <option value="ET">Ethiopia</option>
+                        <option value="FK">Falkland Islands</option>
+                        <option value="FO">Faroe Islands</option>
+                        <option value="FJ">Fiji</option>
+                        <option value="FI">Finland</option>
+                        <option value="FR">France</option>
+                        <option value="GF">French Guiana</option>
+                        <option value="PF">French Polynesia</option>
+                        <option value="TF">French Southern Territories</option>
+                        <option value="GA">Gabon</option>
+                        <option value="GM">Gambia</option>
+                        <option value="GE">Georgia</option>
+                        <option value="DE">Germany</option>
+                        <option value="GH">Ghana</option>
+                        <option value="GI">Gibraltar</option>
+                        <option value="GR">Greece</option>
+                        <option value="GL">Greenland</option>
+                        <option value="GD">Grenada</option>
+                        <option value="GP">Guadeloupe</option>
+                        <option value="GU">Guam</option>
+                        <option value="GT">Guatemala</option>
+                        <option value="GG">Guernsey</option>
+                        <option value="GN">Guinea</option>
+                        <option value="GW">Guinea-Bissau</option>
+                        <option value="GY">Guyana</option>
+                        <option value="HT">Haiti</option>
+                        <option value="HM">Heard Island and McDonald Islands</option>
+                        <option value="HN">Honduras</option>
+                        <option value="HK">Hong Kong SAR China</option>
+                        <option value="HU">Hungary</option>
+                        <option value="IS">Iceland</option>
+                        <option value="IN">India</option>
+                        <option value="ID">Indonesia</option>
+                        <option value="IR">Iran</option>
+                        <option value="IQ">Iraq</option>
+                        <option value="IE">Ireland</option>
+                        <option value="IM">Isle of Man</option>
+                        <option value="IL">Israel</option>
+                        <option value="IT">Italy</option>
+                        <option value="JM">Jamaica</option>
+                        <option value="JP">Japan</option>
+                        <option value="JE">Jersey</option>
+                        <option value="JO">Jordan</option>
+                        <option value="KZ">Kazakhstan</option>
+                        <option value="KE">Kenya</option>
+                        <option value="KI">Kiribati</option>
+                        <option value="KW">Kuwait</option>
+                        <option value="KG">Kyrgyzstan</option>
+                        <option value="LA">Laos</option>
+                        <option value="LV">Latvia</option>
+                        <option value="LB">Lebanon</option>
+                        <option value="LS">Lesotho</option>
+                        <option value="LR">Liberia</option>
+                        <option value="LY">Libya</option>
+                        <option value="LI">Liechtenstein</option>
+                        <option value="LT">Lithuania</option>
+                        <option value="LU">Luxembourg</option>
+                        <option value="MO">Macau SAR China</option>
+                        <option value="MK">Macedonia</option>
+                        <option value="MG">Madagascar</option>
+                        <option value="MW">Malawi</option>
+                        <option value="MY">Malaysia</option>
+                        <option value="MV">Maldives</option>
+                        <option value="ML">Mali</option>
+                        <option value="MT">Malta</option>
+                        <option value="MH">Marshall Islands</option>
+                        <option value="MQ">Martinique</option>
+                        <option value="MR">Mauritania</option>
+                        <option value="MU">Mauritius</option>
+                        <option value="YT">Mayotte</option>
+                        <option value="MX">Mexico</option>
+                        <option value="FM">Micronesia</option>
+                        <option value="MD">Moldova</option>
+                        <option value="MC">Monaco</option>
+                        <option value="MN">Mongolia</option>
+                        <option value="ME">Montenegro</option>
+                        <option value="MS">Montserrat</option>
+                        <option value="MA">Morocco</option>
+                        <option value="MZ">Mozambique</option>
+                        <option value="MM">Myanmar [Burma]</option>
+                        <option value="NA">Namibia</option>
+                        <option value="NR">Nauru</option>
+                        <option value="NP">Nepal</option>
+                        <option value="NL">Netherlands</option>
+                        <option value="AN">Netherlands Antilles</option>
+                        <option value="NC">New Caledonia</option>
+                        <option value="NZ">New Zealand</option>
+                        <option value="NI">Nicaragua</option>
+                        <option value="NE">Niger</option>
+                        <option value="NG">Nigeria</option>
+                        <option value="NU">Niue</option>
+                        <option value="NF">Norfolk Island</option>
+                        <option value="MP">Northern Mariana Islands</option>
+                        <option value="KP">North Korea</option>
+                        <option value="NO">Norway</option>
+                        <option value="OM">Oman</option>
+                        <option value="PK">Pakistan</option>
+                        <option value="PW">Palau</option>
+                        <option value="PS">Palestinian Territories</option>
+                        <option value="PA">Panama</option>
+                        <option value="PG">Papua New Guinea</option>
+                        <option value="PY">Paraguay</option>
+                        <option value="PE">Peru</option>
+                        <option value="PH">Philippines</option>
+                        <option value="PN">Pitcairn Islands</option>
+                        <option value="PL">Poland</option>
+                        <option value="PT">Portugal</option>
+                        <option value="PR">Puerto Rico</option>
+                        <option value="QA">Qatar</option>
+                        <option value="RE">Réunion</option>
+                        <option value="RO">Romania</option>
+                        <option value="RU">Russia</option>
+                        <option value="RW">Rwanda</option>
+                        <option value="BL">Saint Barthélemy</option>
+                        <option value="SH">Saint Helena</option>
+                        <option value="KN">Saint Kitts and Nevis</option>
+                        <option value="LC">Saint Lucia</option>
+                        <option value="MF">Saint Martin</option>
+                        <option value="PM">Saint Pierre and Miquelon</option>
+                        <option value="VC">Saint Vincent and the Grenadines</option>
+                        <option value="WS">Samoa</option>
+                        <option value="SM">San Marino</option>
+                        <option value="ST">São Tomé and Príncipe</option>
+                        <option value="SA">Saudi Arabia</option>
+                        <option value="SN">Senegal</option>
+                        <option value="RS">Serbia</option>
+                        <option value="SC">Seychelles</option>
+                        <option value="SL">Sierra Leone</option>
+                        <option value="SG">Singapore</option>
+                        <option value="SK">Slovakia</option>
+                        <option value="SI">Slovenia</option>
+                        <option value="SB">Solomon Islands</option>
+                        <option value="SO">Somalia</option>
+                        <option value="ZA">South Africa</option>
+                        <option value="GS">South Georgia and the South Sandwich Islands</option>
+                        <option value="KR">South Korea</option>
+                        <option value="ES">Spain</option>
+                        <option value="LK">Sri Lanka</option>
+                        <option value="SD">Sudan</option>
+                        <option value="SR">Suriname</option>
+                        <option value="SJ">Svalbard and Jan Mayen</option>
+                        <option value="SZ">Swaziland</option>
+                        <option value="SE">Sweden</option>
+                        <option value="CH">Switzerland</option>
+                        <option value="SY">Syria</option>
+                        <option value="TW">Taiwan</option>
+                        <option value="TJ">Tajikistan</option>
+                        <option value="TZ">Tanzania</option>
+                        <option value="TH">Thailand</option>
+                        <option value="TL">Timor-Leste</option>
+                        <option value="TG">Togo</option>
+                        <option value="TK">Tokelau</option>
+                        <option value="TO">Tonga</option>
+                        <option value="TT">Trinidad and Tobago</option>
+                        <option value="TN">Tunisia</option>
+                        <option value="TR">Turkey</option>
+                        <option value="TM">Turkmenistan</option>
+                        <option value="TC">Turks and Caicos Islands</option>
+                        <option value="TV">Tuvalu</option>
+                        <option value="UG">Uganda</option>
+                        <option value="UA">Ukraine</option>
+                        <option value="AE">United Arab Emirates</option>
+                        <option value="GB">United Kingdom</option>
+                        <option value="US">United States</option>
+                        <option value="UY">Uruguay</option>
+                        <option value="UM">U.S. Minor Outlying Islands</option>
+                        <option value="VI">U.S. Virgin Islands</option>
+                        <option value="UZ">Uzbekistan</option>
+                        <option value="VU">Vanuatu</option>
+                        <option value="VA">Vatican City</option>
+                        <option value="VE">Venezuela</option>
+                        <option value="VN">Vietnam</option>
+                        <option value="WF">Wallis and Futuna</option>
+                        <option value="EH">Western Sahara</option>
+                        <option value="YE">Yemen</option>
+                        <option value="ZM">Zambia</option>
+                        <option value="ZW">Zimbabwe</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtTelephoneShippingVer">Telephone</label>
+                      <input id="txtTelephoneShippingVer" name="txtTelephoneShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtFaxShippingVer">Fax</label>
+                      <input id="txtFaxShippingVer" name="txtFaxShippingVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+              <h3>Payment Information</h3>
+              <fieldset>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtNameCardVer">Name on Card</label>
+                      <input id="txtNameCardVer" name="txtNameCardVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="ddlCreditCardTypeVer">Credit Card Type</label>
+                      <select id="ddlCreditCardTypeVer" name="ddlCreditCardTypeVer" class="form-control">
+                        <option value="">--Please Select--</option>
+                        <option value="AE">American Express</option>
+                        <option value="VI">Visa</option>
+                        <option value="MC">MasterCard</option>
+                        <option value="DI">Discover</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCreditCardNumberVer">Credit Card Number</label>
+                      <input id="txtCreditCardNumberVer" name="txtCreditCardNumberVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtCardVerificationNumberVer">Card Verification Number</label>
+                      <input id="txtCardVerificationNumberVer" name="txtCardVerificationNumberVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="form-group">
+                      <label for="txtExpirationDateVer">Expiration Date</label>
+                      <input id="txtExpirationDateVer" name="txtExpirationDateVer" type="text" class="form-control">
+                    </div>
+                  </div>
+                </div>
+              </fieldset>
+              <h3>Order Review</h3>
+              <fieldset>
+                <table class="table table-bordered">
+                  <thead>
+                    <tr>
+                      <th style="width:10%">#</th>
+                      <th style="width:40%">Product Name</th>
+                      <th style="width:15%">Price</th>
+                      <th style="width:15%">Qty</th>
+                      <th style="width:20%">Subtotal</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th scope="row">1</th>
+                      <td>Samsung Galaxy S7 Edge</td>
+                      <td class="text-right">$899.00</td>
+                      <td class="text-right">1</td>
+                      <td class="text-right">$899.00</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">2</th>
+                      <td>Apple Iphone 6S Pus</td>
+                      <td class="text-right">$999.00</td>
+                      <td class="text-right">1</td>
+                      <td class="text-right">$999.00</td>
+                    </tr>
+                    <tr>
+                      <th scope="row">3</th>
+                      <td>Sony Xperia X Performance</td>
+                      <td class="text-right">$799.00</td>
+                      <td class="text-right">1</td>
+                      <td class="text-right">$799.00</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" class="text-right">Subtotal</td>
+                      <td class="text-right">$2597.00</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" class="text-right">Shipping & Handling</td>
+                      <td class="text-right">$10.00</td>
+                    </tr>
+                    <tr>
+                      <td colspan="4" class="text-right">Grand Total</td>
+                      <td class="text-right">$2607.00</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </fieldset>
+            </form>
+          </div>
+        </div>
+        <h3>Data Tables</h3>
+        <div class="widget">
+          <div class="widget-heading">
+            <h3 class="widget-title">Select</h3>
+          </div>
+          <div class="widget-body">
+            <table id="example-6" cellspacing="0" width="100%" class="table table-striped table-bordered">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Position</th>
+                  <th>Office</th>
+                  <th>Age</th>
+                  <th>Start date</th>
+                  <th>Salary</th>
+                </tr>
+              </thead>
+              <tfoot>
+                <tr>
+                  <th>Name</th>
+                  <th>Position</th>
+                  <th>Office</th>
+                  <th>Age</th>
+                  <th>Start date</th>
+                  <th>Salary</th>
+                </tr>
+              </tfoot>
+              <tbody>
+                <tr>
+                  <td>Tiger Nixon</td>
+                  <td>System Architect</td>
+                  <td>Edinburgh</td>
+                  <td>61</td>
+                  <td>2011/04/25</td>
+                  <td>$320,800</td>
+                </tr>
+                <tr>
+                  <td>Garrett Winters</td>
+                  <td>Accountant</td>
+                  <td>Tokyo</td>
+                  <td>63</td>
+                  <td>2011/07/25</td>
+                  <td>$170,750</td>
+                </tr>
+                <tr>
+                  <td>Ashton Cox</td>
+                  <td>Junior Technical Author</td>
+                  <td>San Francisco</td>
+                  <td>66</td>
+                  <td>2009/01/12</td>
+                  <td>$86,000</td>
+                </tr>
+                <tr>
+                  <td>Cedric Kelly</td>
+                  <td>Senior Javascript Developer</td>
+                  <td>Edinburgh</td>
+                  <td>22</td>
+                  <td>2012/03/29</td>
+                  <td>$433,060</td>
+                </tr>
+                <tr>
+                  <td>Airi Satou</td>
+                  <td>Accountant</td>
+                  <td>Tokyo</td>
+                  <td>33</td>
+                  <td>2008/11/28</td>
+                  <td>$162,700</td>
+                </tr>
+                <tr>
+                  <td>Brielle Williamson</td>
+                  <td>Integration Specialist</td>
+                  <td>New York</td>
+                  <td>61</td>
+                  <td>2012/12/02</td>
+                  <td>$372,000</td>
+                </tr>
+                <tr>
+                  <td>Herrod Chandler</td>
+                  <td>Sales Assistant</td>
+                  <td>San Francisco</td>
+                  <td>59</td>
+                  <td>2012/08/06</td>
+                  <td>$137,500</td>
+                </tr>
+                <tr>
+                  <td>Rhona Davidson</td>
+                  <td>Integration Specialist</td>
+                  <td>Tokyo</td>
+                  <td>55</td>
+                  <td>2010/10/14</td>
+                  <td>$327,900</td>
+                </tr>
+                <tr>
+                  <td>Colleen Hurst</td>
+                  <td>Javascript Developer</td>
+                  <td>San Francisco</td>
+                  <td>39</td>
+                  <td>2009/09/15</td>
+                  <td>$205,500</td>
+                </tr>
+                <tr>
+                  <td>Sonya Frost</td>
+                  <td>Software Engineer</td>
+                  <td>Edinburgh</td>
+                  <td>23</td>
+                  <td>2008/12/13</td>
+                  <td>$103,600</td>
+                </tr>
+                <tr>
+                  <td>Jena Gaines</td>
+                  <td>Office Manager</td>
+                  <td>London</td>
+                  <td>30</td>
+                  <td>2008/12/19</td>
+                  <td>$90,560</td>
+                </tr>
+                <tr>
+                  <td>Quinn Flynn</td>
+                  <td>Support Lead</td>
+                  <td>Edinburgh</td>
+                  <td>22</td>
+                  <td>2013/03/03</td>
+                  <td>$342,000</td>
+                </tr>
+                <tr>
+                  <td>Charde Marshall</td>
+                  <td>Regional Director</td>
+                  <td>San Francisco</td>
+                  <td>36</td>
+                  <td>2008/10/16</td>
+                  <td>$470,600</td>
+                </tr>
+                <tr>
+                  <td>Haley Kennedy</td>
+                  <td>Senior Marketing Designer</td>
+                  <td>London</td>
+                  <td>43</td>
+                  <td>2012/12/18</td>
+                  <td>$313,500</td>
+                </tr>
+                <tr>
+                  <td>Tatyana Fitzpatrick</td>
+                  <td>Regional Director</td>
+                  <td>London</td>
+                  <td>19</td>
+                  <td>2010/03/17</td>
+                  <td>$385,750</td>
+                </tr>
+                <tr>
+                  <td>Michael Silva</td>
+                  <td>Marketing Designer</td>
+                  <td>London</td>
+                  <td>66</td>
+                  <td>2012/11/27</td>
+                  <td>$198,500</td>
+                </tr>
+                <tr>
+                  <td>Paul Byrd</td>
+                  <td>Chief Financial Officer (CFO)</td>
+                  <td>New York</td>
+                  <td>64</td>
+                  <td>2010/06/09</td>
+                  <td>$725,000</td>
+                </tr>
+                <tr>
+                  <td>Gloria Little</td>
+                  <td>Systems Administrator</td>
+                  <td>New York</td>
+                  <td>59</td>
+                  <td>2009/04/10</td>
+                  <td>$237,500</td>
+                </tr>
+                <tr>
+                  <td>Bradley Greer</td>
+                  <td>Software Engineer</td>
+                  <td>London</td>
+                  <td>41</td>
+                  <td>2012/10/13</td>
+                  <td>$132,000</td>
+                </tr>
+                <tr>
+                  <td>Dai Rios</td>
+                  <td>Personnel Lead</td>
+                  <td>Edinburgh</td>
+                  <td>35</td>
+                  <td>2012/09/26</td>
+                  <td>$217,500</td>
+                </tr>
+                <tr>
+                  <td>Jenette Caldwell</td>
+                  <td>Development Lead</td>
+                  <td>New York</td>
+                  <td>30</td>
+                  <td>2011/09/03</td>
+                  <td>$345,000</td>
+                </tr>
+                <tr>
+                  <td>Yuri Berry</td>
+                  <td>Chief Marketing Officer (CMO)</td>
+                  <td>New York</td>
+                  <td>40</td>
+                  <td>2009/06/25</td>
+                  <td>$675,000</td>
+                </tr>
+                <tr>
+                  <td>Caesar Vance</td>
+                  <td>Pre-Sales Support</td>
+                  <td>New York</td>
+                  <td>21</td>
+                  <td>2011/12/12</td>
+                  <td>$106,450</td>
+                </tr>
+                <tr>
+                  <td>Doris Wilder</td>
+                  <td>Sales Assistant</td>
+                  <td>Sidney</td>
+                  <td>23</td>
+                  <td>2010/09/20</td>
+                  <td>$85,600</td>
+                </tr>
+                <tr>
+                  <td>Angelica Ramos</td>
+                  <td>Chief Executive Officer (CEO)</td>
+                  <td>London</td>
+                  <td>47</td>
+                  <td>2009/10/09</td>
+                  <td>$1,200,000</td>
+                </tr>
+                <tr>
+                  <td>Gavin Joyce</td>
+                  <td>Developer</td>
+                  <td>Edinburgh</td>
+                  <td>42</td>
+                  <td>2010/12/22</td>
+                  <td>$92,575</td>
+                </tr>
+                <tr>
+                  <td>Jennifer Chang</td>
+                  <td>Regional Director</td>
+                  <td>Singapore</td>
+                  <td>28</td>
+                  <td>2010/11/14</td>
+                  <td>$357,650</td>
+                </tr>
+                <tr>
+                  <td>Brenden Wagner</td>
+                  <td>Software Engineer</td>
+                  <td>San Francisco</td>
+                  <td>28</td>
+                  <td>2011/06/07</td>
+                  <td>$206,850</td>
+                </tr>
+                <tr>
+                  <td>Fiona Green</td>
+                  <td>Chief Operating Officer (COO)</td>
+                  <td>San Francisco</td>
+                  <td>48</td>
+                  <td>2010/03/11</td>
+                  <td>$850,000</td>
+                </tr>
+                <tr>
+                  <td>Shou Itou</td>
+                  <td>Regional Marketing</td>
+                  <td>Tokyo</td>
+                  <td>20</td>
+                  <td>2011/08/14</td>
+                  <td>$163,000</td>
+                </tr>
+                <tr>
+                  <td>Michelle House</td>
+                  <td>Integration Specialist</td>
+                  <td>Sidney</td>
+                  <td>37</td>
+                  <td>2011/06/02</td>
+                  <td>$95,400</td>
+                </tr>
+                <tr>
+                  <td>Suki Burks</td>
+                  <td>Developer</td>
+                  <td>London</td>
+                  <td>53</td>
+                  <td>2009/10/22</td>
+                  <td>$114,500</td>
+                </tr>
+                <tr>
+                  <td>Prescott Bartlett</td>
+                  <td>Technical Author</td>
+                  <td>London</td>
+                  <td>27</td>
+                  <td>2011/05/07</td>
+                  <td>$145,000</td>
+                </tr>
+                <tr>
+                  <td>Gavin Cortez</td>
+                  <td>Team Leader</td>
+                  <td>San Francisco</td>
+                  <td>22</td>
+                  <td>2008/10/26</td>
+                  <td>$235,500</td>
+                </tr>
+                <tr>
+                  <td>Martena Mccray</td>
+                  <td>Post-Sales support</td>
+                  <td>Edinburgh</td>
+                  <td>46</td>
+                  <td>2011/03/09</td>
+                  <td>$324,050</td>
+                </tr>
+                <tr>
+                  <td>Unity Butler</td>
+                  <td>Marketing Designer</td>
+                  <td>San Francisco</td>
+                  <td>47</td>
+                  <td>2009/12/09</td>
+                  <td>$85,675</td>
+                </tr>
+                <tr>
+                  <td>Howard Hatfield</td>
+                  <td>Office Manager</td>
+                  <td>San Francisco</td>
+                  <td>51</td>
+                  <td>2008/12/16</td>
+                  <td>$164,500</td>
+                </tr>
+                <tr>
+                  <td>Hope Fuentes</td>
+                  <td>Secretary</td>
+                  <td>San Francisco</td>
+                  <td>41</td>
+                  <td>2010/02/12</td>
+                  <td>$109,850</td>
+                </tr>
+                <tr>
+                  <td>Vivian Harrell</td>
+                  <td>Financial Controller</td>
+                  <td>San Francisco</td>
+                  <td>62</td>
+                  <td>2009/02/14</td>
+                  <td>$452,500</td>
+                </tr>
+                <tr>
+                  <td>Timothy Mooney</td>
+                  <td>Office Manager</td>
+                  <td>London</td>
+                  <td>37</td>
+                  <td>2008/12/11</td>
+                  <td>$136,200</td>
+                </tr>
+                <tr>
+                  <td>Jackson Bradshaw</td>
+                  <td>Director</td>
+                  <td>New York</td>
+                  <td>65</td>
+                  <td>2008/09/26</td>
+                  <td>$645,750</td>
+                </tr>
+                <tr>
+                  <td>Olivia Liang</td>
+                  <td>Support Engineer</td>
+                  <td>Singapore</td>
+                  <td>64</td>
+                  <td>2011/02/03</td>
+                  <td>$234,500</td>
+                </tr>
+                <tr>
+                  <td>Bruno Nash</td>
+                  <td>Software Engineer</td>
+                  <td>London</td>
+                  <td>38</td>
+                  <td>2011/05/03</td>
+                  <td>$163,500</td>
+                </tr>
+                <tr>
+                  <td>Sakura Yamamoto</td>
+                  <td>Support Engineer</td>
+                  <td>Tokyo</td>
+                  <td>37</td>
+                  <td>2009/08/19</td>
+                  <td>$139,575</td>
+                </tr>
+                <tr>
+                  <td>Thor Walton</td>
+                  <td>Developer</td>
+                  <td>New York</td>
+                  <td>61</td>
+                  <td>2013/08/11</td>
+                  <td>$98,540</td>
+                </tr>
+                <tr>
+                  <td>Finn Camacho</td>
+                  <td>Support Engineer</td>
+                  <td>San Francisco</td>
+                  <td>47</td>
+                  <td>2009/07/07</td>
+                  <td>$87,500</td>
+                </tr>
+                <tr>
+                  <td>Serge Baldwin</td>
+                  <td>Data Coordinator</td>
+                  <td>Singapore</td>
+                  <td>64</td>
+                  <td>2012/04/09</td>
+                  <td>$138,575</td>
+                </tr>
+                <tr>
+                  <td>Zenaida Frank</td>
+                  <td>Software Engineer</td>
+                  <td>New York</td>
+                  <td>63</td>
+                  <td>2010/01/04</td>
+                  <td>$125,250</td>
+                </tr>
+                <tr>
+                  <td>Zorita Serrano</td>
+                  <td>Software Engineer</td>
+                  <td>San Francisco</td>
+                  <td>56</td>
+                  <td>2012/06/01</td>
+                  <td>$115,000</td>
+                </tr>
+                <tr>
+                  <td>Jennifer Acosta</td>
+                  <td>Junior Javascript Developer</td>
+                  <td>Edinburgh</td>
+                  <td>43</td>
+                  <td>2013/02/01</td>
+                  <td>$75,650</td>
+                </tr>
+                <tr>
+                  <td>Cara Stevens</td>
+                  <td>Sales Assistant</td>
+                  <td>New York</td>
+                  <td>46</td>
+                  <td>2011/12/06</td>
+                  <td>$145,600</td>
+                </tr>
+                <tr>
+                  <td>Hermione Butler</td>
+                  <td>Regional Director</td>
+                  <td>London</td>
+                  <td>47</td>
+                  <td>2011/03/21</td>
+                  <td>$356,250</td>
+                </tr>
+                <tr>
+                  <td>Lael Greer</td>
+                  <td>Systems Administrator</td>
+                  <td>London</td>
+                  <td>21</td>
+                  <td>2009/02/27</td>
+                  <td>$103,500</td>
+                </tr>
+                <tr>
+                  <td>Jonas Alexander</td>
+                  <td>Developer</td>
+                  <td>San Francisco</td>
+                  <td>30</td>
+                  <td>2010/07/14</td>
+                  <td>$86,500</td>
+                </tr>
+                <tr>
+                  <td>Shad Decker</td>
+                  <td>Regional Director</td>
+                  <td>Edinburgh</td>
+                  <td>51</td>
+                  <td>2008/11/13</td>
+                  <td>$183,000</td>
+                </tr>
+                <tr>
+                  <td>Michael Bruce</td>
+                  <td>Javascript Developer</td>
+                  <td>Singapore</td>
+                  <td>29</td>
+                  <td>2011/06/27</td>
+                  <td>$183,000</td>
+                </tr>
+                <tr>
+                  <td>Donna Snider</td>
+                  <td>Customer Support</td>
+                  <td>New York</td>
+                  <td>27</td>
+                  <td>2011/01/25</td>
+                  <td>$112,000</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- Work Here end-->
+    <!-- Right Sidebar start-->
+    <aside class="right-sidebar closed">
+      <h5 class="text-center m-0 p-20 fs-16">Chat List<a href="javascript:;" role="button" class="right-sidebar-toggle pull-right fs-14"><i class="ti-close text-muted"></i></a></h5>
+      <form class="mb-10 pl-20 pr-20">
+        <div class="form-group has-feedback mb-0">
+          <input type="text" aria-describedby="inputChatSearch" placeholder="Chat with..." class="form-control rounded"><span aria-hidden="true" class="ti-search form-control-feedback"></span><span id="inputChatSearch" class="sr-only">(default)</span>
+        </div>
+      </form>
+      <ul data-mcs-theme="minimal-dark" class="chat-list mb-0 fs-12 media-list mCustomScrollbar">
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/20.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Jane Curtis</h6>
+              <p class="text-muted mb-0">Where are you from?</p>
+            </div>
+            <div class="media-right"><span class="badge bg-danger">2</span></div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/01.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Edward Garcia</h6>
+              <p class="text-muted mb-0">Nice to meet you.</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/02.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Bruce Olson</h6>
+              <p class="text-muted mb-0">What do you want to do?</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/03.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Martha Rodriguez</h6>
+              <p class="text-muted mb-0">I'm hungry.</p>
+            </div>
+            <div class="media-right"><span class="badge bg-danger">1</span></div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/05.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Hannah Williamson</h6>
+              <p class="text-muted mb-0">Do you know the address?</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/06.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Anthony Mills</h6>
+              <p class="text-muted mb-0">No problem.</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/07.jpg" alt="" class="media-object img-circle"><span class="status bg-warning"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Ethan Stanley</h6>
+              <p class="text-muted mb-0">Hello?</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/08.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Jonathan Castro</h6>
+              <p class="text-muted mb-0">OK. Thanks.</p>
+            </div>
+            <div class="media-right"><span class="badge bg-danger">1</span></div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/09.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Denise Rose</h6>
+              <p class="text-muted mb-0">Bye bye.</p>
+            </div></a></li>
+        <li class="media"><a href="javascript:;" class="conversation-toggle">
+            <div class="media-left avatar"><img src="build/images/users/10.jpg" alt="" class="media-object img-circle"><span class="status bg-danger"></span></div>
+            <div class="media-body">
+              <h6 class="media-heading">Eugene Meyer</h6>
+              <p class="text-muted mb-0">How are you?</p>
+            </div></a></li>
+      </ul>
+    </aside>
+    <aside class="conversation closed">
+      <h5 class="text-center m-0 p-20">Edward Garcia<a href="javascript:;" class="conversation-toggle pull-left"><i class="ti-arrow-left text-muted"></i></a><a href="javascript:;" class="pull-right"><i class="ti-pencil text-muted"></i></a></h5>
+      <ul data-mcs-theme="minimal-dark" class="media-list chat-content fs-12 pl-20 pr-20 mCustomScrollbar">
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Hello.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">09:45 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>Hi.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">09:46 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>How are you?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">09:47 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>I'm good. How are you?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">09:50 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Good. Do you speak English?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">09:55 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>A little. Are you American?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">09:56 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Yes.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">10:00 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>Where are you from?</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">10:01 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>I'm from California.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">10:03 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+        <li class="media other">
+          <div class="media-body">
+            <p>Nice to meet you.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted pull-right">10:04 PM <i class="ti-check text-success"></i></time>
+          </div>
+          <div class="media-right avatar"><img src="build/images/users/18.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+        </li>
+        <li class="media">
+          <div class="media-left avatar"><img src="build/images/users/04.jpg" alt="" class="media-object img-circle"><span class="status bg-success"></span></div>
+          <div class="media-body">
+            <p>Nice to meet you too.</p>
+            <time datetime="2015-12-10T20:50:48+07:00" class="fs-11 text-muted">10:05 PM <i class="ti-check text-success"></i></time>
+          </div>
+        </li>
+      </ul>
+      <form class="pl-20 pr-20">
+        <div class="form-group has-feedback mb-0">
+          <input type="text" aria-describedby="inputSendMessage" placeholder="Sent a message" class="form-control rounded"><span aria-hidden="true" class="ti-pencil-alt form-control-feedback"></span><span id="inputSendMessage" class="sr-only">(default)</span>
+        </div>
+      </form>
+    </aside>
+    <!-- Right Sidebar end-->
+    <!-- Demo Settings start-->
+    <div class="setting closed"><a href="javascript:;" class="setting-toggle fs-16"><i class="ti-settings text-muted"></i></a>
+      <h4 class="fs-16 mt-0 mb-15">Demo settings</h4>
+      <form class="form-horizontal">
+        <div class="clearfix">
+          <h6 class="pull-left fs-13 fw-400">Fixed Header</h6>
+          <div class="switch pull-right">
+            <input id="fixed-header" type="checkbox">
+            <label for="fixed-header" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix">
+          <h6 class="pull-left fs-13 fw-400">Fixed Sidebar</h6>
+          <div class="switch pull-right">
+            <input id="fixed-sidebar" type="checkbox">
+            <label for="fixed-sidebar" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix hidden-xs">
+          <h6 class="pull-left fs-13 fw-400">Pinned Sidebar</h6>
+          <div class="switch pull-right">
+            <input id="pinned-sidebar" type="checkbox">
+            <label for="pinned-sidebar" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix hidden-xs">
+          <h6 class="pull-left fs-13 fw-400">Closed Sidebar</h6>
+          <div class="switch pull-right">
+            <input id="closed-sidebar" type="checkbox">
+            <label for="closed-sidebar" class="switch-success"></label>
+          </div>
+        </div>
+        <div class="clearfix">
+          <h6 class="pull-left fs-13 fw-400">Native Scrollbar</h6>
+          <div class="switch pull-right">
+            <input id="native-scrollbar" type="checkbox">
+            <label for="native-scrollbar" class="switch-success"></label>
+          </div>
+        </div>
+      </form>
+    </div>
+    <!-- Demo Settings end-->
+    <div tabindex="-1" role="dialog" aria-labelledby="composeMail" class="modal fade compose-mail-modal">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header bg-black">
+            <button type="button" data-dismiss="modal" aria-label="Close" class="close"><span aria-hidden="true">×</span></button>
+            <h4 id="composeMail" class="modal-title">Compose Message</h4>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <input id="exampleInputEmail" type="text" placeholder="To" class="form-control">
+              </div>
+              <div class="form-group">
+                <input id="exampleInputSubject" type="text" placeholder="Subject" class="form-control">
+              </div>
+              <textarea id="compose-mail"></textarea>
+              <div class="text-right">
+                <button type="button" data-dismiss="modal" class="btn btn-raised btn-default">Close</button>
+                <button type="button" class="btn btn-raised btn-black">Send Mail</button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- jQuery-->
+    <script type="text/javascript" src="plugins/jquery/dist/jquery.min.js"></script>
+    <!-- jQuery Cookie-->
+    <script type="text/javascript" src="plugins/jquery.cookie/jquery.cookie.js"></script>
+    <!-- Bootstrap JavaScript-->
+    <script type="text/javascript" src="plugins/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- jQuery Advanced News Ticker-->
+    <script type="text/javascript" src="plugins/jquery-advanced-news-ticker/js/newsTicker.js"></script>
+    <!-- Malihu Scrollbar-->
+    <script type="text/javascript" src="plugins/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
+    <!-- Animo.js-->
+    <script type="text/javascript" src="plugins/animo.js/animo.min.js"></script>
+    <!-- Bootstrap Progressbar-->
+    <script type="text/javascript" src="plugins/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+    <!-- jQuery Easy Pie Chart-->
+    <script type="text/javascript" src="plugins/jquery.easy-pie-chart/dist/jquery.easypiechart.min.js"></script>
+    <!-- Sparkline-->
+    <script type="text/javascript" src="plugins/kapusta-jquery.sparkline/dist/jquery.sparkline.min.js"></script>
+    <!-- Summernote-->
+    <script type="text/javascript" src="plugins/summernote/dist/summernote.min.js"></script>
+    <!-- MomentJS-->
+    <script type="text/javascript" src="plugins/moment/min/moment.min.js"></script>
+    <!-- Bootstrap DateTimePicker-->
+    <script type="text/javascript" src="plugins/eonasdan-bootstrap-datetimepicker/build/js/bootstrap-datetimepicker.min.js"></script>
+    <!-- Bootstrap Date Range Picker-->
+    <script type="text/javascript" src="plugins/bootstrap-daterangepicker/daterangepicker.js"></script>
+    <!-- jQuery Steps-->
+    <script type="text/javascript" src="plugins/jquery.steps/build/jquery.steps.min.js"></script>
+    <!-- DataTables-->
+    <script type="text/javascript" src="plugins/datatables.net/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="plugins/datatables.net-bs/js/dataTables.bootstrap.min.js"></script>
+    <script type="text/javascript" src="plugins/datatables.net-select/js/dataTables.select.min.js"></script>
+    <!-- Custom JS-->
+    <script type="text/javascript" src="build/js/app.js"></script>
+    <script type="text/javascript" src="build/js/demo.js"></script>
+    <script type="text/javascript" src="build/js/pages/blue-system.js"></script>
+  </body>
+</html>

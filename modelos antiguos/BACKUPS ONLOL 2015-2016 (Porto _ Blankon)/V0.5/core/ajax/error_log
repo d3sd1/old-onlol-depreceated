@@ -1,0 +1,30 @@
+[06-Jan-2016 02:08:49 Europe/Madrid] PHP Fatal error:  Call to undefined function mmr() in /home/sczhmszf/public_html/core/ajax/mmr.php on line 7
+[06-Jan-2016 02:45:45 Europe/Madrid] PHP Fatal error:  Call to undefined function mmr() in /home/sczhmszf/public_html/core/ajax/mmr.php on line 7
+[07-Jan-2016 09:32:39 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::updatesummoner_leagues() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 983
+[07-Jan-2016 09:32:40 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::mmr() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 137
+[07-Jan-2016 09:32:40 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::updatesummoner_rankedgames() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 984
+[07-Jan-2016 09:32:40 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::updatesummoner_last10matches() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 985
+[07-Jan-2016 09:32:41 Europe/Madrid] PHP Warning:  Missing argument 1 for datetounix(), called in /home/sczhmszf/public_html/core/class.php on line 454 and defined in /home/sczhmszf/public_html/core/class.php on line 1490
+[07-Jan-2016 09:32:41 Europe/Madrid] PHP Notice:  Undefined variable: str in /home/sczhmszf/public_html/core/class.php on line 1492
+[07-Jan-2016 09:32:41 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/sczhmszf/public_html/core/class.php:1493
+Stack trace:
+#0 /home/sczhmszf/public_html/core/class.php(1493): DateTime->__construct('@')
+#1 /home/sczhmszf/public_html/core/class.php(454): datetounix()
+#2 /home/sczhmszf/public_html/core/class.php(985): onlol::updatesummoner_last10matches(44089097, 'euw')
+#3 /home/sczhmszf/public_html/core/ajax/profile.php(7): summonerupdate('R2F Desdi', 'euw')
+#4 {main}
+  thrown in /home/sczhmszf/public_html/core/class.php on line 1493
+[07-Jan-2016 16:14:25 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::updatesummoner_leagues() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 983
+[07-Jan-2016 16:14:26 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::mmr() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 137
+[07-Jan-2016 16:14:26 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::updatesummoner_rankedgames() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 984
+[07-Jan-2016 16:14:26 Europe/Madrid] PHP Strict Standards:  Non-static method onlol::updatesummoner_last10matches() should not be called statically in /home/sczhmszf/public_html/core/class.php on line 985
+[07-Jan-2016 16:14:26 Europe/Madrid] PHP Warning:  Missing argument 1 for datetounix(), called in /home/sczhmszf/public_html/core/class.php on line 454 and defined in /home/sczhmszf/public_html/core/class.php on line 1490
+[07-Jan-2016 16:14:26 Europe/Madrid] PHP Notice:  Undefined variable: str in /home/sczhmszf/public_html/core/class.php on line 1492
+[07-Jan-2016 16:14:26 Europe/Madrid] PHP Fatal error:  Uncaught exception 'Exception' with message 'DateTime::__construct(): Failed to parse time string (@) at position 0 (@): Unexpected character' in /home/sczhmszf/public_html/core/class.php:1493
+Stack trace:
+#0 /home/sczhmszf/public_html/core/class.php(1493): DateTime->__construct('@')
+#1 /home/sczhmszf/public_html/core/class.php(454): datetounix()
+#2 /home/sczhmszf/public_html/core/class.php(985): onlol::updatesummoner_last10matches(50638126, 'euw')
+#3 /home/sczhmszf/public_html/core/ajax/profile.php(7): summonerupdate('chechi33', 'euw')
+#4 {main}
+  thrown in /home/sczhmszf/public_html/core/class.php on line 1493

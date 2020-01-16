@@ -1,0 +1,72 @@
+Dominio: onlol.net
+
+--------------PAGOS-------------
+Ewallet: neteller.com
+email: andreigarciacuadra@gmail.com
+pass: K******** (Asteriscos no literales, solo para ocultar el resto de la pass xd)
+Tarjeta: 5415 9160 5230 0113
+Caduca: 12/17
+CVC: 411
+----- DOMINIO ------
+Proveedor: clientes.1and1.es
+ID: 465792652
+pass: k********
+---- HOSTING -----
+Proveedor: manage.banahosting.com/clientarea.php
+email: andirexulon@gmail.com
+pass: k********
+Hosting Package: Bana Starter Deluxe Unlimited SSD
+Domain: onlol.net
+First Payment Amount: $0.49 USD
+Recurring Amount: $4.95 USD
+Billing Cycle: Monthly
+Next Due Date: 4th Feb 2016
+
+Login Details
+
+Control Panel URL: https://single2480a.banahosting.com:2083/
+Username: sczhmszf
+Password: hGxe4246Be
+
+
+Server Information
+
+Server Name: single2480 SSD
+
+If you are using an existing domain with your new hosting account, you will need to update the nameservers to point to the nameservers listed below.
+
+Nameserver 1: ns410.banahosting.com (69.175.114.146)
+Nameserver 2: ns411.banahosting.com (69.175.29.3)
+
+Uploading Your Website
+
+Temporarily you may use one of the addresses given below to manage your web site:
+
+Temporary FTP Hostname: 69.175.29.2
+Temporary Webpage URL: http://69.175.29.2/~sczhmszf/
+
+And once your domain has propagated you may use the details below:
+
+FTP Hostname: onlol.net
+Webpage URL: http://www.onlol.net
+
+Email Settings
+
+For email accounts that you setup, you should use the following connection details in your email program:
+
+POP3 Host Address: mail.onlol.net
+SMTP Host Address: mail.onlol.net
+Username: The email address you are checking email for
+Password: As specified in your control panel
+------------------- mysql ---------------------
+user: sczhmszf_root
+pass: ?t!uQ?Nx^TJZ
+database: sczhmszf_onlol
+-------------- webmail-------------
+login: https://single2480a.banahosting.com:2096
+usuarios:
+twitter@onlol.net
+N,d6=5ib-=K}
+------
+desdi@onlol.net
+k********

@@ -1,0 +1,39 @@
+[15-Apr-2016 01:03:35 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/44089097?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 01:03:35 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 01:03:36 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 01:03:36 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 01:03:36 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 01:03:36 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 01:03:50 Europe/Madrid] [class->config] CONSTANT_NOT_FOUND: profile_runes_interval
+[15-Apr-2016 01:03:51 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/44089097?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 01:03:51 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 10:25:55 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/42028159?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 10:25:55 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 10:25:56 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 10:25:56 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 10:25:56 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 10:25:56 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 10:26:03 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/42028159?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 10:26:03 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 10:26:04 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 10:26:04 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 10:26:04 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 10:26:04 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 10:45:46 Europe/Madrid] [class->config] CONSTANT_NOT_FOUND: played_with_interval
+[15-Apr-2016 10:45:46 Europe/Madrid] [readjson] BAD_REQUEST: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/32639747,68659392,29696581,25217716,53407438,57880458,20611607,71902546,50577902,24548880,61541222,54288266,30463455,53831986,30503175,43562223,22657513,60273221,70267572,46781128,38707202,75888280,35693259,38644364,71137452,77949573,45866799,20793187,76197652,21751901,21695470,35637164,38627613,30536811,20464038,21270257,60337438,20708516,23681044,26440847?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 10:45:47 Europe/Madrid] [readjson] BAD_REQUEST: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/30476096,20870092,27972389,32240114,40623702,85586854,22530300,22544081,20927222,85586802,45676961,33511495,47268602,56713162,22138941,33677964,34890842,46407718,33728761,42638733,20015899,47107503,34910160,58657827,61927738,54010207,36150933,60391702,43826193,30121684,72270040,58950422,71779695,34961681,29471748,19645844,40310475,49268239,57328590,40800445?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 11:13:49 Europe/Madrid] [class->config] CONSTANT_NOT_FOUND: profile_runes_interval
+[15-Apr-2016 11:13:49 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/44089097?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 11:13:49 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 11:13:59 Europe/Madrid] [class->config] CONSTANT_NOT_FOUND: profile_runes_interval
+[15-Apr-2016 11:14:00 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/44089097?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 11:14:00 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 11:14:04 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/44089097?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 11:14:04 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772
+[15-Apr-2016 11:14:05 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 11:14:05 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 259
+[15-Apr-2016 11:14:05 Europe/Madrid] PHP Notice:  Undefined index: pages in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 11:14:05 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/home/profile_runes.php on line 282
+[15-Apr-2016 13:50:28 Europe/Madrid] [class->config] CONSTANT_NOT_FOUND: profile_runes_interval
+[15-Apr-2016 13:50:29 Europe/Madrid] [readjson] UNDEFINED_ERROR -> 403: https://euw.api.pvp.net/observer-mode/rest/consumer/getSpectatorGameInfo/{{region_code}}/44089097?api_key=a91c969a-21ce-4466-b5cc-1b5aff8b22d7
+[15-Apr-2016 13:50:29 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/class/riot.php on line 772

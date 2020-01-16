@@ -1,0 +1,772 @@
+[13-Jan-2016 15:46:16 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/sczhmszf/public_html/core/ajax/contact.php on line 46
+[13-Jan-2016 15:46:20 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/sczhmszf/public_html/core/ajax/contact.php on line 46
+[13-Jan-2016 15:46:20 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/sczhmszf/public_html/core/ajax/contact.php on line 46
+[13-Jan-2016 15:55:15 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/sczhmszf/public_html/core/ajax/contact.php on line 46
+[13-Jan-2016 15:55:15 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/sczhmszf/public_html/core/ajax/contact.php on line 46
+[13-Jan-2016 15:55:15 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/sczhmszf/public_html/core/ajax/contact.php on line 46
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:14:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 8
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:15:54 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:35 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:16:47 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3866
+[13-Jan-2016 16:17:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:30 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3850
+[13-Jan-2016 16:17:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:17:50 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/sczhmszf/public_html/core/ajax/contact.php on line 3867
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:32 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:32 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:33 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:33 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:33 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:33 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:33 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:18:33 UTC] PHP Warning:  file_get_contents(contenido.html): failed to open stream: No such file or directory in /home/sczhmszf/public_html/core/ajax/contact.php on line 3853
+[13-Jan-2016 16:18:33 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3856
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:19:36 UTC] PHP Fatal error:  Call to undefined function SetFrom() in /home/sczhmszf/public_html/core/ajax/contact.php on line 3854
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[13-Jan-2016 16:34:54 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/sczhmszf/public_html/core/ajax/contact.php on line 34
+[15-Jan-2016 10:46:20 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 69
+[15-Jan-2016 10:46:20 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 34
+[15-Jan-2016 10:46:34 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 69
+[15-Jan-2016 10:46:34 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 34
+[15-Jan-2016 10:47:40 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:40 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:42 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:42 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:42 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:42 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:42 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:42 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:44 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:44 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:48 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:48 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:50 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:50 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:52 Europe/Madrid] PHP Notice:  Undefined variable: row in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:47:52 Europe/Madrid] PHP Notice:  Array to string conversion in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 49
+[15-Jan-2016 10:55:12 Europe/Madrid] PHP Notice:  Use of undefined constant UL - assumed 'UL' in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 28
+[15-Jan-2016 10:55:16 Europe/Madrid] PHP Notice:  Use of undefined constant UL - assumed 'UL' in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 28
+[15-Jan-2016 10:55:22 Europe/Madrid] PHP Notice:  Use of undefined constant UL - assumed 'UL' in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 28
+[15-Jan-2016 10:55:22 Europe/Madrid] PHP Notice:  Use of undefined constant UL - assumed 'UL' in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 28
+[15-Jan-2016 10:55:23 Europe/Madrid] PHP Notice:  Use of undefined constant UL - assumed 'UL' in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 28
+[15-Jan-2016 10:56:12 Europe/Madrid] PHP Notice:  Undefined index: search in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 5
+[15-Jan-2016 09:57:18 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE) in /home/sczhmszf/public_html/core/ajax/searchchamps.php on line 37
+[15-Jan-2016 18:12:06 Europe/Madrid] PHP Warning:  reset() expects parameter 1 to be array, null given in /home/sczhmszf/public_html/core/class.php on line 490
+[15-Jan-2016 18:12:06 Europe/Madrid] PHP Warning:  Variable passed to each() is not an array or object in /home/sczhmszf/public_html/core/class.php on line 492
+[16-Jan-2016 22:52:40 Europe/Madrid] PHP Fatal error:  Call to undefined function mmr() in /home/sczhmszf/public_html/core/ajax/mmr.php on line 7
+[17-Jan-2016 19:12:37 Europe/Madrid] PHP Fatal error:  Call to undefined function mmr() in /home/sczhmszf/public_html/core/ajax/mmr.php on line 7
+[18-Jan-2016 09:56:53 Europe/Madrid] PHP Fatal error:  Call to undefined function mmr() in /home/sczhmszf/public_html/core/ajax/mmr.php on line 7
+[18-Jan-2016 12:24:13 Europe/Madrid] PHP Notice:  Undefined offset: 1 in /home/sczhmszf/public_html/core/class.php on line 550
+[19-Jan-2016 15:23:35 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/45924779/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:43:13 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 444
+[20-Jan-2016 09:43:13 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:13 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:13 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:13 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:16 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 444
+[20-Jan-2016 09:43:16 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:16 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:16 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:16 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:17 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 444
+[20-Jan-2016 09:43:17 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:17 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:17 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:17 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[20-Jan-2016 09:43:20 Europe/Madrid] [readjson] RATE_LIMIT_EXCEED: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2483092236?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:43:20 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2483092236) of (euw).
+[20-Jan-2016 09:43:41 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2481785096?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'matchVersion' in /home/sczhmszf/public_html/core/class.php on line 453
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'season' in /home/sczhmszf/public_html/core/class.php on line 454
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 457
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 459
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 459
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 460
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'winner' in /home/sczhmszf/public_html/core/class.php on line 460
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 466
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 466
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 468
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBlood' in /home/sczhmszf/public_html/core/class.php on line 468
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 475
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 475
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 476
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 476
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 478
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstTower' in /home/sczhmszf/public_html/core/class.php on line 478
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 485
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 485
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 486
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 486
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 488
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstInhibitor' in /home/sczhmszf/public_html/core/class.php on line 488
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 495
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 495
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 496
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 496
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 498
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBaron' in /home/sczhmszf/public_html/core/class.php on line 498
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 505
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 505
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 506
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 506
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 508
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstDragon' in /home/sczhmszf/public_html/core/class.php on line 508
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 515
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 515
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 516
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 516
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 518
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstRiftHerald' in /home/sczhmszf/public_html/core/class.php on line 518
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 525
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 525
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 526
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 526
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'towerKills' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'inhibitorKills' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'baronKills' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'dragonKills' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'riftHeraldKills' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 457
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 550
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 553
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 553
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 579
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 579
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 580
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'spell1Id' in /home/sczhmszf/public_html/core/class.php on line 580
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 581
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'spell2Id' in /home/sczhmszf/public_html/core/class.php on line 581
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 582
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'championId' in /home/sczhmszf/public_html/core/class.php on line 582
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 583
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 583
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 591
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participantId' in /home/sczhmszf/public_html/core/class.php on line 591
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 592
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 592
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBloodKill' in /home/sczhmszf/public_html/core/class.php on line 592
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 600
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 600
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBloodAssist' in /home/sczhmszf/public_html/core/class.php on line 600
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 608
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 608
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstTowerKill' in /home/sczhmszf/public_html/core/class.php on line 608
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 616
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 616
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstTowerAssist' in /home/sczhmszf/public_html/core/class.php on line 616
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 624
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 624
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstInhibitorKill' in /home/sczhmszf/public_html/core/class.php on line 624
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 632
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 632
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'firstInhibitorAssist' in /home/sczhmszf/public_html/core/class.php on line 632
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 641
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 641
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 641
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 649
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 649
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 649
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 670
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 670
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 698
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 698
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 714
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 714
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'winner' in /home/sczhmszf/public_html/core/class.php on line 714
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 721
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 721
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 723
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 723
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'champLevel' in /home/sczhmszf/public_html/core/class.php on line 723
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 725
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 725
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item0' in /home/sczhmszf/public_html/core/class.php on line 725
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 726
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 726
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item1' in /home/sczhmszf/public_html/core/class.php on line 726
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 727
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 727
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item2' in /home/sczhmszf/public_html/core/class.php on line 727
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 728
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 728
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item3' in /home/sczhmszf/public_html/core/class.php on line 728
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 729
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 729
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item4' in /home/sczhmszf/public_html/core/class.php on line 729
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 730
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 730
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item5' in /home/sczhmszf/public_html/core/class.php on line 730
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 731
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 731
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'item6' in /home/sczhmszf/public_html/core/class.php on line 731
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 733
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 733
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'kills' in /home/sczhmszf/public_html/core/class.php on line 733
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 734
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 734
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'deaths' in /home/sczhmszf/public_html/core/class.php on line 734
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 735
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 735
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'assists' in /home/sczhmszf/public_html/core/class.php on line 735
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 736
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 736
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'doubleKills' in /home/sczhmszf/public_html/core/class.php on line 736
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 737
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 737
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'tripleKills' in /home/sczhmszf/public_html/core/class.php on line 737
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 738
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 738
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'quadraKills' in /home/sczhmszf/public_html/core/class.php on line 738
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 739
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 739
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'pentaKills' in /home/sczhmszf/public_html/core/class.php on line 739
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 740
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 740
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'unrealKills' in /home/sczhmszf/public_html/core/class.php on line 740
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 741
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 741
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'largestKillingSpree' in /home/sczhmszf/public_html/core/class.php on line 741
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 742
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 742
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'totalDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 742
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 743
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 743
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'magicDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 743
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 744
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 744
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'physicalDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 744
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 745
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 745
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'trueDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 745
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 746
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 746
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'totalDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 746
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 747
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 747
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'magicDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 747
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 748
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 748
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'physicalDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 748
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 749
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 749
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'trueDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 749
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 750
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 750
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'totalDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 750
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 751
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 751
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'largestCriticalStrike' in /home/sczhmszf/public_html/core/class.php on line 751
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 752
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 752
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'totalHeal' in /home/sczhmszf/public_html/core/class.php on line 752
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 753
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 753
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'minionsKilled' in /home/sczhmszf/public_html/core/class.php on line 753
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 755
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 755
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 755
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 759
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 759
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 759
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 763
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 763
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 763
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 767
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 767
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'goldEarned' in /home/sczhmszf/public_html/core/class.php on line 767
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 768
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 768
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'goldSpent' in /home/sczhmszf/public_html/core/class.php on line 768
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 776
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 776
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'visionWardsBoughtInGame' in /home/sczhmszf/public_html/core/class.php on line 776
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 777
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 777
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'sightWardsBoughtInGame' in /home/sczhmszf/public_html/core/class.php on line 777
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 778
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 778
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'sightWardsBoughtInGame' in /home/sczhmszf/public_html/core/class.php on line 778
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 779
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 779
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'magicDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 779
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 780
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 780
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'physicalDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 780
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 781
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 781
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'trueDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 781
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 782
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 782
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'inhibitorKills' in /home/sczhmszf/public_html/core/class.php on line 782
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 783
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 783
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'towerKills' in /home/sczhmszf/public_html/core/class.php on line 783
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 784
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 784
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'wardsPlaced' in /home/sczhmszf/public_html/core/class.php on line 784
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 785
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 785
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'wardsKilled' in /home/sczhmszf/public_html/core/class.php on line 785
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 786
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 786
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'killingSprees' in /home/sczhmszf/public_html/core/class.php on line 786
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 787
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 787
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'totalUnitsHealed' in /home/sczhmszf/public_html/core/class.php on line 787
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 788
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 788
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'totalTimeCrowdControlDealt' in /home/sczhmszf/public_html/core/class.php on line 788
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 791
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 791
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 550
+[20-Jan-2016 09:43:41 Europe/Madrid] PHP Warning:  Illegal string offset 'matchDuration' in /home/sczhmszf/public_html/core/class.php on line 810
+[20-Jan-2016 09:44:13 Europe/Madrid] [readjson] RATE_LIMIT_EXCEED: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2481550009?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:44:13 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2481550009) of (euw).
+[20-Jan-2016 09:44:21 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2481804917?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'matchVersion' in /home/sczhmszf/public_html/core/class.php on line 453
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'season' in /home/sczhmszf/public_html/core/class.php on line 454
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 457
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 459
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 459
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 460
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'winner' in /home/sczhmszf/public_html/core/class.php on line 460
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 466
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 466
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 468
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBlood' in /home/sczhmszf/public_html/core/class.php on line 468
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 475
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 475
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 476
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 476
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 478
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstTower' in /home/sczhmszf/public_html/core/class.php on line 478
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 485
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 485
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 486
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 486
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 488
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstInhibitor' in /home/sczhmszf/public_html/core/class.php on line 488
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 495
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 495
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 496
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 496
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 498
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBaron' in /home/sczhmszf/public_html/core/class.php on line 498
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 505
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 505
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 506
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 506
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 508
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstDragon' in /home/sczhmszf/public_html/core/class.php on line 508
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 515
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 515
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 516
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 516
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 518
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstRiftHerald' in /home/sczhmszf/public_html/core/class.php on line 518
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 525
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 525
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 526
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 526
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'towerKills' in /home/sczhmszf/public_html/core/class.php on line 528
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'inhibitorKills' in /home/sczhmszf/public_html/core/class.php on line 529
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'baronKills' in /home/sczhmszf/public_html/core/class.php on line 532
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'dragonKills' in /home/sczhmszf/public_html/core/class.php on line 533
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'riftHeraldKills' in /home/sczhmszf/public_html/core/class.php on line 534
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teams' in /home/sczhmszf/public_html/core/class.php on line 457
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 550
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 553
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 553
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 560
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 579
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 579
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 580
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'spell1Id' in /home/sczhmszf/public_html/core/class.php on line 580
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 581
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'spell2Id' in /home/sczhmszf/public_html/core/class.php on line 581
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 582
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'championId' in /home/sczhmszf/public_html/core/class.php on line 582
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 583
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 583
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 591
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participantId' in /home/sczhmszf/public_html/core/class.php on line 591
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 592
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 592
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBloodKill' in /home/sczhmszf/public_html/core/class.php on line 592
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 600
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 600
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstBloodAssist' in /home/sczhmszf/public_html/core/class.php on line 600
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 608
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 608
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstTowerKill' in /home/sczhmszf/public_html/core/class.php on line 608
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 616
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 616
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstTowerAssist' in /home/sczhmszf/public_html/core/class.php on line 616
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 624
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 624
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstInhibitorKill' in /home/sczhmszf/public_html/core/class.php on line 624
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 632
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 632
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'firstInhibitorAssist' in /home/sczhmszf/public_html/core/class.php on line 632
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 641
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 641
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 641
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 645
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 649
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 649
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 649
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'timeline' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'lane' in /home/sczhmszf/public_html/core/class.php on line 654
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 670
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 670
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 698
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 698
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 714
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 714
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'winner' in /home/sczhmszf/public_html/core/class.php on line 714
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 721
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'teamId' in /home/sczhmszf/public_html/core/class.php on line 721
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 723
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 723
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'champLevel' in /home/sczhmszf/public_html/core/class.php on line 723
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 725
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 725
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item0' in /home/sczhmszf/public_html/core/class.php on line 725
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 726
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 726
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item1' in /home/sczhmszf/public_html/core/class.php on line 726
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 727
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 727
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item2' in /home/sczhmszf/public_html/core/class.php on line 727
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 728
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 728
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item3' in /home/sczhmszf/public_html/core/class.php on line 728
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 729
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 729
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item4' in /home/sczhmszf/public_html/core/class.php on line 729
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 730
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 730
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item5' in /home/sczhmszf/public_html/core/class.php on line 730
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 731
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 731
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'item6' in /home/sczhmszf/public_html/core/class.php on line 731
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 733
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 733
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'kills' in /home/sczhmszf/public_html/core/class.php on line 733
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 734
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 734
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'deaths' in /home/sczhmszf/public_html/core/class.php on line 734
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 735
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 735
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'assists' in /home/sczhmszf/public_html/core/class.php on line 735
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 736
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 736
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'doubleKills' in /home/sczhmszf/public_html/core/class.php on line 736
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 737
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 737
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'tripleKills' in /home/sczhmszf/public_html/core/class.php on line 737
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 738
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 738
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'quadraKills' in /home/sczhmszf/public_html/core/class.php on line 738
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 739
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 739
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'pentaKills' in /home/sczhmszf/public_html/core/class.php on line 739
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 740
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 740
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'unrealKills' in /home/sczhmszf/public_html/core/class.php on line 740
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 741
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 741
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'largestKillingSpree' in /home/sczhmszf/public_html/core/class.php on line 741
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 742
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 742
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'totalDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 742
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 743
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 743
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'magicDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 743
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 744
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 744
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'physicalDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 744
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 745
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 745
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'trueDamageDealt' in /home/sczhmszf/public_html/core/class.php on line 745
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 746
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 746
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'totalDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 746
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 747
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 747
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'magicDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 747
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 748
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 748
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'physicalDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 748
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 749
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 749
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'trueDamageDealtToChampions' in /home/sczhmszf/public_html/core/class.php on line 749
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 750
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 750
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'totalDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 750
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 751
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 751
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'largestCriticalStrike' in /home/sczhmszf/public_html/core/class.php on line 751
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 752
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 752
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'totalHeal' in /home/sczhmszf/public_html/core/class.php on line 752
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 753
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 753
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'minionsKilled' in /home/sczhmszf/public_html/core/class.php on line 753
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 755
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 755
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 755
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 759
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 759
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 759
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 763
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 763
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 763
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 767
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 767
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'goldEarned' in /home/sczhmszf/public_html/core/class.php on line 767
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 768
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 768
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'goldSpent' in /home/sczhmszf/public_html/core/class.php on line 768
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 776
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 776
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'visionWardsBoughtInGame' in /home/sczhmszf/public_html/core/class.php on line 776
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 777
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 777
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'sightWardsBoughtInGame' in /home/sczhmszf/public_html/core/class.php on line 777
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 778
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 778
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'sightWardsBoughtInGame' in /home/sczhmszf/public_html/core/class.php on line 778
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 779
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 779
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'magicDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 779
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 780
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 780
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'physicalDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 780
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 781
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 781
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'trueDamageTaken' in /home/sczhmszf/public_html/core/class.php on line 781
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 782
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 782
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'inhibitorKills' in /home/sczhmszf/public_html/core/class.php on line 782
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 783
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 783
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'towerKills' in /home/sczhmszf/public_html/core/class.php on line 783
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 784
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 784
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'wardsPlaced' in /home/sczhmszf/public_html/core/class.php on line 784
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 785
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 785
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'wardsKilled' in /home/sczhmszf/public_html/core/class.php on line 785
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 786
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 786
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'killingSprees' in /home/sczhmszf/public_html/core/class.php on line 786
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 787
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 787
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'totalUnitsHealed' in /home/sczhmszf/public_html/core/class.php on line 787
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 788
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'stats' in /home/sczhmszf/public_html/core/class.php on line 788
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'totalTimeCrowdControlDealt' in /home/sczhmszf/public_html/core/class.php on line 788
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 791
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  array_key_exists() expects parameter 2 to be array, string given in /home/sczhmszf/public_html/core/class.php on line 791
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'participants' in /home/sczhmszf/public_html/core/class.php on line 550
+[20-Jan-2016 09:44:21 Europe/Madrid] PHP Warning:  Illegal string offset 'matchDuration' in /home/sczhmszf/public_html/core/class.php on line 810
+[20-Jan-2016 09:44:22 Europe/Madrid] [readjson] RATE_LIMIT_EXCEED: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2481791497?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:44:22 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2481791497) of (euw).
+[20-Jan-2016 09:44:33 Europe/Madrid] [readjson] RATE_LIMIT_EXCEED: https://euw.api.pvp.net/api/lol/euw/v2.2/match/2470456275?includeTimeline=true&api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[20-Jan-2016 09:44:33 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2470456275) of (euw).
+[22-Jan-2016 13:13:40 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/44229558,66593498/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[22-Jan-2016 13:14:04 Europe/Madrid] [readjson] NOT_FOUND: https://euw.api.pvp.net/api/lol/euw/v2.5/league/by-summoner/66593498/entry?api_key=1375edea-27ad-4f0a-80b0-e38402eaa69e
+[22-Jan-2016 13:14:06 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 444
+[22-Jan-2016 13:14:06 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:06 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:06 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:06 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:07 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 444
+[22-Jan-2016 13:14:07 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:07 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:07 Europe/Madrid] PHP Notice:  Undefined index: fellowPlayers in /home/sczhmszf/public_html/core/class.php on line 557
+[22-Jan-2016 13:14:07 Europe/Madrid] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/core/class.php on line 557
+[23-Jan-2016 13:57:33 Europe/Madrid] PHP Fatal error:  Call to undefined function mmr() in /home/sczhmszf/public_html/core/ajax/mmr.php on line 7
+[25-Jan-2016 19:18:56 Europe/Madrid] RATE_LIMIT_EXCEED: Could not load matchinfo of the game ID (2491827453) of (euw).

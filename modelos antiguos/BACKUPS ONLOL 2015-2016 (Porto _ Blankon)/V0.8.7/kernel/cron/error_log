@@ -1,0 +1,6 @@
+[14-Apr-2016 16:00:08 UTC] [readjson] API_ERROR [500]: http://status.leagueoflegends.com/shards/jp
+[14-Apr-2016 16:00:08 UTC] PHP Notice:  Use of undefined constant URL - assumed 'URL' in /home/sczhmszf/public_html/kernel/class/onlol.php on line 130
+[14-Apr-2016 16:00:08 UTC] PHP Notice:  Undefined index: HTTP_HOST in /home/sczhmszf/public_html/kernel/class/onlol.php on line 130
+[14-Apr-2016 16:00:08 UTC] PHP Notice:  Undefined index: REQUEST_URI in /home/sczhmszf/public_html/kernel/class/onlol.php on line 130
+[14-Apr-2016 16:00:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/sczhmszf/public_html/kernel/cron/shards.php on line 14
+[15-Apr-2016 04:00:34 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/sczhmszf/public_html/kernel/cron/game_champ_stats.php on line 11
